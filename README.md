@@ -1,4 +1,4 @@
-# Jupyter Datasets
+# Jupyter Surveys
 
 This repository contains datasets and surveys collected by Project Jupyter and IPython.
 
@@ -14,12 +14,20 @@ directory. In that directory, please create a new `README.md` file with a short 
 
 You may also wish to provide information about how to cite the dataset, such as a DOI. If you do not have a DOI, you can obtain one by uploading the dataset to a service such as [Zenodo](http://zenodo.org/).
 
+Jupyter user surveys
+====================
+Materials for and results from Jupyter user surveys.
+
+We ran a Jupyter Notebook UX survey in 2015 and a Jupyter in Education survey in 2016.
+- [2015 survey results](tbd)
+- [2016 survey results](tbd)
+
 IPython user surveys
 ====================
 
-Materials for and results from user surveys.
+Materials for and results from IPython user surveys.
 
-So far, we have run user surveys in 2011 and 2013. The writeups are also on the
+We ran IPython user surveys in 2011 and 2013 and the results are included in this repo. The writeups are also on the
 IPython website:
 
 - [2011 survey results](http://ipython.org/usersurvey2011.html)

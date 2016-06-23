@@ -1,6 +1,6 @@
 # Jupyter Datasets
 
-This repository contains datasets and surveys collected by Project Jupyter.
+This repository contains datasets and surveys collected by Project Jupyter and IPython.
 
 ## Adding data to this repository
 
@@ -13,6 +13,17 @@ directory. In that directory, please create a new `README.md` file with a short 
 * What the population was (if human data), where the code can be found (if simulated data), or other relevant information about the source of the data
 
 You may also wish to provide information about how to cite the dataset, such as a DOI. If you do not have a DOI, you can obtain one by uploading the dataset to a service such as [Zenodo](http://zenodo.org/).
+
+IPython user surveys
+====================
+
+Materials for and results from user surveys.
+
+So far, we have run user surveys in 2011 and 2013. The writeups are also on the
+IPython website:
+
+- [2011 survey results](http://ipython.org/usersurvey2011.html)
+- [2013 survey results](http://ipython.org/usersurvey2013.html)
 
 ## Licensing
 

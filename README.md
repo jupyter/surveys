@@ -16,11 +16,11 @@ You may also wish to provide information about how to cite the dataset, such as 
 
 Jupyter user surveys
 ====================
+
 Materials for and results from Jupyter user surveys.
 
-We ran a Jupyter Notebook UX survey in 2015 and a Jupyter in Education survey in 2016.
-- [2015 survey results](tbd)
-- [2016 survey results](tbd)
+- [May, 2016 Jupyter in Education results](surveys/2016-05-education-survey)
+- [December, 2015 Notebook UX survey results](surveys/2015-12-notebook-ux)
 
 IPython user surveys
 ====================

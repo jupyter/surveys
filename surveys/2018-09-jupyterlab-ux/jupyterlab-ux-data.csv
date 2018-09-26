@@ -1,0 +1,281 @@
+Code,Test,Tab,Center,L/B,Task,ST,CT,ToT,Init,CFA,aCFA,FS,FCA,CEDZ,Notes,source,target,position
+TacoBullMonsterSurf,6,N,Y,B,1-2,2:22,2:29,7.0,G to RTDZ,G to RTDZ,G to TEDZ,0.0,,,Would have landed in TaDZ.,G,R,T
+PopeyeVeganMonkeyMoogle,2,Y,Y,B,4-1,3:51,4:02,11.0,G to BBDZ,G to BEDZ,,1.0,G to BEDZ,Y,Went to middle to find EDZ,G,B,B
+FalseDonkey,1,Y,Y,L,4-1,4:12,4:44,32.0,G to REDZ,G to BEDZ,,2.0,Messy Reorganize,Y,"Went to middle for EDZ. Tried to find EDZ, but it was too small. Kept hitting EDZ on accident.",G,E,R
+SimpleNeptuneMachineDamage,5,N,Y,L,4-1,3:35,3:41,6.0,G to BEDZ,G to BEDZ,,0.0,,Y,Went to center for EDZ,G,E,B
+HelloGoodbyeHelloHugo,4,Y,N,B,1-2,2:08,2:20,12.0,G to RTaDZ,G to RBDZ,,1.0,G to RTDZ,,"Was confused about how drop zones worked, felt the need to go backwards in order to accomplish task.",G,R,Ta
+DieselRomeoRobotCoffee,6,N,Y,B,4-1,2:52,3:07,15.0,G to BEDZ,G to BEDZ,,0.0,,Y,Wants more space for edge drop zones.,G,E,B
+CrimpleBeckAntiqueCake,6,N,Y,B,3-1,2:53,3:15,22.0,G to BCDZ,G to BCDZ,,0.0,,,Visual (Box) indication was how he figured this one out.,G,B,C
+SuperRobotMonkeyTeam,2,Y,Y,B,1-1,1:29,1:46,17.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,Verbose,G,R,R
+abcdefghijklmnop,5,N,Y,L,1-2,1:34,1:48,14.0,R to RBDZ,G to RTDZ,G to TEDZ,1.0,Green to TEDZ,,Tried to drop red into itself to split top/bottom,R,R,B
+KaoSitiSada,5,N,Y,L,3-1,3:07,5:11,124.0,G to BLDZ,G to BCDZ,,2.0,Cut off.,,Tried TaDZ 32 times,G,B,L
+ILikeJupyterCon,3,Y,N,L,4-1,3:24,4:09,45.0,G to RBDZ,G to BEDZ,,2.0,,,Tried Tactic #1. Fumbled around a lot.,G,R,B
+CILO,4,Y,N,B,4-1,3:31,4:29,58.0,G to RBDZ,G to BEDZ,,2.0,Never found Edge Drop Zone,,Tried tactic #1,G,R,B
+TacoBullMonsterSurf,6,N,Y,B,3-1,3:36,5:10,94.0,G to BTaDZ,G to BCDZ,,2.0,Gave up,,Tried tab 17 times and gave up. ,G,B,Ta
+NoMilkForSally,1,Y,Y,L,1-1,2:00,2:41,41.0,Resize Chrome Window,G to RRDZ,G to REDZ,2.0,G to RRDZ,,Tried Double Clicking,,,
+SuperSecretCodePhrase,2,Y,Y,B,5-1,5:00,5:06,6.0,G to REDZ,G to REDZ,,0.0,,,Took extra time to explore,G,E,R
+HamSandwichRightNow,6,N,Y,B,3-2,2:46,3:17,31.0,R to GCDZ,,,0.0,Reorded tabs,,Took a second to realize he was out of order.,R,G,C
+StoreCatHiddenFacts,3,Y,N,L,1-1,1:27,2:29,62.0,G to RLDZ,G to RRDZ,G to REDZ,2.0,G to RRDZ,,Takes his time and talks everything out. Constantly over-explaining. ,G,R,L
+KaoSitiSada,5,N,Y,L,2-1,2:33,2:55,22.0,G to BEDZ,G to BBDZ,,2.0,G to BBDZ,,Tactic #1,G,E,B
+JupyterConNewYork,6,N,Y,B,4-1,3:49,4:46,57.0,G to RBDZ,G to BEDZ,,2.0,"G to BBDZ, B to BLDZ",,Tactic #1,G,R,B
+KaoSitiSada,5,N,Y,L,4-1,6:28,7:11,43.0,G to RBDZ,G to BEDZ,,2.0,Nested to organized,,Tactic #1,G,R,B
+IAmTheWinner,4,Y,N,B,4-1,4:38,5:08,30.0,G to RBDZ,G to BEDZ,,2.0,Reorganized tabs inside each other,,Tactic #1,G,R,B
+JupyterhubUpgradePsychosisAgent,5,N,Y,L,3-2,3:07,3:22,15.0,G to RTaDZ,,,1.0,G to RCDZ,,"Started with tab, found cetners again easily.",G,R,Ta
+CrimpleBeckAntiqueCake,6,N,Y,B,3-2,3:31,3:53,22.0,R to BCDZ,,,0.0,"Docked red, thenorganized",,"Small SNAFU when re-ordering tabs. Known problem - When re-ordering tabs, if you move outside tab zone it moves to 'move' mode instead of re-order mode.",R,B,C
+FalseDonkey,1,Y,Y,L,1-1,1:33,1:53,20.0,R to RLDZ,G to RRDZ,G to REDZ,1.0,G to REDZ,,"Right Idea, wrong order",R,R,L
+AriEbenPokiSushi,5,N,Y,L,3-1,4:06,5:18,72.0,G to BTaDZ,G to BCDZ,,2.0,,,Repeatedly dropped into tab.,G,B,Ta
+JupyterhubUpgradePsychosisAgent,5,N,Y,L,3-1,2:18,2:49,31.0,B to BTaDZ,G to BCDZ,,2.0,B to GCDZ,,Really looking for TA DZ,B,B,Ta
+AriEbenPokiSushi,5,N,Y,L,1-1,1:47,2:46,59.0,R to TEDZ,G to RRDZ,G to REDZ,2.0,Green to LLDZ,,Pressed cmd + Left to split horzontal,R,E,T
+TacoBullMonsterSurf,6,N,Y,B,3-2,5:12,6:20,68.0,G to RTaDZ,,,2.0,CDZ and organize,,"On finding CDZ ""Oh... Really... Ok."" dropeed on tabs an additional 12 times",G,R,Ta
+HelloThereFriendWorld,5,N,Y,L,3-2,4:23,Skip,,R to GTaDZ,,,2.0,None,,Noticed insertion lines. Dropped on tab an additional 23 times before giving up.,R,G,Ta
+DieselRomeoRobotCoffee,6,N,Y,B,3-1,2:11,2:22,11.0,G to BCDZ,G to BCDZ,,0.0,,,Notes docking protocol is 'better now' it's identical to existing behavior.,G,B,C
+ILikeJupyterCon,3,Y,N,L,3-2,3:08,3:13,5.0,G to RTaDZ,,,0.0,,,No need to reorder,G,R,Ta
+KaoSitiSada,5,N,Y,L,4-2,7:13,7:32,19.0,G to RTDZ,G to TEDZ,,2.0,Nested to organized,,NO EDZ,G,R,T
+ILikeJupyterCon,3,Y,N,L,4-2,4:15,4:34,19.0,G to RTaDZ,G to TEDZ,,2.0,Reorganize within panes.,,No Edge DZs,G,R,Ta
+GiraffeEatsAnOrange,4,Y,N,B,4-1,3:42,4:05,23.0,G to RTaDZ,G to BEDZ,,2.0,Reorganized to match.,,No edge Drop zone,G,R,Ta
+GiraffeEatsAnOrange,4,Y,N,B,4-2,4:10,4:36,26.0,G to GTDZ,G to TEDZ,,2.0,Reorganized to match.,,No edge Drop zone,G,G,T
+HelloThereFriendWorld,5,N,Y,L,4-1,6:26,7:15,49.0,R to REDZ,G to BEDZ,,2.0,Reorganized in-tab DZs,,Never used EDZ,R,E,R
+DogHousePoolShed,2,Y,Y,B,3-2,2:58,3:30,32.0,R to BCDZ,,,0.0,,,"Never ordered, doesn't like the size of center drop zone. Didn't use Tab drop zones",R,B,C
+StoreCatHiddenFacts,3,Y,N,L,4-1,6:06,6:14,8.0,G to BEDS,G to BEDZ,,0.0,,Y,Moves to center for EDZ,G,E,B
+LauraSuttle,3,Y,N,L,1-2,1:38,1:46,8.0,G to RTaDZ,G to RTDZ,G to TEDZ,1.0,R to GBDZ,,Missed TEDZ with green.,G,R,Ta
+SteveIsTheBest,3,Y,N,L,3-2,3:45,4:27,42.0,G to TEDZ,,,1.0,"Dock, Organize",,"Missed TaDZ, ""That is not intuitive, the blue bar vs the blue bar with the down arrow, not intuitive to me at all.""",G,E,T
+KaoSitiSada,5,N,Y,L,3-2,5:55,6:18,23.0,R to GTDZ,,,1.0,CDZ's to Reorganize.,,Missed TaDZ,R,G,T
+GiraffeEatsAnOrange,4,Y,N,B,3-2,3:18,,1242.0,B to RTaDZ,,,0.0,"G to RTaDZ, reorganize",,"Missed tab drop zone, quickly recovered.",B,R,Ta
+SimpleNeptuneMachineDamage,5,N,Y,L,3-2,2:58,3:24,26.0,R to GTaDZ,,,1.0,"R to GCDZ, organize",,Missed center dropzone,R,G,Ta
+PopeyeVeganMonkeyMoogle,2,Y,Y,B,4-2,4:15,4:20,5.0,G to TEDZ,G to TEDZ,,0.0,,,middle for EDZ,G,E,T
+WalkRunCrawlFly,3,Y,N,L,4-1,3:43,3:52,9.0,G to RBDZ,G to BEDZ,,1.0,G to BEDZ,,Looks to middle for EDZ,G,R,B
+WalkRunCrawlFly,3,Y,N,L,4-2,3:58,4:07,9.0,G to TEDZ,G to TEDZ,,0.0,,,Looks to middle for EDZ,G,E,T
+WalkRunCrawlFly,3,Y,N,L,5-1,4:17,4:22,5.0,G to REDZ,G to REDZ,,0.0,,,Looks to middle for EDZ,G,E,R
+SuperRobotMonkeyTeam,2,Y,Y,B,4-1,3:30,3:44,14.0,G to BEDZ,G to BEDZ,,0.0,,,Looks to center for EDZ,G,E,B
+FunToBeMe,1,Y,Y,L,5-1,3:47,3:57,10.0,G to RRDZ,G to REDZ,,1.0,G to REDZ,,Looks like user was going for EDZ but missed.,G,R,R
+DogHousePoolShed,2,Y,Y,B,5-1,4:51,5:02,11.0,G to REDZ,G to REDZ,,0.0,,,Looking for wider padding on side drop zones,G,E,R
+DieselRomeoRobotCoffee,6,N,Y,B,5-1,3:28,3:44,16.0,G to REDZ,G to REDZ,,0.0,,,Looking for Middle drop on edge zones,G,E,R
+DogHousePoolShed,2,Y,Y,B,4-2,4:12,4:35,23.0,G to TEDZ,G to TEDZ,,0.0,,,Looking for 'middle edge' drop zones.,G,E,T
+AriEbenPokiSushi,5,N,Y,L,5-1,6:03,6:15,12.0,G to REDZ,G to REDZ,,0.0,,,Looked for REDZ in 'middle',G,E,R
+DieselRomeoRobotCoffee,6,N,Y,B,3-2,2:26,2:40,14.0,G to RCDZ,,,0.0,Green over then blue. Efficent,,"Looked first for tab drop zones, goes to middle when Can't find",G,R,C
+IAmMrAnnonymous,3,Y,N,L,1-1,1:26,1:41,15.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,Liked insertion lines,G,R,R
+HamSandwichRightNow,6,N,Y,B,5-1,4:05,4:11,6.0,G to REDZ,G to REDZ,,0.0,,,Lamented small EDZ,G,E,R
+FalseDonkey,1,Y,Y,L,1-2,2:07,2:48,41.0,R to RRDZ,G to RTDZ,G to TEDZ,2.0,G to TEDZ,,"Kept dropping a single tab in it's own drop zones. Center DZ was confusing. ""I have no idea how I did it""",R,R,R
+HelloGoodbyeHelloHugo,4,Y,N,B,4-2,4:42,5:13,31.0,G to TEDZ,G to TEDZ,,0.0,,,Had trouble finding top EDZ. Tends to center for Edge DZ,G,E,T
+abcdefghijklmnop,5,N,Y,L,3-2,2:28,2:46,18.0,R to GMDZ,,,0.0,,,Had no trouble re-ordering tabs.,,,
+JupyterhubUpgradePsychosisAgent,5,N,Y,L,2-1,1:58,2:08,10.0,G to BCDZ,G to BBDZ,,1.0,G to BBDZ,,"Going for BBDZ, missed and hit center DZ",G,B,C
+CrimpleBeckAntiqueCake,6,N,Y,B,4-1,4:11,4:28,17.0,G to BEDZ,G to BEDZ,,0.0,,,Goes for middle at edge,G,E,B
+CrimpleBeckAntiqueCake,6,N,Y,B,4-2,4:38,4:51,13.0,G to TEDZ,G to TEDZ,,0.0,,,Goes for middle at edge,G,E,T
+CrimpleBeckAntiqueCake,6,N,Y,B,5-1,5:07,5:17,10.0,G to REDZ,G to REDZ,,0.0,,,Goes for middle at edge,G,E,R
+StoreCatHiddenFacts,3,Y,N,L,1-2,2:33,2:43,10.0,G to TEDZ,G to RTDZ,G to TEDZ,0.0,,,Gets it and takes another two minutes to mess around.,G,E,T
+DogHousePoolShed,2,Y,Y,B,4-1,3:35,4:05,30.0,G to BEDZ,G to BEDZ,,0.0,,,Fumbled to find edge drop zone,G,E,B
+HelloThereFriendWorld,5,N,Y,L,3-1,2:47,4:07,80.0,G to BTaDZ,G to BCDZ,,2.0,Lucked into CDZ,,Fumbled for center drop zone a long time. Dropped on tab around 30 times.,G,B,Ta
+AriEbenPokiSushi,5,N,Y,L,3-2,5:22,5:37,15.0,G to RTDZ,,,2.0,,,Fumbled around looking for center.,G,R,T
+IAmMrAnnonymous,3,Y,N,L,3-1,2:55,3:03,8.0,G to BTaDZ,G to BTaDZ,,0.0,,,Found Tab drop zone.,G,B,Ta
+IAmTheWinner,4,Y,N,B,5-1,6:08,6:32,24.0,G to RRDZ,G to REDZ,,2.0,,,Found EDZ's after test.,G,R,R
+HelloThereFriendWorld,5,N,Y,L,5-1,7:31,7:40,9.0,G to REDZ,G to REDZ,,0.0,,,Found Edge Drop zones.,G,E,R
+TacoBullMonsterSurf,6,N,Y,B,1-1,1:49,2:07,18.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,First mistake because not proficient with trackpads.,G,R,R
+FoodChancesUnderwaterClod,4,Y,N,B,5-1,3:49,3:54,5.0,F to REDZ,G to REDZ,,0.0,,,Edge DZ's a bit too small ,F,E,R
+HelloGoodbyeHelloHugo,4,Y,N,B,4-1,4:05,4:35,30.0,G to BEDZ,G to BEDZ,,0.0,"Figured out early, was testing further.",,Doesn't like how small the edge drop zone is.,G,E,B
+HelloThereFriendWorld,5,N,Y,L,2-1,2:15,2:34,19.0,G to BCDZ,G to BBDZ,,2.0,B to GTDZ,,Docked first then split.,G,B,C
+GiraffeEatsAnOrange,4,Y,N,B,3-1,2:48,3:11,23.0,B to RTaDZ,G to BTaDZ,,1.0,"G to RRDZ, B to GTaDZ",,"Docked Blue then Split, moved blue back over",B,R,Ta
+SteveIsTheBest,3,Y,N,L,1-1,1:17,2:04,47.0,Right Click,G to RRDZ,G to REDZ,2.0,G to REDZ,,Didn't want to drag the tab outside the tab bar. ,,,
+FootballBaseballLittleLeague,1,Y,Y,L,1-1,2:21,2:39,18.0,G to RTDZ,G to RRDZ,G to REDZ,2.0,G to RRDZ,,Didn't seem to see insertion lines.,G,R,T
+CILO,4,Y,N,B,1-2,1:39,2:02,23.0,G to RBDZ,G to RBDZ,,0.0,,,Didn't pay attention to which color goes on top. Still made correct action.,G,R,B
+HelloThereFriendWorld,5,N,Y,L,1-1,1:24,1:52,28.0,G to RTDZ,G to RRDZ,G to REDZ,2.0,G to RRDZ,,Didn't notice insertion lines. Tried to drag by tab. Used Edge Drop Zones.,G,R,T
+AriEbenPokiSushi,5,N,Y,L,2-1,3:04,3:57,53.0,G to BEDZ,G to BBDZ,,2.0,All over the place,,Didn't map insertion lines to meaning.,G,E,B
+CILO,4,Y,N,B,4-2,4:33,5:18,45.0,G to RTaDZ,G to TEDZ,,2.0,Reorganized all tabs,,Didn't find ege zones until after.,G,R,Ta
+TacoBullMonsterSurf,6,N,Y,B,4-2,6:59,7:08,9.0,G to TEDZ,G to TEDZ,,0.0,,,Didn't find EDZ searched in Center for it.,G,E,T
+FoodChancesUnderwaterClod,4,Y,N,B,4-1,3:07,3:19,12.0,G to RBDZ,G to BEDZ,,1.0,B to RRDZ,,"Didn't find edge DZ. ""OK, that one's kind of weird""",G,R,B
+IAmTheWinner,4,Y,N,B,4-2,5:21,,1119.0,G to RTDZ,G to TEDZ,,2.0,reorganized tabs inside each other,,Couldn't find Edge Drop Zones.,G,R,T
+SteveIsTheBest,3,Y,N,L,3-1,3:04,3:12,8.0,G to BTaDZ,G to BTaDZ,,0.0,,,Confused by Tab docking highlight.,G,B,Ta
+DogHousePoolShed,2,Y,Y,B,1-2,1:48,2:09,21.0,R to RBDZ,G to RTDZ,G to TEDZ,1.0,R to GBDZ,,Confused by Boxes showing up on active box,R,R,B
+FredaMyRogerDarci,5,N,Y,L,3-1,3:58,,1202.0,,G to BCDZ,,2.0,FAIL,,"Closed Blue tab, restarted task at 3:58. Closed all tabs but blue.",,,
+TacoBullMonsterSurf,6,N,Y,B,4-1,6:45,6:55,10.0,G to BEDZ,G to BEDZ,,0.0,,,Center for EDZ,G,E,B
+MasterBranchXtensorIpyleaflet,1,Y,Y,L,1-1,1:32,1:39,7.0,G to RCDZ,G to RRDZ,G to REDZ,1.0,G to RRDZ,,Center Drop zone messsed him up.,G,R,C
+SimpleNeptuneMachineDamage,5,N,Y,L,5-1,4:01,4:07,6.0,G to REDZ,G to REDZ,,0.0,,,Center,G,E,R
+abcdefghijklmnop,5,N,Y,L,4-1,2:53,3:02,9.0,G to BDZ,G to BEDZ,,0.0,,,Believes Edge drop zones are 'middle only',,,
+JupyterhubUpgradePsychosisAgent,5,N,Y,L,4-1,3:36,3:49,13.0,G to RBDZ,G to BEDZ,,2.0,Dock B and Reorganize,,Almost hit BEDZ at first drop,G,R,B
+GiraffeEatsAnOrange,4,Y,N,B,5-1,4:48,5:12,24.0,B to RTaDZ,G to REDZ,,2.0,Reorganized to mach,,6 seconds to find REDZ on redo,B,R,Ta
+SimpleNeptuneMachineDamage,5,N,Y,L,3-1,2:31,2:52,21.0,G to BTaDZ,G to BCDZ,,2.0,G to BCDZ,,"""That was not intuitive.""",G,B,Ta
+SimpleNeptuneMachineDamage,5,N,Y,L,4-2,3:48,3:53,5.0,G to TEDZ,G to TEDZ,,0.0,,,"""So, back to the center."" (when looking for EDZ)",G,E,T
+SuperSecretCodePhrase,2,Y,Y,B,4-1,4:04,4:11,7.0,G to BEDZ,G to BEDZ,,0.0,,,"""OK have to drag exactly to this spot, not to here"", Took extra time to explore",G,E,B
+FunToBeMe,1,Y,Y,L,2-1,1:47,1:53,6.0,G to BBDZ,G to BBDZ,,0.0,,,"""Now in Labs I'm used to seeing it actually shade and shadow""",G,B,B
+DonkeyAndBabyClothes,1,Y,Y,L,1-1,1:43,2:03,20.0,G to GRDZ,G to RRDZ,G to REDZ,1.0,R to RLDZ,,"""My goodness this is not real easy""",G,G,R
+abcdefghijklmnop,5,N,Y,L,5-1,3:19,3:32,13.0,G to REDZ,G to REDZ,,0.0,"Calls REDZ ""Right Middle""",,"""It's Fiddly""",G,E,R
+WalkRunCrawlFly,3,Y,N,L,1-2,2:08,2:14,6.0,G to BEDZ,G to RTDZ,G to TEDZ,0.0,,,"""It took me a while to realize where half the screen would be covered."" Prefer's",G,E,B
+PopeyeVeganMonkeyMoogle,2,Y,Y,B,3-2,3:08,3:16,8.0,G to RTaDZ,,,0.0,B to GTaDZ,,"""I would be nice if tab drop zone communicated where the tab will fall.""",G,R,Ta
+SteveIsTheBest,3,Y,N,L,5-1,5:36,5:42,6.0,G to REDZ,G to REDZ,,0.0,,,"""I want context menus on the tab.""",G,E,R
+HelloGoodbyeHelloHugo,4,Y,N,B,5-1,5:30,5:37,7.0,G to REDZ,G to REDZ,,0.0,,,"""I think it's easy now because I figured out all the things as I was doing it.""",G,E,R
+LauraSuttle,3,Y,N,L,3-2,2:33,2:39,6.0,B to RTaDZ,,,0.0,,,"""I like this blue bar""",B,R,Ta
+PopeyeVeganMonkeyMoogle,2,Y,Y,B,2-1,2:25,2:30,5.0,G to BBDZ,G to BBDZ,,0.0,,,"""I like that when you drag them are different quadrants""",G,B,B
+FoodChancesUnderwaterClod,4,Y,N,B,4-2,3:28,3:34,6.0,G to TEDZ,G to TEDZ,,0.0,,,"""Ah, it's a little finicky""",G,E,T
+ILikeJupyterCon,3,Y,N,L,1-1,1:38,2:07,29.0,G to RTaDZ,G to RRDZ,G to REDZ,2.0,R to GLDZ,,,G,R,Ta
+KaoSitiSada,5,N,Y,L,1-1,1:46,2:15,29.0,G to RTDZ,G to RRDZ,G to REDZ,1.0,G to RRDZ,,,G,R,T
+CrimpleBeckAntiqueCake,6,N,Y,B,1-1,1:21,1:37,16.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,,G,R,R
+ThisIsGreatFun,4,Y,N,B,1-1,1:46,2:01,15.0,G to RRDZ,G to RRDZ,,0.0,,,,G,R,R
+HelloGoodbyeHelloHugo,4,Y,N,B,1-1,1:31,1:46,15.0,G to RTaDZ,G to RRDZ,,1.0,G to RRDZ,,,G,R,Ta
+JupyterConNewYork,6,N,Y,B,1-1,1:27,1:40,13.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,,G,R,R
+FredaMyRogerDarci,5,N,Y,L,1-1,1:35,1:48,13.0,G to REDZ,G to RRDZ,G to REDZ,0.0,,,,G,E,R
+WetDogOnBeach,3,Y,N,L,1-1,1:29,1:42,13.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,,G,R,R
+IAmTheWinner,4,Y,N,B,1-1,1:46,1:59,13.0,G to RRDZ,G to RRDZ,,0.0,,,,G,R,R
+CILO,4,Y,N,B,1-1,1:22,1:34,12.0,G to RRDZ,G to RRDZ,,0.0,,,,G,R,R
+DieselRomeoRobotCoffee,6,N,Y,B,1-1,1:22,1:33,11.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,,G,R,R
+PopeyeVeganMonkeyMoogle,2,Y,Y,B,1-1,1:48,1:57,9.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,,G,R,R
+WalkRunCrawlFly,3,Y,N,L,1-1,1:54,2:02,8.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,,G,R,R
+abcdefghijklmnop,5,N,Y,L,1-1,1:21,1:29,8.0,G to REDZ,G to RRDZ,G to REDZ,0.0,,,,G,E,R
+FunToBeMe,1,Y,Y,L,1-1,1:17,1:25,8.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,,G,R,R
+SimpleNeptuneMachineDamage,5,N,Y,L,1-1,1:41,1:49,8.0,G to REDZ,G to RRDZ,G to REDZ,0.0,,,,G,E,R
+GiraffeEatsAnOrange,4,Y,N,B,1-1,1:51,1:59,8.0,G to RRDZ,G to RRDZ,,0.0,,,,G,R,R
+DogHousePoolShed,2,Y,Y,B,1-1,1:35,1:42,7.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,,G,R,R
+SuperSecretCodePhrase,2,Y,Y,B,1-1,2:09,2:16,7.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,,G,R,R
+HamSandwichRightNow,6,N,Y,B,1-1,1:25,1:32,7.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,,G,R,R
+JupyterhubUpgradePsychosisAgent,5,N,Y,L,1-1,1:31,1:37,6.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,,G,R,R
+FoodChancesUnderwaterClod,4,Y,N,B,1-1,1:32,1:35,3.0,G to RRDZ,G to RRDZ,,0.0,,,,G,R,R
+LauraSuttle,3,Y,N,L,1-1,1:25,1:28,3.0,G to RRDZ,G to RRDZ,G to REDZ,0.0,,,,G,R,R
+DonkeyAndBabyClothes,1,Y,Y,L,1-2,2:12,3:02,50.0,R to REDZ,G to RTDZ,G to TEDZ,2.0,G to RTDZ from starting pt,,,R,E,R
+ThisIsGreatFun,4,Y,N,B,1-2,2:09,2:31,22.0,G to RTDZ,G to RBDZ,,0.0,,,,G,R,T
+NoMilkForSally,1,Y,Y,L,1-2,2:47,3:08,21.0,G to RTaDZ,G to RTDZ,G to TEDZ,2.0,R to RBDZ,,,G,R,Ta
+IAmMrAnnonymous,3,Y,N,L,1-2,1:50,2:09,19.0,R to RBDZ,G to RTDZ,G to TEDZ,2.0,"G to RTaDZ, R to RBDZ",,,R,R,B
+GiraffeEatsAnOrange,4,Y,N,B,1-2,2:06,2:21,15.0,G to RTaDZ,G to RBDZ,,1.0,G to RTDZ,,,G,R,Ta
+IAmTheWinner,4,Y,N,B,1-2,2:16,2:29,13.0,G to RTDZ,G to RBDZ,,0.0,,,,G,R,T
+CrimpleBeckAntiqueCake,6,N,Y,B,1-2,1:45,1:56,11.0,G to RTDZ,G to RTDZ,G to TEDZ,0.0,,,,G,R,T
+FredaMyRogerDarci,5,N,Y,L,1-2,2:08,2:19,11.0,Missed Tab,G to RTDZ,G to TEDZ,1.0,R to GBDZ,,,,,
+JupyterConNewYork,6,N,Y,B,1-2,1:50,2:00,10.0,G to RTDZ,G to RTDZ,G to TEDZ,0.0,,,,G,R,T
+HelloThereFriendWorld,5,N,Y,L,1-2,1:58,2:07,9.0,G to RTDZ,G to RTDZ,G to TEDZ,0.0,,,,G,R,T
+DieselRomeoRobotCoffee,6,N,Y,B,1-2,1:35,1:44,9.0,G to REDZ,G to RTDZ,G to TEDZ,0.0,,,,G,E,R
+FootballBaseballLittleLeague,1,Y,Y,L,1-2,2:51,2:59,8.0,G to RTaDZ,G to RTDZ,G to TEDZ,1.0,G to RTDZ,,,G,R,Ta
+ILikeJupyterCon,3,Y,N,L,1-2,2:10,2:18,8.0,R to GBDZ,G to RTDZ,G to TEDZ,0.0,,,,R,G,B
+SuperRobotMonkeyTeam,2,Y,Y,B,1-2,2:02,2:10,8.0,G to RTaDZ,G to RTDZ,G to TEDZ,1.0,G to RTDZ,,,G,R,Ta
+SuperSecretCodePhrase,2,Y,Y,B,1-2,2:24,2:31,7.0,R to GBDZ,G to RTDZ,G to TEDZ,0.0,,,,R,G,B
+SteveIsTheBest,3,Y,N,L,1-2,2:12,2:17,5.0,G to TEDZ,G to RTDZ,G to TEDZ,0.0,,,,G,E,T
+FunToBeMe,1,Y,Y,L,1-2,1:32,1:36,4.0,G to RBDZ,G to RTDZ,G to TEDZ,0.0,,,,G,R,B
+MasterBranchXtensorIpyleaflet,1,Y,Y,L,1-2,1:43,1:47,4.0,G to RTaDZ,G to RTDZ,G to TEDZ,1.0,G to BEDZ,,,G,R,Ta
+HamSandwichRightNow,6,N,Y,B,1-2,1:42,1:46,4.0,G to TEDZ,G to RTDZ,G to TEDZ,0.0,,,,G,E,T
+KaoSitiSada,5,N,Y,L,1-2,2:20,2:24,4.0,R to GBDZ,G to RTDZ,G to TEDZ,0.0,,,,R,G,B
+JupyterhubUpgradePsychosisAgent,5,N,Y,L,1-2,1:44,1:47,3.0,G to RBDZ,G to RTDZ,G to TEDZ,0.0,,,,G,R,B
+PopeyeVeganMonkeyMoogle,2,Y,Y,B,1-2,2:06,2:09,3.0,G to TEDZ,G to RTDZ,G to TEDZ,0.0,,,,G,E,T
+FoodChancesUnderwaterClod,4,Y,N,B,1-2,1:43,1:46,3.0,G to TEDZ,G to RBDZ,,0.0,,,,G,E,T
+AriEbenPokiSushi,5,N,Y,L,1-2,2:47,2:50,3.0,G to TEDZ,G to RTDZ,G to TEDZ,0.0,,,,G,E,T
+SimpleNeptuneMachineDamage,5,N,Y,L,1-2,1:57,2:00,3.0,G to TEDZ,G to RTDZ,G to TEDZ,0.0,,,,G,E,T
+WetDogOnBeach,3,Y,N,L,1-2,1:50,1:52,2.0,G to RBDZ,G to RTDZ,G to TEDZ,0.0,,,,G,R,B
+FredaMyRogerDarci,5,N,Y,L,2-1,2:33,3:12,39.0,G to BRDZ,G to BBDZ,,2.0,G to BBDZ,,,G,B,R
+StoreCatHiddenFacts,3,Y,N,L,2-1,4:28,5:02,34.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+JupyterConNewYork,6,N,Y,B,2-1,2:22,2:44,22.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+CrimpleBeckAntiqueCake,6,N,Y,B,2-1,2:14,2:31,17.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+DonkeyAndBabyClothes,1,Y,Y,L,2-1,3:07,3:22,15.0,G to BEDZ,G to BBDZ,,2.0,G to BBDZ,,,G,E,B
+SuperRobotMonkeyTeam,2,Y,Y,B,2-1,2:25,2:37,12.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+SteveIsTheBest,3,Y,N,L,2-1,2:30,2:42,12.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+TacoBullMonsterSurf,6,N,Y,B,2-1,3:06,3:17,11.0,R to BBDZ,G to BBDZ,,0.0,,,,R,B,B
+DogHousePoolShed,2,Y,Y,B,2-1,2:16,2:25,9.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+NoMilkForSally,1,Y,Y,L,2-1,3:22,3:31,9.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+FalseDonkey,1,Y,Y,L,2-1,3:03,3:12,9.0,G to BTaDZ,G to BBDZ,,1.0, G to BBDZ,,,G,B,Ta
+DieselRomeoRobotCoffee,6,N,Y,B,2-1,1:54,2:02,8.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+LauraSuttle,3,Y,N,L,2-1,1:57,2:05,8.0,G ro BBDZ,G to BBDZ,,0.0,,,,,,
+HamSandwichRightNow,6,N,Y,B,2-1,2:08,2:16,8.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+ThisIsGreatFun,4,Y,N,B,2-1,2:53,3:00,7.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+CILO,4,Y,N,B,2-1,2:14,2:21,7.0,G to BTaDZ,G to BBDZ,,1.0,G To B,,,G,B,Ta
+SuperSecretCodePhrase,2,Y,Y,B,2-1,2:43,2:49,6.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+IAmMrAnnonymous,3,Y,N,L,2-1,2:28,2:34,6.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+abcdefghijklmnop,5,N,Y,L,2-1,1:56,2:02,6.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+IAmTheWinner,4,Y,N,B,2-1,2:45,2:51,6.0,R to BBDZ,G to BBDZ,,0.0,,,,R,B,B
+HelloGoodbyeHelloHugo,4,Y,N,B,2-1,2:58,3:04,6.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+ILikeJupyterCon,3,Y,N,L,2-1,2:34,2:39,5.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+GiraffeEatsAnOrange,4,Y,N,B,2-1,2:31,2:36,5.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+SimpleNeptuneMachineDamage,5,N,Y,L,2-1,2:14,2:19,5.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+FootballBaseballLittleLeague,1,Y,Y,L,2-1,3:16,3:20,4.0,G to RBDZ,G to BBDZ,,0.0,,,,G,R,B
+MasterBranchXtensorIpyleaflet,1,Y,Y,L,2-1,1:57,2:01,4.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+WalkRunCrawlFly,3,Y,N,L,2-1,2:49,2:53,4.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+WetDogOnBeach,3,Y,N,L,2-1,2:06,2:10,4.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+FoodChancesUnderwaterClod,4,Y,N,B,2-1,2:13,2:17,4.0,G to BBDZ,G to BBDZ,,0.0,,,,G,B,B
+JupyterConNewYork,6,N,Y,B,3-1,2:59,3:41,42.0,G to BTaDZ,G to BCDZ,,2.0,Gave Up,,,G,B,Ta
+ThisIsGreatFun,4,Y,N,B,3-1,3:19,3:39,20.0,G to BTaDZ,G to BTaDZ,,0.0,,,,G,B,Ta
+abcdefghijklmnop,5,N,Y,L,3-1,2:13,2:25,12.0,G to BMDZ,G to BCDZ,,0.0,Tried to drop into Tab,,,,,
+StoreCatHiddenFacts,3,Y,N,L,3-1,5:19,5:31,12.0,G to BTaDZ,G to BTaDZ,,0.0,,,,G,B,Ta
+IAmTheWinner,4,Y,N,B,3-1,3:15,3:27,12.0,G to BTaDZ,G to BTaDZ,,0.0,,,,G,B,Ta
+FunToBeMe,1,Y,Y,L,3-1,2:16,2:28,12.0,G to BTDZ,G to BTaDZ,G to BCDZ,1.0,G to BTaDZ,,,G,B,T
+HelloGoodbyeHelloHugo,4,Y,N,B,3-1,3:16,3:27,11.0,G to BTaDZ,G to BTaDZ,,0.0,,,,G,B,Ta
+CILO,4,Y,N,B,3-1,2:46,2:56,10.0,G to BTaDZ,G to BTaDZ,,0.0,,,,G,B,Ta
+SuperRobotMonkeyTeam,2,Y,Y,B,3-1,2:50,2:59,9.0,G to BTaDZ,G to BTaDZ,G to BCDZ,0.0,,,,G,B,Ta
+LauraSuttle,3,Y,N,L,3-1,2:17,2:26,9.0,G to BTaDZ,G to BTaDZ,,0.0,,,,G,B,Ta
+HamSandwichRightNow,6,N,Y,B,3-1,2:31,2:40,9.0,G to BCDZ,G to BCDZ,,0.0,,,,G,B,C
+ILikeJupyterCon,3,Y,N,L,3-1,2:53,3:02,9.0,G to BTaDZ,G to BTaDZ,,0.0,,,,G,B,Ta
+FalseDonkey,1,Y,Y,L,3-1,3:30,3:39,9.0,G to BTaDZ,G to BTaDZ,G to BCDZ,0.0,,,,G,B,Ta
+DonkeyAndBabyClothes,1,Y,Y,L,3-1,3:37,3:45,8.0,G to BTaDZ,G to BTaDZ,G to BCDZ,0.0,,,,G,B,Ta
+NoMilkForSally,1,Y,Y,L,3-1,3:41,3:49,8.0,G to BTaDZ,G to BTaDZ,G to BCDZ,0.0,,,,G,B,Ta
+DogHousePoolShed,2,Y,Y,B,3-1,2:35,2:42,7.0,G to BCDZ,G to BTaDZ,G to BCDZ,0.0,,,,G,B,C
+MasterBranchXtensorIpyleaflet,1,Y,Y,L,3-1,2:13,2:20,7.0,G to BTaDZ,G to BTaDZ,G to BCDZ,0.0,,,,G,B,Ta
+PopeyeVeganMonkeyMoogle,2,Y,Y,B,3-1,2:53,2:59,6.0,G to BTaDZ,G to BTaDZ,G to BCDZ,0.0,,,,G,B,Ta
+SuperSecretCodePhrase,2,Y,Y,B,3-1,3:13,3:18,5.0,G to BTaDZ,G to BTaDZ,G to BCDZ,0.0,,,,G,B,Ta
+WetDogOnBeach,3,Y,N,L,3-1,2:22,2:27,5.0,G to BTaDZ,G to BTaDZ,,0.0,,,,G,B,Ta
+FoodChancesUnderwaterClod,4,Y,N,B,3-1,2:33,2:38,5.0,G to BTaDZ,G to BTaDZ,,0.0,,,,G,B,Ta
+FootballBaseballLittleLeague,1,Y,Y,L,3-1,3:33,3:38,5.0,G to BCDZ,G to BTaDZ,G to BCDZ,0.0,,,,G,B,C
+WalkRunCrawlFly,3,Y,N,L,3-1,3:11,3:16,5.0,G to BTaDZ,G to BTaDZ,,0.0,,,,G,B,Ta
+IAmTheWinner,4,Y,N,B,3-2,3:35,4:20,45.0,R to GTaDZ,,,0.0,Reorganize Tabs,,,R,G,Ta
+ThisIsGreatFun,4,Y,N,B,3-2,3:44,4:18,34.0,B to RTaDZ,,,0.0,Reorganize,,,B,R,Ta
+SuperSecretCodePhrase,2,Y,Y,B,3-2,3:27,3:55,28.0,R to GTaDZ,,,0.0,Reorganize,,,R,G,Ta
+HelloGoodbyeHelloHugo,4,Y,N,B,3-2,3:33,3:52,19.0,R to GTaDZ,,,0.0,Reorded tabs,,,R,G,Ta
+CILO,4,Y,N,B,3-2,3:01,3:19,18.0,R to BTaDZ,,,0.0,"Stacked Red in, then organized",,,R,B,Ta
+NoMilkForSally,1,Y,Y,L,3-2,3:54,4:12,18.0,G to RTaDZ,,,0.0,"Docked, Reorded",,,G,R,Ta
+WetDogOnBeach,3,Y,N,L,3-2,2:35,2:50,15.0,R to GTaDZ,,,0.0,Reorganize,,,R,G,Ta
+FunToBeMe,1,Y,Y,L,3-2,2:40,2:54,14.0,R to GTaDZ,,,0.0,Reorganized tabs,,,R,G,Ta
+SuperRobotMonkeyTeam,2,Y,Y,B,3-2,3:08,3:22,14.0,G to RTaDZ,,,0.0,B to GTaDZ,,,G,R,Ta
+FootballBaseballLittleLeague,1,Y,Y,L,3-2,3:50,4:01,11.0,G to RCDZ,,,0.0,B to GCDZ,,,G,R,C
+FalseDonkey,1,Y,Y,L,3-2,3:45,3:56,11.0,R to GTaDZ,,,0.0,Reorganize,,,R,G,Ta
+StoreCatHiddenFacts,3,Y,N,L,3-2,5:44,5:55,11.0,R to GTaDZ,,,0.0,Reorganize,,,R,G,Ta
+IAmMrAnnonymous,3,Y,N,L,3-2,3:09,3:18,9.0,B to RTaDz,,,0.0,Reordered tabs after docking,,,B,R,Ta
+FoodChancesUnderwaterClod,4,Y,N,B,3-2,2:44,2:53,9.0,R to BTaDZ,,,0.0,Reorganize after,,,R,B,Ta
+WalkRunCrawlFly,3,Y,N,L,3-2,3:22,3:31,9.0,R to GTaDZ,,,0.0,,,,R,G,Ta
+MasterBranchXtensorIpyleaflet,1,Y,Y,L,3-2,2:23,2:31,8.0,G to RTaDZ,,,0.0,B to RTaDZ,,,G,R,Ta
+JupyterConNewYork,6,N,Y,B,3-2,,,,Skipped,,,,,,,,,
+FredaMyRogerDarci,5,N,Y,L,3-2,SKIPPED,,,,,,,,,,,,
+DonkeyAndBabyClothes,1,Y,Y,L,3-2,3:50,,1210.0,Missed TaDZ,,,2.0,TaDZ & Reorganize,,,,,
+ThisIsGreatFun,4,Y,N,B,4-1,4:29,5:02,33.0,G to RBDZ,G to BEDZ,,2.0,Nest and organize,,,G,R,B
+WetDogOnBeach,3,Y,N,L,4-1,2:56,3:26,30.0,G to RBDZ,G to BEDZ,,2.0,Nest and Organize,,,G,R,B
+NoMilkForSally,1,Y,Y,L,4-1,4:25,4:45,20.0,R to BTaDZ,G to BEDZ,,2.0,"G to RBBDZ, nested, split.",,,R,B,Ta
+FunToBeMe,1,Y,Y,L,4-1,3:06,3:22,16.0,G to RBDZ,G to BEDZ,,1.0,B to RRDZ,,,G,R,B
+FredaMyRogerDarci,5,N,Y,L,4-1,4:14,4:29,15.0,G to BEDZ,G to BEDZ,,0.0,,,,G,E,B
+HamSandwichRightNow,6,N,Y,B,4-1,3:28,3:40,12.0,G to RBDZ,G to BEDZ,,2.0,Organized w/o EDZ,,,G,R,B
+IAmMrAnnonymous,3,Y,N,L,4-1,3:31,3:43,12.0,G to BEDZ,G to BEDZ,,0.0,,,,G,E,B
+LauraSuttle,3,Y,N,L,4-1,2:58,3:07,9.0,G to BEDZ,G to BEDZ,,0.0,,,,G,E,B
+AriEbenPokiSushi,5,N,Y,L,4-1,5:43,5:51,8.0,G to BEDZ,G to BEDZ,,0.0,,,,G,E,B
+DonkeyAndBabyClothes,1,Y,Y,L,4-1,4:19,4:26,7.0,G to BEDZ,G to BEDZ,,0.0,,,,G,E,B
+MasterBranchXtensorIpyleaflet,1,Y,Y,L,4-1,2:40,2:47,7.0,G to BEDZ,G to BEDZ,,0.0,,,,G,E,B
+SteveIsTheBest,3,Y,N,L,4-1,4:53,4:59,6.0,G to BEDZ,G to BEDZ,,0.0,,,,G,E,B
+FootballBaseballLittleLeague,1,Y,Y,L,4-1,4:16,4:22,6.0,G to BEDZ,G to BEDZ,,0.0,,,,G,E,B
+DonkeyAndBabyClothes,1,Y,Y,L,4-2,4:32,5:03,31.0,R to BEDZ,G to TEDZ,,2.0,Reorganize Blue/Red panels,,,R,E,B
+ThisIsGreatFun,4,Y,N,B,4-2,5:13,5:41,28.0,Missed Tab,G to TEDZ,,1.0,Nest and oranize,,,,,
+JupyterConNewYork,6,N,Y,B,4-2,4:59,5:23,24.0,G to RBDZ,G to TEDZ,,2.0,Reorganize nested panes,,,G,R,B
+SteveIsTheBest,3,Y,N,L,4-2,5:04,5:22,18.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+FredaMyRogerDarci,5,N,Y,L,4-2,4:32,4:44,12.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+SuperSecretCodePhrase,2,Y,Y,B,4-2,4:39,4:50,11.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+FunToBeMe,1,Y,Y,L,4-2,3:25,3:35,10.0,Missed Tab,G to TEDZ,,1.0,G to TEDZ,,,,,
+LauraSuttle,3,Y,N,L,4-2,3:10,3:18,8.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+JupyterhubUpgradePsychosisAgent,5,N,Y,L,4-2,3:55,4:03,8.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+DieselRomeoRobotCoffee,6,N,Y,B,4-2,3:07,3:15,8.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+IAmMrAnnonymous,3,Y,N,L,4-2,3:55,4:02,7.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+abcdefghijklmnop,5,N,Y,L,4-2,3:06,3:13,7.0,G to TDZ,G to TEDZ,,0.0,,,,,,
+NoMilkForSally,1,Y,Y,L,4-2,4:58,5:04,6.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+AriEbenPokiSushi,5,N,Y,L,4-2,5:54,6:00,6.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+SuperRobotMonkeyTeam,2,Y,Y,B,4-2,3:54,4:00,6.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+FootballBaseballLittleLeague,1,Y,Y,L,4-2,4:28,4:33,5.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+StoreCatHiddenFacts,3,Y,N,L,4-2,6:21,6:26,5.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+HamSandwichRightNow,6,N,Y,B,4-2,3:48,3:52,4.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+MasterBranchXtensorIpyleaflet,1,Y,Y,L,4-2,2:51,2:55,4.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+WetDogOnBeach,3,Y,N,L,4-2,3:32,3:36,4.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+FalseDonkey,1,Y,Y,L,4-2,4:50,4:53,3.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+HelloThereFriendWorld,5,N,Y,L,4-2,7:19,7:22,3.0,G to TEDZ,G to TEDZ,,0.0,,,,G,E,T
+ThisIsGreatFun,4,Y,N,B,5-1,5:57,6:29,32.0,G to BRDZ,G to REDZ,,1.0,G to REDZ,,,G,B,R
+IAmMrAnnonymous,3,Y,N,L,5-1,4:08,4:21,13.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+CILO,4,Y,N,B,5-1,5:25,5:38,13.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+KaoSitiSada,5,N,Y,L,5-1,7:40,7:51,11.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+TacoBullMonsterSurf,6,N,Y,B,5-1,7:34,7:43,9.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+DonkeyAndBabyClothes,1,Y,Y,L,5-1,5:14,5:22,8.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+SuperRobotMonkeyTeam,2,Y,Y,B,5-1,4:08,4:15,7.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+ILikeJupyterCon,3,Y,N,L,5-1,4:46,4:53,7.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+StoreCatHiddenFacts,3,Y,N,L,5-1,6:37,6:44,7.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+FredaMyRogerDarci,5,N,Y,L,5-1,5:00,5:07,7.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+FalseDonkey,1,Y,Y,L,5-1,5:00,5:06,6.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+NoMilkForSally,1,Y,Y,L,5-1,5:13,5:19,6.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+WetDogOnBeach,3,Y,N,L,5-1,3:51,3:57,6.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+JupyterhubUpgradePsychosisAgent,5,N,Y,L,5-1,4:14,4:20,6.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+PopeyeVeganMonkeyMoogle,2,Y,Y,B,5-1,4:34,4:39,5.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+FootballBaseballLittleLeague,1,Y,Y,L,5-1,4:44,4:48,4.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+LauraSuttle,3,Y,N,L,5-1,3:32,3:36,4.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+MasterBranchXtensorIpyleaflet,1,Y,Y,L,5-1,3:05,3:08,3.0,G to REDZ,G to REDZ,,0.0,,,,G,E,R
+JupyterConNewYork,6,N,Y,B,5-1,5:48,,1092.0,G to RRDZ,G to REDZ,,2.0,Reorganize until completion,,,G,R,R

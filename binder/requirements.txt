@@ -1,3 +1,4 @@
+jupyter_cms
 gensim==3.6.*
 matplotlib==3.0.*
 pandas==0.23.*

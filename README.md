@@ -1,5 +1,7 @@
 # Jupyter Surveys
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jupyter/surveys/master)
+
 This repository contains datasets and surveys collected by Project Jupyter and IPython.
 
 ## Adding data to this repository

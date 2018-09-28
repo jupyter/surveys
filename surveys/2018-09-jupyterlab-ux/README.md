@@ -6,6 +6,13 @@ The goal of the testing was to answer specific questions about JupyterLab UX. Se
 
 **How to run the notebook**
 
+1. Clone this repository.
+2. Change directories to `surveys/2018-09-jupyterlab-ux`.
+3. Install dependencies.
+    - If you use `pipenv`, call `pipenv install` int this directory.
+    - If you use `pip`, call `pip install -r requirements.txt`
+4. Run JupyterLab and open the `analysis/questions-to-answer.ipynb` notebook.
+5. Run all cells.
 
 
 **Data Columns**

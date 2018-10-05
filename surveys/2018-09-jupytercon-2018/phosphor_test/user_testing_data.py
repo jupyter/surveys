@@ -7,7 +7,7 @@ import requests
 
 
 def load_data():
-    return pd.read_csv("../jupyterlab-ux-data.csv")
+    return pd.read_csv("phosphor-ux-data.csv")
 
 def reload_data():
     r = requests.get('https://docs.google.com/spreadsheet/ccc?key=1TCWnKucs25_rWrVVu3mwqbpsij-KOCGRbcOcTzxRmOM&output=csv')

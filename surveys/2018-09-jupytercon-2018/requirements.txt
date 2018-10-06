@@ -1,0 +1,51 @@
+-i https://pypi.org/simple
+appnope==0.1.0; sys_platform == 'darwin'
+backcall==0.1.0
+bleach==2.1.4
+cycler==0.10.0
+decorator==4.3.0
+defusedxml==0.5.0
+entrypoints==0.2.3; python_version >= '2.7'
+html5lib==1.0.1
+ipykernel==4.9.0
+ipython-genutils==0.2.0
+ipython==6.5.0
+jedi==0.12.1
+jinja2==2.10
+jsonschema==2.6.0
+jupyter-client==5.2.3
+jupyter-core==4.4.0
+jupyterlab-launcher==0.13.1
+jupyterlab==0.34.12
+kiwisolver==1.0.1; python_version != '3.1.*'
+markupsafe==1.0
+matplotlib==3.0.0
+mistune==0.8.3
+nbconvert==5.4.0
+nbformat==4.4.0
+notebook==5.7.0
+numpy==1.15.2; python_version != '3.1.*'
+pandas==0.23.4
+pandocfilters==1.4.2
+parso==0.3.1
+pexpect==4.6.0; sys_platform != 'win32'
+pickleshare==0.7.5
+prometheus-client==0.3.1
+prompt-toolkit==1.0.15
+ptyprocess==0.6.0; os_name != 'nt'
+pygments==2.2.0
+pyparsing==2.2.1; python_version != '3.2.*'
+python-dateutil==2.7.3
+pytz==2018.5
+pyzmq==17.1.2; python_version != '3.1*'
+scipy==1.1.0; python_version != '3.1.*'
+seaborn==0.9.0
+send2trash==1.5.0
+simplegeneric==0.8.1
+six==1.11.0
+terminado==0.8.1; python_version != '3.2.*'
+testpath==0.3.1
+tornado==5.1.1; python_version >= '2.7'
+traitlets==4.3.2
+wcwidth==0.1.7
+webencodings==0.5.1

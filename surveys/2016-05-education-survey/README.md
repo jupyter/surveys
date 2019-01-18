@@ -1,6 +1,6 @@
 # 2016 Jupyter Education Survey
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.51701.svg)](http://dx.doi.org/10.5281/zenodo.51701)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.51701.svg)](https://doi.org/10.5281/zenodo.51701)
 
 This dataset is the responses for the Jupyter education survey conducted in May
 2016. This includes the following files:

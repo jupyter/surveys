@@ -1,0 +1,1136 @@
+Respondent ID,What languages do you use in Jupyter? (other),What are your primary job roles when you are using Jupyter? (other),"What are your go-to tools for performing data science, scientific computing, and machine learning on your laptop/ desktop (non-cloud) for data science? (other)",How do you run and/ or access Jupyter? (other),Major use cases (other).,What data sources are you primarily working with in your role? (other),What data formats are you mostly working with? (other),Do you experience these problems with data in Jupyter? (other),What type of analysis are you running? (other),What tools do you use to create dashboards? (other),Do you experience these problems with visualization in Jupyter? (other),How do you scale and schedule your workloads? (other),Do you experience these problems with scale in Jupyter? (other),What is your reason for sharing a notebook with someone else? (other),Comments about collaboration:,Do you have challenges with collaboration in Jupyter? (other),Do you have challenges with the notebook UI?,Open feedback for problems/ pain points you didn't get to share.
+12390574951,,,,,,,,,,QlikSense and Python Panel,,,,,,nbdime is nice but GitHub integration code diff is challenge,,"A more integrated nbdime function with GitHub can make easier to do code review, comment code"
+12390517687,,,,,,,,,GIS,"ArcGIS Online, MS PowerBI",,,,,,,,
+12390416984,,,,,,,,,,,,,,,,,,
+12389819517,,,,,,,,,,,,,,,,,,
+12389393327,,Electronic engineer,,,,,,,,,,,,,,,,
+12389307029,,,,,,,,,,,,,,Working together on university assignments.,We use screensharing for collaboration.,,,"Being able to have a debug view, like in a Python IDE, would be awesome!"
+12389198505,,,,,,,,,,,,,,,,,,
+12389031078,,,,,,,,,,,,,,,,,,
+12388666371,,,,,,,,,,,,,,,,,,
+12388502670,,Design Engineer,,,,,,,,,,,,,,,,Thanks for the great tool and the hard work!
+12388495712,,,,,,,,,"basic exploratory frequntist  statistics, frequency, spread, std error",,,,,Report progress and results /Presenting results ,,,,
+12388344590,,mechanical engineer,,,,,,,,,,,,,,,,Really nice project
+12388218012,,,,,,,,,,,,,,,,,,
+12388074003,,,,, ,,,,,,,,,,.,,,
+12387897485,,,,,,,,,,,,,,,,,Don't know which line fails in long cell,The limitation of answers to questions 9 and 11 seems to bias the survey
+12386419400,,,,,,,,,,,,,,,,,,
+12386381831,,,,,,,,,,Apache Superset,,,,,,,,
+12386088421,,,,,,,,,,,,,,,,,,
+12385242358,,,,,,,,,,,,,,,,,,search speed
+12384800764,,,,,,,,,,,,,,,,,,
+12383375054,,,,,,,,,,,,,,,,,,
+12383165210,,,,,,,,,,,,,,,,,,I am brand new to developing! Student looking for a career change and enjoying the fun and challenging aspects of programming so far.
+12382655901,,,,OpenPBS university cluster,,,,,,,,OpenPBS,,,,,,I tried lab for a while a couple of years ago and it crashed and I lost a lot of progress and I've been afraid of using it ever since... maybe this survey will make me brave enough to go back to it.
+12382580450,,,,,,,,,,,,,,,,,,"constant issues with failing to stop running kernel using UI, resort to killing entire notebook server and restarting."
+12382381709,,,,,,,,,,PowerBI,,,,,,,,
+12382286034,,,,,,,,,,,,,,,,,No reactivity,
+12381978610,,,,,,,,"Hard to navigate large notebooks, poor text editing capabilities",,primarily Apache Superset; otherwise Jupyter notebooks with Matplotlib graphs auto-published as HTML files by a cron job,,Oozie and occasionally cron jobs,,Sharing results with stakeholders,,,,
+12381677059,,,None - I don't do this,,Experimenting with code. I use Jupyter Notebooks as a replayable REPL,,,Notebook versioning - I want to see my changes,,,,,,,,,"How truncated the output data is sometimes. Often I need to inspect something, and it doesn't show in the preview","I write Python occasionally, and when I have to put together a script I do it in Jupyter so I get regular feedback on whether it works.    I got started with Jupyter as an environment to teach physics students how to program; I still use it that way.    I did not know there was support for all those languages in Question 3; if I knew how to enable them, I'd use Jupyter every day!"
+12381669505,F#,,,through SSH + VSCode,,,,,,,,,,,,,,
+12381646069,,,,,,,,,,,,,,,,,,
+12381525787,,,,,,,,,,,,,,,,,,
+12381482135,,,,,,,,,,,,,,,,,,
+12381156318,,,,,,,,,,Power BI,,,,,,,,
+12381043133,,,,,,,,,,,,,,,,,,
+12381012236,,Only developer on team of researchers,,,,,,,,,,,,,,,,
+12380940798,,,,,,,,,,,,,,,,,,
+12380884446,,,,,,,,,,,,,,,,,,
+12380687491,"Didn't know one could use other languages also, tbh",,PyDev (Eclipse),,Proof of Concept / Draft / Once-off coding.  Education (teaching Python to students / juniors at work).,LibreOffice Calc spreadsheets,,,Format conversions and transformations,Matplotlib / Seaborn inside JupyterLab,"Plotting libraries such as Matplotlib and Seaborn are not very intuitive.  Their designs haven't matured yet.  Available functions seem to be inconsistent, as if it's been backed together by different people.  The only way to learn them is by finding examples.  But hey it works, so there's that.",,,,,,,Two extensions which are SO ESSENTIAL you should really really really just make it part of the JupyterLab core by default:  - @jupyterlab/toc  (developed by you guys)  - jupyter-execute-time (developed by D.E. Shaw)
+12380630596,,Retired but trying to keep up with new stuff related to data science,,,,,,,,,,,,,,,,
+12380597022,,,I have no idea,,,,,,,,,,,,,,,
+12380377397,,,,,,,,,,,,,,,,,,
+12380284100,,,,,,,,,,,,,,,,,No RMarkdown-style layout. I have problems with the very idea of Notebooks,"Trying to add a new kernel (Eg Nim, Scala) is often difficult. An option for an RMarkdown/Sweave style UI would be great."
+12380221142,,,,,,,,,,,,,,,,,,
+12380186732,,,,,,,,I constantly run into Python runtime issues.,,,"Whenever I try to use PYthon, I get runtime and library problems. And I don't use R, becasue RStudio is objectively better. You try to be the jack of all trades, and simply manage to be not useful.",,"I've given up on your software, I no longer use it for anything.",,"Too inconsistent to use to collaborate, we moved to other systems.",,,"You have some of the most inconsistent software I've ever used. I cannot get it to set up reliably (and a docker container is not a solution, that's a stupid hack built on a quasi tower of babel of stupid hacks). I get runtime errors all the time, random kernel crashes, etc. I can't justify it for exploratory work, let alone actual production systems. The format used makes VCS difficult, and R Markdown is objectively better for display work. You tried to be everything, and manage to provide almost nothing."
+12380159770,,,,,,,,,,,,,,,,,,
+12380148870,,,,,,,,,,Jupyter Notebook + ipywidgets,,,,,,,,"I miss caching when converting to pdf (when re-running the conversion) and multi-page faceted plots like in rmarkdown. (Combined with the issues with version control of notebooks, this is a showstopper for me!)"
+12380140375,,,,,,,,,,,,,,,,,,
+12379941019,,,,,,,,,,,,,,,,,,
+12379860802,,,,,,,,,,,,,,,,,,
+12379817383,,,,,,,,,,,,,,,,,,
+12379749974,,,,jupyterlab dedicated container that runs on kubernetes,,,,"when working on a remote server, and running an overnight job, when i return and reconnect to the kernel i can't see output/logs of what happened while i was away",,panel,no plots history of a cell output. can't go back to see what was the previous plot before re-running the cell,,,,very hard in jupyter. wish it could be better,,,"thank you for the hard work!  would love to see code editing features like variable highlight (like in vscode when you select a variable, that variable is highlighted all across the code)"
+12379638336,,,,,,,,,,Bokeh,,Dagster,,,,,,
+12379613728,,,,,,,,,,,,,,,,,,
+12379545034,,,,,,,,,,,,,,,,,,
+12379524479,,,,,,,,,,,,,I don't use jupyter notebooks for at-scale jobs,,"I'm a manager so collaboration often includes oversight, digging into results, or showing something, etc",,,"I use notebooks a lot for exploration and trying things, and it would be nice to have better built in tracking of the exploration so that I can easily keep track of what worked. Inevitable what I do now is copy and paste the same code into multiple cells to track versions. I have written a very simple decorator to track functions and output written in ipython cells. But I think native support would be more likely to be used: https://github.com/rbitr/ivc"
+12379440715,,,,,,,,,,,"Poor support for graph interactivity/exploration in most packages.  Overly complex callback processes.  Poor support for most network visualization, especially overlaid on geographies. ",,,,,,,.
+12379432693,"SAS, STATA",,,,,,,,,,,GPU accelerated programming,,,,,,
+12379413040,,,,,Share code with other coworkers/collaborators. ,,,,,,,,,,,,Scrolling inside code cells is really annoying me,"- Text-search in the notebook seems rather sluggish and sometimes jumps to weird places without being prompted.  - Scrolling inside code cells is super annoying. I have no idea what this functionality could be useful for. It confuses me time and time again because my code went ""missing"" until I figure out that I need to grab my mouse again and scroll.  - Version control (git) is rather annoying / not functional without a series of custom made extensions, git scripts and painful workflow additions.  - A native ""export to pdf"" and ""export to HTML"" functionality would be really neat and save some time spent on getting nbconvert to run on the command line."
+12379363010,,,,,,,,,,,,,,,,,,
+12379336173,,,,,,,,,,Vega light,,,,make them pick up from where I left off,,,,
+12379271642,,,,,,,,,,,,,,,,,,
+12379271333,,,,,,,Multi-dimentional numpy arrays.,No way to debug code which is not inside a notebook.,,,,,,"Occasionally, as a submission in a course. ",,,,
+12379263871,,,,,,,,,Exploratory data analysis,,,,,,,,,
+12379238815,,,,,,,,,,,,,,,,,,
+12379095165,,,,,,,,,,,,,,,,,,Thanks for all the great work. Y'all are amazing.
+12379052580,,,,,,,,,,,,,,,,,,
+12379029714,,,,,,,,,,,,,,,,,,
+12379018626,,,,,,,,,,,,,,,,,,None. Love what you all are doing.
+12379012217,,Data analyst,,,"Exploring problems, ideas, and possible solutions (and visualising and recording the results) before developing modules, packages, and GUIs from the successful fragments.",,,"No equivalent to ""Freeze Panes"" when viewing large DataFrames.","Data exploration and visualisation, time-series analysis",Holoviz / Panel / Param,,,,,"All 3 ""We work on ..."" answers apply to me!",,,
+12379010571,,,,,,,,,,Streamlit,,,"Once I have a working model, I don't scale it in Jupyter.  I deploy it elsewhere.",,,,,The main thing that keeps me from using Jupyter more is that it is nearly impossible to collaborate with others on a notebook.  Getting review comments in the style of GitHub is very painful to impossible.  This limits my use of Jupyter to being personal EDA and the creation of figures.  
+12378987333,markdown,research software engineer,,,,datalad,,,,,,,,,,,,
+12378959741,,,,,,,,,,Streamlit,,,,,,,,
+12378897218,,,,,,,,,,Power BI,,,,,,,,
+12378896354,,"Making music, privately",,,"General software dev (with tests) I find better done in a regular editor with plugins for black etc.  Pipelines, regular data science and ML work takes place in DataBricks at my job at the moment, so no Jupyter there.",,,,,Power BI :-(  (work mandated),,Databricks notebooks in with beefed-up workers,,,,,,"Keep up the great work.  I do find it hard to introduce engineers (not software engineers, but the real ones ;) )  to python+jupyter+git+precommit in order to collaborate on jupyter notebooks with plots, but... I don't have any suggestions for how to make it easier."
+12378882353,,,,,,,,,,Bokeh,,,,,,,,
+12378866977,,Statistician,,,"I sometimes use it as an insanely overpowered calculator (calculating tips, etc.).",,,,,,,,,,,,,
+12378392483,,,,,,,,,,,,,,,,,,
+12376752121,,,,,,,,,,,,,,,,,,The persistence of outputs is a must!
+12376588382,,,,,,,,,,,,,,,,,,
+12376189027,,Machine Learning Engineer,,,,,,,,Chartio,,,,,,,,
+12375821064,,,SAS,Vendor Hosted Citrix Environment,,,,,,,,,,,,,,
+12375391075,,,,,,Personal,,,,,,,,,,,,
+12374609497,,,,,,,,,,,,,,,,,,
+12374561571,,,,,,,,,,,,,,,,,,
+12374399125,,,,,,,,Can't figure out how to install Jupiter on my Mac.,,,,,,,,,Unable to figure out how to install on my Mac.,I am unable to figure out how to install Jupiter on my Mac. Dependency on a software stack I don't have?
+12374372063,,,,,,,,,,,,,,,,,,
+12374313871,I am learning how to use these (and C++ and Django) in Jupyter now. ,,"CodeBlocks, LaTex, Java",,,,"audio, text, graphs, and simulation",,"statistical: ANOVA, MANOVA, T-Test, etc.; Generative; Dimensionality, NLP, Outlier Detection",I am learning how to create dashboards now using Google and Tableau,,,,I am planning to share notebooks with my students so they can understand how others got the answers they got. ,I plan on using notebooks for my students. ,,,
+12374156571,,,,,,,,,,,,,,,,,,
+12373302154,,,,,,,,,,,,,,,,,,
+12373264034,,,RapidMiner Studio,,"Communicate analysis results to other stakeholders. I've both tried using the slide creation from a notebook, and creating dashboards (with voila and streamlit). I think currently jupyter is esp. strong for documenting results for other coders, but not necessarily for business users/domain experts. Also voila is a great step in that direction.    Other important use-cases are: notebook to staging to deployment as well as general access to known data sources.",,,,,Streamlit,,,Sharing credentials for data sources,,,,I want to be able to quickly peak at the changes done to a sample of my data without always having to create output manually.,"In general I'm very satisfied with the jupyter environment, esp. after moving from notebooks to lab and introducing projects like voila. Keep up the great work."
+12373262625,,,,,"I have two basic categories of use cases: exploring data, running my own analyses, etc. The other is communicating what sort of data analysis I've done to other people. In general, more literal notebook-like or textual features would help me organize long notebooks. Collapsable chapters, Font changes, etc.",,,,,,,,"Keeping things organize and technical-debt-free is non-trivial. I would love it if Jupyter Notebooks were easier to maintain, with annotations, footnotes but to the side, persistent outputs of cells, toggled version control of cells, etc.",I sometimes share JupyterNotebooks as deliverables for clients. ,,,,
+12373246060,,,,,,,,,,,,,,,,,,
+12372685226,,,,,,,,,,,,,,,,,,
+12372391883,,,,,,,,,,,,,,,,,,
+12372193546,,,,,,,,,,,,,,,,,,Not a problem for me  
+12371803716,,,,,,,,,,,,,,,,,,
+12371700092,,,,,,,,can't open big folder without jupyter hanging,,,,,,,,,,
+12371277139,,,,,,,,,,,,,,,,,,
+12371267967,,,,,,,,"Plot, zoom, stream graphs and images",,I would if it was easier,,,,,,,,Visualization is a big one.Collaboration is next. 
+12371168662,,,,,,,,,,,,,,,,,,
+12371119203,,,,,,,,,,,,,,,,,,No
+12371059956,,,,,,,,,,Power BI,,,,,,,,None
+12370978155,,,,,,,,,,,,,,,,,,
+12370965740,,,,,,,,,,,,,,,,,,
+12370884088,,,,,,,,,,,,,,,,,,Love Jupyter! ❤️
+12370643439,,,,,,,,,,,,,,,,,,
+12370402566,SAGE,,,,,,,,,,,,,,,,,
+12370142703,,,VS Code & browser-based derivatives,,,,,"When running long background jobs, and closing the browser the output gets lost","Anthing computer vision: object detection, segmentation etc",,,,,,,,Making notebooks or single cells read-only/protected,Question 7 is annoying to fill out because all fields are required
+12369862769,,,,Cloudera DSW,,,,,,,,,,,,,,
+12369846351,,,,,,,,,,,,,,,,,,
+12369841908,,,,,,,,,,,,,,,,,,"Thanks for this amazing project!  To emphasize the most important pain points:  Git diff, LSP, .py export not great"
+12369809614,bash,PhD student,,,,,,,,,,,,,,,,
+12369618923,Wolfram language,,,,,,,,,Holoviz-panel,,,,,,,,
+12369572786,,,,,,,,,,,,,,,,,,
+12369538831,,,,,,,,,,,,,,,Research supervision,,,
+12369501790,Bash,,,,,Spark Delta Tables.,,,,,Wishing that HTML inside IPython.display.HTML(html) was better able to perform callbacks to refresh data,Databricks Connect Client - which lets me use a databricks cluster's spark with Jupyter Lab,,,,Better Git integration please.   All other software in our company has a dev->qa->release process using git.,Want emacs keybindings --- or even the ability to just edit cells with emacs.,Wish I knew a better way of publicly publishing work I do in Jupyter Lab.   My workaround is to port it to Google Colab or Databricks Community.
+12369486436,,,,,,,,,,,,,,,,,,
+12369454417,,,,,,,,"UI hangs if the (python) kernel starts hanging, which occurs way, way too often. Has been the case between different environments / operating systems and use-cases, and makes Jupyter a no-go for me",,,,,,,,,,"The thing that most keeps me away from jupyter is that I find the UI (both for Lab and Notebooks) way too slow, and prone to hanging indefinitely. It ends up being way less tedious to just write .py files (though inline plots are awesome, and I miss them).    Aside from that: I would be very happy to see you supporting scripts with cells separated e.g. by #%% (as an option instead of the large .ipynb datastructure with states stored etc). Since it makes it very convenient to gradually convert the code to a module that can be reused. "
+12369446999,,,,,,,,,,,,,,,,,,
+12369426274,,,,,,,,,,,,,,,,,,
+12369392247,,,,,,,,,,,,,,,Jupyter is pretty bad for collaboration,,,Jupyter markdown is annoyingly limited compared to RStudio markdown for R. Please add the ability to use python f-strings or something similar in markdown to reference data.
+12369332733,,,,,,,,,,Vegalite,Can not share interactive plots. Require js. Not sure what the solution is,,,,,Hate the fact that the saved output is json gobly gook. Rstudio saves its notebook in plain text just fine ,,Again. Please fix the json output. It should be plain text
+12369317172,,,Microsoft Excel,,Explore data (similar to pandas-profiling),"SQL - Columnar Store (eg. Vertica, Clickhouse, Exasol)",,Any data manipulation must be programmed (eg. sort grid by column is a pandas statement that has to be written). I need it to be with just one click.,,,,,,Feedback about my insights generated from data,,,no debugger. no profiler. no unit testing support.,"It took me a day to understand that Jupyter Notebooks and Jupyter Lab are not the same. JupyterLab is nearly as usable as EDLIN. To get it to something resembling ""vi"" you need plugins, but most of them failed to work the the version of JupyterLab shipped by default to ubuntu, or only work with the J-Notebook but not with J-Lab. So I've decided to wait for a year or two and hope that at some point, you can just install one thing and it will let you explore the data (something similar to pandas-profiling) without the need to install tons of plugins. Then I would say Jupyterlab would be a ""vi for Data Science"". And the next step would be finally a full-blown WYSIWYG tool (""Excel for data science""), where you can finally focus not on writing code, or writing math formulaes, but on exploring and working with your data. With mouse clicks, not with writing Python commandoes."
+12369306387,,,pyzo,,,,,,,,,,,,,,,
+12369200610,,,,,,,,,,,,,,,,,,"When a Jupyter Notebook disconnects and reconnects, the output is lost and not updated. I think this is a problem when we SSH into a machine."
+12369198715,,,,,,,Python pickled objects,,,,,,,,,,,"Couldn't get debugging python to work!! And getting ""_xsrf argument missing"" in jupyterlab preventing me from saving and no solution works except for reloading and praying. "
+12369197173,,,,,,,,,,,,,,,,,,"Mainly the git integration, git integration, please git integration, please please"
+12369141144,,,,,,,,,,,,,,,,,,
+12369094496,,,,,,,,,,,,,,,,,,
+12369065305,,,,,,,,,,,,,,,,,I don't like receiving notebooks from people because I'm forced to use JupyterLab instead of my preferred text editor.,"I like the REPL with graphical capabilities, which I should be able to use from my preferred text editor without being forced to use JupyterLab. The fact that ipynb files are not plain text is one of the big problems in this regard."
+12369045216,,,,,,,,,,,,,,,,,,
+12368986226,,,,,,,,,,,,,,,,,,Autocomplete and Language server support is a MAJOR issue and makes pure jupyter lab unusable for me (hence VSCode) 
+12368969055,,,,,,,,,,,,,,,,,,
+12368961160,,,,,,,,,,,,,,,,,,
+12368866064,Bash,,,,,,,,,,,,,,,,,
+12368821679,,,,,,,,,,,,,,,,,,
+12368763581,,,,,,,,,,,,,,,,,,NOne
+12368713428,,,,SSH tunneled from remote machines.,,py-python-dtrace and direct benchmark output as JSON into Python,,,"Very boring statistical analysis, anova, etc.",,,,,,,,I find it difficult to insert/remove/manage a cell or sets of cells.,"While I don't tend to use Jupiter for my own data analysis, I use it heavily in teaching undergraduate and graduate students. It's really helped standardize a data collection/manipulation/presentation environment for us, taking the burden off students doing data plumbing, an instead letting them focus on their tasks."
+12368408137,,,"sam, acme",,,,,,,,,,,,,,,
+12367792052,,,,,"Buiding applications prototypes. Voila is a great product. Due to voila, the Jupyter is greatly winning over Zeppelin.",,,,,Apache Zeppelin,No easy access / right off the bat charts like Zeppelin.,,,Share outcomes of my analysis.,,,No Marketplace for notebooks/notebook apps like Voila.,
+12367329667,,,,,,,,,,,,,,,,,,
+12367137770,,,,,,,,,,,,,,,,,,"yes, I need sharing  knowlodge"
+12367038465,,,,,,,,,,,,,,,,,,Wish I didn't have to run entire chunks at a time.
+12366977184,,,,,,,,,,"Metabase, Redash",,Dataiku,,,"We work some times in the same project but different parts, or in the same part, depends of the project. And for collaboration we use other software.",,,
+12366920732,,,,,,,,,,d3.js + React,,,,,,,,
+12366919347,,,,,,,,,,,,,,,,,,"Thank you for your thorough work on jupyterlab, you are amazing!"
+12366692137,,,,,,,,,,Excel,,,,,,,,
+12366675804,,,,,,,,,,,,,,,,,,not a fan of JupyterLab and it does't have the same stable experience as Jupyter Notebook.
+12366066002,,,,,,,,,,,,,,,,,,
+12365962964,,,,,,,,,,,,,,,,,,
+12365820942,,,,,,,,,,,,,,,,,,muath
+12365692616,,,,,,,,,,,,,,,,,,
+12365646519,,,,,,,,,,,,,,,I am supervisor of juniors and students,,,
+12365478958,,,,,,,,,,,,,,,,,,
+12365392830,,,,,,,,,,,,,,,,,,
+12365231932,,,,"UBY: Mobile: Minimize the left margin, conda-forge has ARM64 packages but there are like no ARM64 wheels on pypi","Publishing Linked Data (RDFa, JSON-LD)   within notebooks: notebook-level metadata, cell-cevel metadata and outputs w/ _reor_json_, _repr_html_","SPARQL, GraphQL, schema.org/Dataset , schema.org/DataCatalog","CSVW, JSON-LD",How to publish JSON-LD with _repr_html_ (only visible in the HTML render; alternative: add a JSON-LD *1.1* @context for nbformat so that application/json-ld cell outputs are read),,"https://github.com/ideonate/cdsdashboards , scikit-yb yellowbrick",Visualizing RDF,,dask-labextension,,,,"""Launch a notebook server locally from a link or a downloaded file; like BinderHub for the desktop"" https://github.com/westurner/nbhandler",https://github.com/jupyterlab/rtc
+12365116288,,,,ssh to on site server,,,,,,Panel and soon streamlit,,,,,,,,"When teaching and presenting with the notebook, it would be really nice if it was possible to show the output on the side of each input cell so that the entire input code could be kept in view for long output such as plots. The current solution of split view for notebook does not perform well, and new view for output needs to be create for each cell. And collapsed code is reopened upon execution.    An option to reverse error message or simply print the final line wit the actual error also on top just under the input would save a lot of scrolling."
+12365060479,,,,,,,,,,,,,,,,,,
+12365059925,,,,,"The way this question is worded, it implies that I actually use Jupyter instead of the specific python package. ",,,,,,,,"In terms of splitting notebooks, please consider having the ability to drag non-coding cells around, so that one can annotate or comment much like Tufte-style footnotes in the margins.",,,,,"The integration between Jupyter and Conda could be tighter. It'd also be nice to be able to save a history of values in a certain cell, so that one can see how they change. For instance, say I'm computing the correlation between two data features, and both are computed using manhattan distance. If I switch the definition of one to euclidean, it'd be nice upon recalculating the correlation to see what it was last time, and the time before that, etc. "
+12365059344,,,,,,,XML documents,,,,,,,,,,,
+12365044836,,,,,,,,,,,,,,,,,,
+12365033343,,,,,,,,debugging code in jupyter notebooks,"Numerically solving ODEs / PDEs,  large scale optimization",,,,,,,,,
+12365029535,,,,,,,,,,,,,,,,,,
+12364890363,,,,,,,,,,,,Rundeck,,,,,,Co-development is tricky
+12364345879,,,,,,,,,,,,,,,,,,
+12363815591,,,,,,,,,,,,,,,,,,
+12362919531,,,,,,,,,,,,,,,,,,
+12362834493,,,Eclipse,,,,,Interrupt of kernel fails / takes hours sometimes,,,,,,,,,,"Viewing large cells is with arrow scroll keys is tough, tends to skip over relevant content.   Non-linearity / no way to enforce that most recently executed cells go to the bottom of the stack."
+12362750354,,,,,,,,,,,,,,,,,,
+12362551560,,,,,,,,,,,,,,,,,,
+12362331387,,,,,,,,,,,,,,,,,,
+12362071872,,,,,,,,,,Power BI,,,,,,,,
+12361830390,,,,,,,,,,,,,,,,,,
+12361821039,,,,,,,,full output does not fit into visual,,matplolib,,,,,,,,
+12361785299,,,,,,,,,,,,,,,,,,Debugging and a better functionality to convert to .py
+12361780348,,,,,Use to conduct workshops/teach topics.,,,,,,,,,,,,,only reason I'm not switching to JupyterLab is the lack of support from regular jupyter notebook themes
+12361709759,,Data Analyst,,,,,,,,Power BI,,,,,,,,
+12361543387,,,,,"Practicing use of new libraries, writing new features and applications. Checking proof of concept and learning new technologies shared in research papers...",,,,,,,,,,I only use it for practice,,,"-Very limited options to edit text and comments in a Jupyter notebook.   -No native support to make adjustable graphs with sliders or other interactive features  -Limited options to visualise location coordinates on a world map (have to rely on 3rd party  libraries with limited locations)  -A variable can be changed in one cell only, can’t be changed in other cells at same time intuitively  -less auto completion of commands  -Very bad error logs with vague info make code hard to debug   -No GPU acceleration for normal work "
+12361508058,,,,,,,,,,,,,,,,,,This is feedback for the survey itself: for the slider on question 16 it immediately goes from zero collaborators to 10. The use cases for a 1-3 collaborator notebook is much different from a zero collaborator notebook.
+12361436916,,,,,,,,,,,,,,,,,,
+12361359629,,,Google Colaboaratory,,,,,,,,,,,,,,,None so far.
+12361302972,,,,,,,,,,,,,,,,,,
+12361286020,,,,,,,,,,,,,,,,,,NA
+12360908087,,,,,,,,,,,,,,,,,,
+12360869985,,,,,,,,,,,,,,,,,,
+12360807969,,,,,,,,,,,,,,,,,,
+12360736348,,,,,,,,,"Quality checks, statistical qa",,,,,Record results of QA/QC checks,,"Can not have Healthcare protected health information (PHI) stored in cell outputs, so can't effectively use version control if we want to have outputs saved.",,"More IDE functions would be lovely.  Autocomplete, jump to function declaration, debugging step-through, multi-cursor implementation, vim/emacs keyboarding.    Also, the Healthcare PHI in outputs is a big problem for adopting version control with cell outputs.  Really not sure how to solve it, though."
+12360710493,,,,,,,,,,,,,,,,,,
+12360541213,,,,RStudio Pro Server,Developing parts of applications. Testing functions and classes for expected performance. I prefer the notebook cell style to a terminal for this application.,SQL - Oracle Business Intelligence Enterprise Edition,,No true built-in IDE support. I do not see Jupyter Notebook or Lab as an IDE. It lacks the features of PyCharm/VSCode for developing.,Business Intelligence Reporting,Power BI,"Some improvements were made with Jupyter Lab 3.0, but having different support for Notebook vs. Lab with extensions has been an issue for packages like plotly.",IBM Workload Scheduler for schedules,"Jupyter could really stand to improve by offering a better interface for creating python packages and applications using .py and other related files like requirements.txt, .env, .sql, .html (with jinja support), .css. (package structure, Flask apps, Dash apps, etc.)",,"I mostly use Python, my collaborator mostly uses R. There are only two of us.",,"Poor support compared to true IDEs like checking if modules are installed, code completion, locating objects everywhere they appear, and other standard IDE features.","Many data scientists don't consider Jupyter Notebook/Lab to be an IDE. They have their place, and I use them daily, but I use PyCharm when developing Dash/Flask apps or creating Python packages. Jupyter could really benefit from adding that type of interface. Maybe something like Jupyter Develop, that functions like a true IDE."
+12360509431,,,,,Learning,,,,,,,,,,,,,Working with Terminal is confusing
+12360468809,,,,Deepnote and Kaggle,,,,Managing requirements.txt file with current dependencies used in the current notebook.,,,,,,,,"No easy way to add comments on a cell for example by someone from the team, so the rest of the team can read it.",,
+12360466987,,,,,,,,,,,,,,,,,,
+12360435958,,,,,,,,,,,,,,,,,,
+12360349877,,Machine Learning,SPSS,,,,,,,,,,,,,,,
+12360330179,,,,,,,,,,,,,,,,,,
+12360330030,,,,,,,,,,,,,,,,,,
+12360324438,,,,,,,,,,,,,,,,,,
+12360317668,,,,,,,,,,,,,,,,,,
+12360317143,,,,,,,,,,,,,,,,,,
+12360298750,,,,,,,,,,,,,,,,,,
+12360298541,,,,,,,,,,,,,,,,,,
+12359970384,,,,,,,,,,,,,,,,,,
+12359515310,,,,,,,,,,,,,,,"I share notebooks publicly on GitHub and NBviewer, but with lots of people (not one particular person).",,,
+12358083823,Fsharp,Structural Engineer,CoLaboratory,,,,,,,,,,,,I am generating data and sharing my calculations for review and potential rework (I also share HTML as a snapshot),,,"Overall, Jupyter Lab has been very good, but I have problems getting NodeJS working for using extensions (I am not an admin on my computer). I had to uninstall it."
+12357301334,Sage,,,,,don't work with data,don't work with data,,,,,,,,,,,
+12355097986,,,,,,,,,,,,,,,,,,
+12353445672,,,,,,,,,,,,,,,,,,
+12353429515,,,,,,,,,,,,,,,"As a senior, it is critical to be able to participate at different phases of a project",,,
+12352162495,,,,,,,,,,,,,,,I tutor my friends in basics of Python via Google Colab. I prepare fun programming excercises for them to solve and we discuss the code we write.,,,
+12351325301,,,,,,,,,,,,,,,,,,
+12351278553,,,,,,,,,,,,,,,,,,
+12351252324,,,Mostly Pycharm Pro for their support of notebooks,,,,,"On jupyter side, toughest thing is dropping connection -> logs/outputs are lost unless you take cae of that explicitly",,,,,,,,,,"Notebooks are very hard to keep integrated with other dev tools.  Git-tability is close to zero and even working with notebook as source e.g. during refactoring .py codebase is not a solved problem.    My closest solution now is pycharm pro - they have ok support for code writing and auto-completion/type-checks, but it hangs a lot, eats tons of memory for notebooks.     Other pain point is switching between servers. It is commonly assumed that notebook should be on the server, and for development/analytics it is a very wrong aassumption (I have to switch between machines when I need e.g much memory for genomics, or to gpu instances when doing computer vision, while some monitoring/simple analyses can be done on my machine).     Pycharm pro allows using remote notebook server with port forwarding thru ssh, I wish jupyter had this option in the box - i.e. execution kernel(s) should be separated from notebook interface and this should be quite configurable. Remote ipykernels did not work for me"
+12350723601,,Scientific/Engineering Computing,,,,,,,,,,,,,,,,
+12350294536,,,,,,,,,,,,,,,,,no formula editor similar to lyx,enable `\ref{}` and `\label{}` across cells. 
+12350203294,,,MATLAB,,,Robotic Operating System BAGs and data streams,ROS Bag,,"Data exploration, Statistical Signal Processing, Geographic data exploration",,Meeting installation dependencies for creating interactive plots in a stand-alone system is  too difficult and often fundamentally broken. ,,,,I would like to learn how to do this!,,Interactive plotting should be supported without the requirement to install any further packages or extensions. ,"I'm a former MATLAB user. I love Python, but compared to the MATLAB IDE, all Python IDE's including Jupiter are horrible! I'd love to see many basic features of the MATLAB IDE made standard. These include, truly interactive plots (without dependency hell) with intuitive easy to use tools to explore a data set, the ability to update a plot before cell execution completes so that animations with real-time data are possible, better tools in interact with a plot, including double-click zoom out, ability to select points, ability to graphically edit plot parameters. Other features include a build-in variable browser and build in debugger."
+12350158962,,,,,,,,,,,,,,,,,,
+12350064212,,,,,,,,,,,,,,,,,,
+12349752319,,,,,,,,,,,,,,,,,,One key feature would be real time editing of a notebook by multiple users at the same time.
+12349712099,,,,,,,,,,,,,,,,,,"I have not discovered jupyter properly, I will first Discover it."
+12349539639,Octave,,,,,,,,,,,,,,,,,
+12349286540,,,,,Exploratory data analysis,web scraping,html,,statistical analysis,Excel,I found widgets confusing to program,,large notebooks taking too long to render,,,,find and replace functionality better in classic notebooks,"I still use classic notebooks because the UX is better. Find and replace, moving cells and responsiveness is better in classic."
+12349060192,,,,wsl 2 with debian base distro,,,,,,,,,,,,,pls an uber alles autocomplete,"Please, need a good autocomplete.  And i think,in the foreseeable future, more people going to use wsl2 for have same os env and modules. this need a little focus for this project."
+12348904822,,,,,,,,,,,I clean the data using Jupiter then move the code into Pycharm for this type of thing. ,,"One openCV. Pillow & Tesseract assignment I had took a good ten minutes at least.  If I were to use image processing all the time then I wouldn't use Jupiter, no offence -.- ",,,,The progress bar is the Mac daddy of issues. ,N/A. 
+12348658943,pascalABC,,,,,,,,,,,,,,,,,
+12348646816,,,,,,,,,,,,,,,,,,Too much questions.  Make a simpler survey. Shorter!  Main reason to use Jupyter is that everything can be done local and it is FOSS. I do not trust Cloud things with my valuable data.    Keep it FOSS!!
+12346933440,,,,,,,,,,,,,,,,,,
+12345367919,,,,,,,,,,,,,,,,,,
+12344850338,,Hobby programmer,,,I use it to educate myself in Python and have fun in my spare time.,,So far haven't read external data,,Just fun projects as a hobby,,,,,,,,,Great tool - thanks to all the contributors!!
+12344338826,Internal,Manager,,,,,,,,,,,,,,,,
+12343610395,,,,,pizza is good,,p Y t H 0 n,,,,,,,,,,,hehe
+12343327809,,,,,,,,,,,,,,,,,,"Important extensions not Jupyter Lab compatible.    Variable explorer and integrated debugger are essential.    No extended markdown support ( Mermaid, etc.)"
+12343210684,,,,,,Google Big Query,,,,,,,,,,,,
+12342743924,,,,,,,,,,,,Azkaban,,,,,,
+12342705318,,,,self hosted on home server,,,,,,,,,,,,,,
+12342364853,,,,,,,,,,,,,,,,,,
+12341915156,,,,,,,,,,,,,,,,,,
+12341613373,,,,,,,,,,excel,,google colab,,,,,,
+12341273084,,,,,,,,,,,,,,,,,,
+12341019853,,,,,,,,,Probabilistic Models and Probabilistic Forecast,,,lab Beowulf cluster,,,We hava a large problem and my students works (theirs Thesis) on specific problems,,,
+12340771128,,,,main computer connected via network to multiple Raspberry Pi's running Jupyter Lab ,,Mqtt paho-mqtt,,,,pypi panel/ holoviz.org,,,,,,,,
+12340733159,,,,I would love to view and/or in JupyterLab on my mobile device.  Mostly to help students debug their code.,,,,,,,,,,,,,,
+12339887211,,,,,"Please add usable extensions to JupiterLab, I have never been able to make any of them work not form the GUI nor from terminal on any platform (macOS, Win10, Ubuntu). It is just a broken .... Please also add Automatic code  completion because the KITE extension doesn't work and JEDI is just stuck and don't want to auto complete COLAB's code complete works SOOO well, I just hate that I cant use the correct packages in Google Colab so I cant enjoys the code completion.",,,the GUI just crashes if I have large more than 300 field long notebooks open. No matter how strong is the computer Jupyter Lab just cant handle it.,,"Non, but there would be need so I can install any open source staff easyly becasue my matplotlib and seaborn grapsh are not too convincing for my management but I don't have time to use time wasting tools like the above mentioned ones.",,"DASK, rapids.ai",,,"Google doc like solution when you can edit the same doc would be cool. Especially anywhere like from my local machine share tokened link, or from EC2.",Especially because the git extension doesn't work or for that mater any plug in Version control is basically making saves as from jupyter files. It is absolutly terryfying. Jupyter have to do it beacuse installing GUI to version control on EC2 would be a pain in the ....,"THIS IS THE MSOT SERIOUSE EVER IN JUPYTER LAB: Poor autocompletion (e.g. LSP, show methods/ attributes).",You guys are cool. Makes my work just soo much better. Thank you. And please try to actually put my recommendations in to practice especially the collapsing GUI because of long notebooks and the code completion like Google Colab. I am happy to help if you contact me I am pretty passionate about good user experience. LOVE YOU GUYS :D
+12338824788,,,,,,,,,,,,,,,,,,Thank you
+12338708990,,,,,,,,,,,,,,,,,,
+12338215567,,,,,,,,,,,,,,,,,,
+12338031783,,,,,了,；,,,,,,,,,了,,,。 
+12336161515,,,,Rare use by searching jupyter.org,I am a poor student ><  ,,,,,,,idk the meaning of the question,idk,,,,,sometimes servers broke.....................
+12335861806,,,,,,,,,,,,,,,,,,
+12335676983,,,,,,,,,,,,,,,,,,
+12335469109,,,,,,,,,,,,,,,,,,
+12335297345,,,,,,,,,,,,,,,,,,good
+12335022344,,,,,,,,,,,,,,,,,,
+12335007471,,,,,,,,,,,,,,,,,,"Currently stuck trying to reinstall via pip/brew since had issue with kernel not finding library. Would like to see timing info for notebook, integrated unit testing. Ideally flag variables that were deleted (for example color coding or highlighting cells that are no longer consistent if rerun - for example due to deleted code)."
+12334989317,,,,,,,,,,,,,,,,,,
+12334532702,,,,,Teaching python. Works well. Better than other tools.,,,,,,,,,,,,,
+12333927924,,,,,,,,,,,,,,,,,,
+12333177920,,,,,,,,,,,,,Large (or image heavy) notebook lag,Collaborative research and development,,no realtime collaboration (collaborative editing); no notebook version time travel,,
+12332337705,,,,,,,,,,,,,,,,,,
+12332194527,,,,Run directly on non-local server (not cloud),,,,,,,,,,,,,I hate that the editor automatically adds closing parentheses and quotes.,"My major grip with Jupyter is the inability to mix languages in the same notebook.  E.g., I'd like to have cells in Python producing data that is passed to cells written in R.   Currently considering org-mode as superior to Jupyter because of that."
+12331859289,,,,,For run a FML code,,,,,,,,,,,,,No problem 
+12331515977,,,,,,,,,,,,,,,,,,
+12331467722,,production engineer ,,,,,,"slides are great way to show work to non technical, but it must become more trivial",,panel holoviz bokeh. why isn't it in the list?!,RAM gets overloaded too quickly even after deleting cells plotting Bokeh figures,,,I use it as documentation and report,,,,Dark mode buggy with Bokeh   Resource management
+12331464845,,,,,,,,"markdowns dont hold there formatting , very frusturating for educational templates",,,,,,,,,,Its difficult to document as i would like to in Markdown mode    It would be nice to have a simpler more fully featured gui to save time    the #### system for bolding can get very tedious
+12331006658,,,none,I know by my Professor during python training.,For practice coding.,None,None,,None,,,NONE,,,,,,
+12330794201,,,,,,,,,,,,,,,,,,
+12330702140,,engineering calculations,,,,,,,,,,,,,,,,
+12330635552,,,,,,,,,,,,,,,,,,
+12330549374,,,,,no,,,,,,,,,,,,,nofghhhy
+12330491498,,,,,,,,,,,,,,,,,,"sometimes when I run a long code, it never loads and keeps running with that star on the side. When this happens I need to duplicate the file and try running again. This is very annoying "
+12330208966,,,,,,,,,,,,,,Share data analysis,,,,
+12330106714,,,,,,,,,,bokeh,,,,,,,,
+12329561565,,,,,,,,,,,,,,,,,,
+12329335658,,,,,,,,,,,,,,,,,,
+12328976171,,,,,,,,,,,,,,,,,,--
+12328876874,Bash,,,Cloud Service - JupyterHub on-prem Kubernetes,,,,,,,,,,,,,,JupyterLab is awesome. Would like to see a SINGLE JupyterLab frontend with support for both local and remote (Jupyter Enterprise Gateway) kernels
+12328780096,,,,,1. creating single page website with Voila  2. As templating tool to run repetitive on demand shell scripts on remote servers with self-documenting streaming output. Using this to build a template to semi-automate database migrations and upgrades.,,,,,,,,,,,when converting notebook with nbconvert using custom template can not make jinja2 template use Python modules,,"Kernel hangs when shell command executed with ""!"" magic accidentally prompts for input. For example ""! scp file username@remote_server"" and remote server prompts for password. There is no  prompt in UI and kernel has to be restarted loosing all variables."
+12328739156,,,,,,,,,,,,,,,,,,
+12327126026,,,,,,,,,,,,,,,,,,
+12326485715,,,,,,,,,,,,,,,,,,
+12326328376,,,,pipx,,,,Would like a nice CSV editor.,Mainly just exploratory analysis.,Qlik,,,,,,Can we please just make jupytext Standard?,,
+12326033004,,,,,,,Binary sensor data,,,,,,,,,,Cells don't auto expand to fit browser width.,
+12325960398,,,,,,,,,,nothing,,,,,nothing,,,
+12324952048,,,,,,,,,,,,,,,,,,
+12324950599,,,,,,,,,,,,,,,,,,
+12324526028,,,,,,,,,,,,,,,,,,
+12324382779,,,,,,,,,,,,,,,,,,
+12323795279,,,,Remote machine,"Learn, do python excercises",,,,Image analysis,,,,,,,,,
+12323645604,,,,,,,,,,,,,,,,,,
+12323112610,,,,,,Hardware,,,,,,,,,,,,
+12323072321,,,,,,,,,,,,,,,,,,
+12322843878,,,,,,,,,,,,,,,,,,
+12322811515,,,,,,,,,,,,,,,,,,
+12321167647,shell,Statistician,,,,,,,,,,,,,,,,"I use both RStudio and JupyterLab extensively for my statistical consulting business - I typically have 3-10 different projects going at once. I would really like a ""Project"" or ""Workspace"" feature, where each project can have it's own settings and can be managed / switched between inside the interface.    "
+12321072591,,,,,,https://www.hec.usace.army.mil/software/hec-dss/,,,,https://panel.holoviz.org/,Some Conflicts with Dark Theme depending on plot engine,,,,ad-hoc at best.  seems clunky.,,CANT LINK MULTIPLE NOTEBOOKS TO THE SAME RUNNING KERNEL.,"Despite the rough edges, Jupyter is great and allowed me to ditch mathematica.  A few more feature updates and I can fully ditch matlab too!  Thank you for such a great open source project!"
+12321038877,,,,,"Many of these tasks (particularly writing software packages and tests, documentation, etc.)  I *don't* expect jupyter to be good at. Or rather, I view Jupyter as a way of quickly interacting and visualizing with data, but not where I do ""proper"" programming.",,,,General visualization and data exploration. ie. I run a simulation and want to know what happened,,,,,Independent and collaborative exploration of data,,,,
+12320547655,,,,,,,,,,,,,,,,,,
+12320032659,,,,Own server,,,,,,,,,,,,,,
+12319954884,,,,,,,,,Bioinformatics,,,,,,,I use jupytext for version control,,"My biggest pain point right now is poor support for LSP. I'm using it, but it's performance is varying: sometimes works fine, sometimes extreeemely slow (such that it's faster to google), sometimes just doesn't work at all. To have a working and fast documentation viewer and autocompletion (bonus would be jump to definition), in whichever implementation (LSP or other), would currently bring me the most value in my daily work with jupyterlab."
+12319950240,,,,,,,,,,,,cvnrg.io,,,,,,a tensorflow and pycuda integration would not be a luxury
+12319834645,,,,,,,,,,,,,,,,,,
+12319740280,,,,,,,,,,,,,,,,,,
+12319431331,,,,,,,,,,,,,,,,"I guess track changes is possible with a diff of the JSON ipynb file, but that is not pretty.",,
+12318308124,,,,,,,,,,,,,,,,,,
+12318053527,,,,,,,,,,,,,,,,,,
+12317797458,,Hobbyist,,Cloud service - SAP (Data Intelligence),,Files on the web (accessible via HTTP(S)),,,,SAP Analytics Cloud,,Pipelines in SAP Data Intelligence,,,,,,
+12317767424,bash,,,,,,,,,,,,,,,,,
+12317204345,,,,,,,,,,Microsoft PowerBI,,,,,,,,Thank you. You guys are doing a great job.
+12317110027,,,,,,,,,,,,,,,,,,
+12316957583,,,,,,,,,,,,,,,,,,
+12316810783,,,,,,,,,,,,,,,,,,
+12316800264,,,,,,,,,,superset,,,,,,,,
+12316535577,,,,,,,,,,,,,,,,,,how to use jupyter as full-online ide
+12316413120,,,,,,,,,,,,,,,,,,
+12316410344,,,,,,,,,,,,,,,,,,
+12316155596,,,,,,,,,,,,,,,,,,
+12316057217,,,,,,,,,,,,,,,,,,
+12316049341,,,,,,Microsoft Excel,,,Automating Pattern-Finding in Stock Market Historical Data on Excel,,,,,,,,,
+12315846690,,,,,,,,,,,,,,,,,,
+12315801101,,Research Software Engineer,,,,,,,,Bokeh,,,,,,,,
+12315542974,,,,,"Simulation steering, Jupyter is pretty good for this but not perfect, there are no other tools I've tried that have been better.",,,,,,,Need a better way to optionally offload to compute node.,,,"It's difficult to review notebooks/changes to notebooks in Bitbucket (on-site), GitHub is nice though=]",,,
+12315068956,,,,,,,,,,,,,,,"I collaborate with people across multiple distinct and non-overlapping projects, there is not a single collaboration.",,,
+12315066073,,,,,,,,,,,,,,,"We generally review results, rather than the code itself.",,,
+12314837958,,,,,,,,,,,,,,,,,,Please make jupyter notebooks more collaborative and compatible with git!! Crucial for pair programming and code reviews
+12314737545,,,,,,,,,,,,,,,,,,
+12314617048,,,,,,,,,,,,,,,,,,
+12314211407,,,,,,,,,,,,,,,,,can't hide cells,
+12314130274,,,,,,,,,,,,,,,,,,
+12313728772,,,,,,,,,,,,,,,,,,
+12313692781,,,,Cloud Server - Tencent; Could Server -Huawei,,,,,,,,,,,,,,"No, Jupyter Notebook generally runs well. Good job."
+12313465658,,,,,,,,,,,,,,,,,,no
+12313301839,,Civil Engineer,,,,,,,,,,,,,,,,
+12313275963,,,,,,,,,,Bokeh,,,,,,,,
+12313167464,,,,,,,,,,,,,,,,,,
+12313147107,shell commands (! exclamation mark commands),,,,performance comparison of tools/code snippets,,,"open only first view lines of [text/csv] file if too big, otherwise UI freezes/crashes",,,,pygeoapi,,,,,Awful terminal experience. Should more resemble local terminal with shortcuts etc.,
+12313115464,,,,,,,,,,,,,,,,,,Very poor version control (git) is by far the main pain point keeping me away of using jupyter more often.
+12312826454,,,,,,,,,,,,,,,,,,
+12312494860,,,,,,,,,,,,,,,,,,
+12312404571,,"Consultant, database analyst",,,,,,,Data analysis and transformation,,,,,,,,,
+12312111200,,,,,,,,,,,,,,,,,,
+12311979607,,,,,,,,,,,,,,,,,,You guys are doing a great job. Keep it up! :) 
+12311901377,,IAM Architect,,,,screen scraping from web pages,,,,,,,,,,,,
+12311777163,,,,,,,,,,,,,,,,,,
+12311776595,,,,Cloud service - Coursera,,,,,,,,,,,,,,
+12311633620,,,,,,,,,,,,,,,,,,"Need separate application or software , rather than online mode."
+12311260298,,,,,,,,,,,,,,,It ca be better,,,I like the app
+12310895621,Bash,,,,,"RDF graphs + vocabularies, not Graph DBs",,Better tools for rendering notebooks to Markdown,,,,Ray,,,"GitHub, mostly",Robust conversion to Markdown,,"Our team has had to build tools for integrating Jupyter notebooks (e.g., in an ""examples"" subdirectory in a GH repo) into MkDocs for documentation. The existing tooling for this is horrid. Fallback to frameworks like Sphinx or Django are not robust solutions. The Jupyter Book thing really isn't viable, either.  If Jupyter wants to be taken more seriously as a ""publishing format"" you'll need to get more pragmatic in this area.  Let's us know if you want to collaborate: "
+12310895597,,,,,,,,,,,,,,,,,,"A big pain point (that's been improved a lot, but could use even more improvement) is the built in graph viewer. I still find it hard to show matplotlib graphs with a good UI. Hovering points and lines to see chart values is hard to get working. Zooming in is often broken. Other features like enabling or disabling the grid or legend aren't supported. There's a lot of possible features for making viewing [matplotlib] graphs in notebooks good and seamless.    I also frequently have to rerun sets of cells. Right now I manually choose the top cell and just shift-enter until I reach the last cell. It works, but there may be a better workflow here."
+12310889731,,,,,,,,,,,,,,,,,,
+12310794969,,,,,,,,,,,,,,,,,,
+12310623635,,,,,,,,,,,,,,,,,,
+12310612019,,,,,,,,,,,"Creating dashboards with dynamic data - e.g. IoT, Forex or Stocks data",,,,,,,"It will be great to have features to - 1) Create live interactive dashboards / quick dashboard applications from notebooks,   and 2) run notebooks from CLI (without any UI), like in .bat or .sh commands."
+12310531132,,,,,,,,,,Corporate Solution,,"I'm a business User, don't care about how to scale the server on which jupyter is running.",,,,,,
+12310308811,,,,,,,,,,,,,,,I take the role of a research assistant,,,
+12310230471,,,,,,,,,,,,,,,,,,I wish you all a pleasent 2021
+12310183556,,,,,,Excel,,,,Power BI,,,,,,,,
+12310082520,,,,Cloud service at notebooks.gesis.org,"Creating interactive exercises, labs and other teaching material for university students.",,,,,,,,,,,Better git support! Please!!,Exporting a simple notebook as PDF fails due to linked images - this is at least a major challenge for my target application in an educational environment!,"- An easy way for versioning notebooks with git! Please!!  - I would like to use interactive widgets but support in JupyterLab is poor.   - Version chaos of various Jupyter components has led me to only use the most basic setup without any extensions.   - Exporting notebooks to other formats like PDF or LaTeX is more or less unusable, I haven't been able to create good looking PDFs with all images present (except by imporing PNG as base64 which is a PITA).  - Being able to import common text cells (e.g. for copyright notices or header) would be very helpful. "
+12310061525,,,,,,,,,,,,,,,,,,
+12310025295,,,"unix scripting, sqlite, simulation tools",,,,,,,,,,,,,,,would be interesting to see more plugins on drawing/rendering outputs from data e.g. from simulation and CAD tools
+12309929781,,robotic process automation,,I installed winpython and got jupyterLab with that ,,,,,,,,,,,,,,
+12309898850,,,,,,,,,,,,,,,,,,Excellent
+12309828601,,,,,,,,,,,,,,,,,,
+12309745689,,,,,,,,,,,,,,,,,,
+12309718146,Maxima,,"R, Maxima",,,,,,,,,,,,,,,
+12309677406,Matlab,,,,,,,,,,,,,,,,,
+12309645393,,,,,,,,,,,,,,,,,"Not having a floating ""scratch pad"" to prototype expressions",I consider these extensions the minimum necessary for me to be productive with Jupyter:  - Initialization cells  - Collapsible headings  - Variable Inspector
+12309425153,,,,,,,,,,,,,,,,,,
+12309415315,,,,,,,,"Installing a package on jupyter does not guarantee it will actually work on the virtual env; often matplotlib inline doesn't work, troubleshooting docs are a bit confisung.",,"Altair, Bokeh, Pandas-profilling",,,,,,,,
+12309270194,,,,,,,,,,PowerBI,,,,,,,,
+12309151097,,,,,,,,,,,,,,,,,spellchecker native,
+12309089700,,,,,,,,,,,,,,,,,,
+12308994117,,,,,,,,,,,,GenePattern,,,,,,
+12308989530,,,,,,,,,,,,,,,,,,
+12308970060,,,,,,,,,,,,,,,,,,
+12308724159,,,,local linux server,,,,,,,,,,,,,,
+12308603373,,,,,,,,,,,,,,,,,,
+12308579384,,,"IgorPro, SciDaVis",,,"Online government databases (NIST), real-time collected data",real-time measured python data structures,Pandas mostly solves issues with dataframes.,"Analysis of raw scientific data, data type specific methods.",,"Most plotting tools could use improved GUI for adjusting axes labels, plot-style, zoom, etc...",,,,Semester duration in a class as instructor helping students.,Live sharing of the same document on a Jupyterhub would be realy nice,,"A) The complexity of the JupyterLab interface makes it difficult to use with students that are not programmers. The ""Classic"" view is better.    B) The security protections on JupyterLab make it difficult to develop simple javascript additions for special purposes. I have enough of these that I have stuck to classic Jupyter notebooks for my uses."
+12308507073,,,,,,,,,,,,,,,I'm not sure if sharing a notebook with students counts as collaborating for your survey...,,,"Thank you so much for the way you worded question 4. I'm a university lecturer - I teach but don't research. Most surveys I do have an option for K-12 and one for research faculty, and I'm left trying to decide which box to pick.    My biggest barrier with notebooks is just having the time within my professional life to learn more. I use them for teaching, and it's flipping amazing, and I know that I'm missing a lot of cool features for teaching that I just haven't had time to learn."
+12308436020,,,,,I use notebooks to teach Python and SQL. It's wonderful. I love it. ,,,,,,,,,,I'm a teacher. ,,,"Overall I *love* Jupyter Lab. My students love it too because of the ability to mix notes and code. There are a few pain points that I have:     1. I distribute notebooks with programming assignments that have embedded unit tests. I would like a more convenient way to make cells read-only.   2. The XPython debugger is a great teaching tool that could use a bit of polish.   3. The UI overall could use a bit more polish (e.g. download all files in a directory, create a *.py file in an easier way, better looking fonts).     Thank you so much!"
+12308396703,,,,,,,,,,,,,,,,,,
+12308354252,,,,,,Scraped data,,,,,,,,,,,,
+12308347207,"Haskell, F#",Hobbyist,Orange,,,,,,,,,,,,,,,
+12308337443,,,,,,,,,,,,,,,,,,
+12308227503,,,,,,,mzML/XML,,,Bokeh,,Dagster,,,,,,
+12308031689,,,,,,,,,,,,,,,,,,
+12307979522,,,,RStudio Server Pro,,,,Building docker containers via UI like pycharm tool,,,,RStudio Kubernetes Launcher + RStudio Connect,,,Not close to RStudio Connect and RStudio Project Sharing (real-time editing of a code from a colleague),,,"Honestly,    JupyterLab is a great tool for prototyping, sharing plots and making some dash prototypes.    But it is very difficul to build production code with it. We discourage the usage of Jupyter notebooks and Jupyterlab in our organization and we have set the following guidelines:    If a project uses R ---> go with RStudio or VSCode  If a project uses Python ---> go with PyCharm  If a project uses Python and R ---> Its up to your choice what to choose.    We are aware of kubeflow, papermill and other tools to make notebook based workflows/schedulle them but our position is to go with dockerized code running in different services (sagemaker, eks, aws batch) and use lambdas for configuration of the pipelines and step functions for pipeline management."
+12307813339,,,,,,,,,,,,,,,heavy,,,loading server not connected
+12307775436,,,,,,,,,,,,future,,,,,,
+12307567786,,,IntelliJ IDEA,,,,,,,,,,,,,,Missing Find/Replace,
+12307531793,,,,,,,,,,,,,,,this question is odd. I collaborate with different people in different ways.,,,"I really like jupyter, but the editing experience is inferior to google colab - adding text cells etc, deleting cells    Colapsing cells is klunky.    Knowing which cell failed, knowing which cells are scheduled to run.     Editing by multiple windows/machines/users at once.    My notebooks run on a server I connect to using a VPN. When I open my laptop in the morning, why cant the notebook be re-updated with ALL output.    I dont understand why the widgets needed for TQDM progress bars arent installed by default."
+12307514997,,,,,,,Binary memory-mapped Numpy arrays,Matplotlib: Missing interactive features relative to Tcl/Tk,,Matplotlib,"Plotting tool = Matplotlib, which I use outside of Jupyter to leverage the Tcl/Tk interactivity",,,,,,"Very clunky UX with scrollable result boxes inside a scrollable notebook. I wish results had no scolling, and scrolling would happen only at the level of the entire notebook",
+12307457781,,,,,,,,,,Bokeh,,,We tend to write python scripts when need to scale/batch,,,,,"Jupyter notebook is a great tool for quick analyses, for running data cleaning/data feasibility studies, however we tend to not use it for production codes due to the fact that it is not linear/it is stateful and it is hard to execute/schedule from outside. For this reason, we often write python scripts."
+12307348716,Matlab,,,,,,,,,,,,,,,,,
+12307339112,,,,,,Network drives,,,,,,,,,,,,
+12307287271,,,,,,,,,,,,,,,,,,Dealing with long-running computations on remote servers where the output gets lost and/or I have to refresh the browser page after my local computer goes to sleep.
+12307277288,,,,,,,,,,,,,,,,,,I'd like Jupyter to be free software and not just open source
+12307168313,,,,,"Hi,  I am beginner to Jupyter with about three months, and I look forward to using in wide applications and my answers above are  the ones I am going to utilize soon.",,,,,,,,"But I need to be acquinted with the aplications and sources very well,  and become an expert in Jupyter.",,,,Thank you  very much with survey. It helped me to know Jupyter in detail.,"Just very much interesting survey, and Jupyter a big company!"
+12307133125,,,,,,,,,,,,,,,,,,I would like a side panel console to make some trial before putting it in my notebook .
+12307084861,,,,,,,,,,,,,,,,,,
+12307051385,,,,,,,,,,,,,,,,,,
+12306797339,,,,,,,,,,,,,,,,,,
+12306739719,,,,,,,,,,,,,,,,,,GOOF
+12306718794,,,,,,,,,,,,,,,,,,
+12306652176,,,,,,,,,,,,,,"Present results, Document a process",,,,
+12306604869,,,,,,,,,,,,,,,,,,
+12306596093,,,,,,,,,,,,,,,,,,
+12306455379,,,,,,,,,,,,,,,,,,
+12306337211,,,,,,,,,,,,,,,,,,
+12306071328,,,,,,,,,,,,,,,,,,
+12305923585,,,,Cloud service - Paperspace,,,,,,,,,,,,,,
+12305906406,,,SQL Command Line,,,,,,,,,,,,,,,
+12305886874,,,,,Live coding exercises,,,poor version control,,Metabase,binary images make .ipynb files harder to manage on git,,,"mentoring, providing feedback on their code","we use Sphinx, Jupyter, Mkdocs, Notion and a few others",,,
+12305885097,,,,,,,,,,,,,,,,,,
+12305785824,,,,,,,,,,,,,,,,,Needs a dual monitor mode - 2 column layout with data preview on one side and cells on the other,
+12305746484,,,,,,,genome sequence data,,,,,,,,"I collaborate, but not with Jupyter Notebooks",,Auto-indent is too aggressive and no VI key bindings for cell editing.,"I would like to be able to edit cells as if I were using VI, and source my .vimrc or somehow customize key-bindings. A more functional PNG/PDF viewer would be nice (at least the ability to zoom in/out).     My final and biggest complaint about Jupyter is the persistence of variables. I know this is a tough one to solve, but I've been foiled by the persistence of variables that I deleted many times--to the point where I've considered ditching Jupyter. "
+12305735671,,,,,,NDeX,,,,,,,,,"Is publishing APIs and cookbooks a form of collaboration? I think so, but I don't see how to capture that here.",,,"We're using Colab because of natural sharing capabilities. We'd be happy to use other public Notebook servers, but they're hard to find. Also, we're concerned that Colab may eventually become incompatible with Jupyter."
+12305708828,,,,,,,,,Reporting,Proprietary,,Proprietary,,Launch evaluation,,None of this is available in free Jupyter,"Free Jupyter is missing some of these, plus it OOMs on long-running notebooks due to saving old outputs.","Keeping code and outputs in sync:  Versioning git code, ML outputs (like tensorboard), and notebook cells together is not really possible.  Closing your browser results in your code output and notebook output diverging, so you need to log everything in addition to showing it in the notebook. Or you can launch a chrome instance on the server and only use Jupyter through VNC.    Interacting with data:  Widgets API is not modernized.  Concurrency control is not good - run a ML training cell and a visualization cell in parallel.  Inconsistencies in single-kernel vs multiple-browser model.  Challenging APIs - how to show a side-by-side comparison? And compatibility breaks frequently.  Larger media needs to be outputted to a separate stream (such as a network drive or VNC server). This can be a video, or just a long running stream of text updates as Jupyter keeps them all."
+12305701543,,,"Hadoop, Spark, Hive, Pig, etc.",,,,,,,"Kepler, etc.",,,,,,,,"Jupyter extensions are probably the best feature that allows others to contribute and folks like us to leverage benefits. But per my experience it quite poorly managed. Most available extensions are broken due incompatible dependencies. Probably this could be well managed under UI, one can perform compatibility checks beforehand before making it available under UI. "
+12305651572,bash,,,,,,"bioinformatic file formats - vcf, fastq, bam",,general exploratory data analysis,,,,,,,,,
+12305604909,,Machine Learning Engineer,,,The table of contents is the best bloody feature of all.,,,,,,Databricks has a built in simple charting mechanism. I used it all the time. It's great.,,,,"Collaboration is incredibly difficult because we manage our notebooks in a git repo. We cannot work on the same notebook at the same time. Git always has merge conflicts when trying to coalesce notebooks from different branches. It's been an issue forever. We have to collaborate the old-fashioned, manual way. I have to manually coalesce code changes into my branch, or start from someone else's branch and add my code to it. It's a pain. ",,,I tried to install Jupyter Labs version 3.0 and it failed because of dependency issues. The version of anaconda I'm using is up-to-date as of about 2 months ago. Please contact blukefore@gmail.com if you'd like a copy of the error.
+12305577357,,,I don't use non-cloud tools.,,This table is overwhelming.  I put fake answers because I didn't feel like answering it.  You shouldn't force people to fill big tables if you want useful info.,,,,,,,,,Your question 16 only allows **multiples of 10** for the number of people with whom I collaborate.  That's not useful.,...,,,
+12305554313,,,,,,,,,,,,,,,,,,
+12305551275,,,,,,,,,,,,,,,,,,Rust Support
+12305510048,,,,,,,,,,,,,,,,can't simultaneously edit a notebook,,I have tried writing extensions for jupyterlab and it is *way* harder than for classic notebook. That will keep a lot of innovations from being developed.
+12305503440,,,,,,,,,,,,,,,,,,
+12305491908,,,,ssh pipe,,,,,,,,,,,,,,A simpler way to create theme extensions using css only is realy needed for the community
+12305363612,,,,,,,,,,Redash,,,,,,,,
+12305338759,,,,,,,,,,,,,,For certification,,,,
+12305327192,,"Data journalism (sports, local civic data); digital humanities",,Cloud server - Digital Ocean; home RPi server,,,,,,,,,,"Q16 didn;t let me say I work with 1 or two others (options were teams of 0, 10, 20..?)",Editorial review (teaching materials),,A lot of the issues listed in this section I solve using extensions,
+12305114997,,,,,,,,,EDA,,,,,,,,,always having issues regarding hidding code in notebooks to PDF
+12305107048,,,,,,,,,,,,,,,,,,
+12305094255,,,,,,,,,,,,,,,,,,
+12305066424,,,,,,,"ROOT, awkward-array",,Building empirical PDFs (histograms),,,,,,,,,
+12304995491,,,,,,,,,,,,,,,,,,
+12304970858,,,,,,,,,,,,,,,,,,
+12304965631,,,,,,,,,,,,,,,,,,
+12304954729,,,,,,,,,,,,,,,,,,
+12304947452,,,,,,,,,,,,,,,,,,
+12304905622,,,,,,,,,,,,,,,,,,
+12304900841,,,,,,,,,,,,,,,,,,
+12304886334,,signal processing,,,Interspersing LaTeX in markdown with demonstration python code.,,,,,,,,,,,,,Please work with git developers to develop hooks for stripping or ignoring binary output.  
+12304871255,,,,,,,,,,,,,,,,,,
+12304855626,,,,,,,,"generally, the current state of variables is impossible to know in jupyterlab. reactive notebooks would be nice.",probabilistic programming (pymc3),streamlit,,,,,phd supervision,,,"i've tried so many times to use jupyterlab, but it's a mess.    upsides: jupyterlab is fast, faster than atom/vscode or even spyder. it's fast both for executing code and the interface doesn't lag while doing it.    painpoints:  - you have to right click inside a python file to open a console for ipython.    - creating a console from a file creates its own separate kernel    - two files CANNOT share the same kernel?!    - outputs in the console can’t be interacted with. plotting something there, i can’t right click and save the file, or even make it bigger.     - the keybinding situation is a mess as there are different ones depending on what file type your working on    - changing keybindings is difficult because config file has different name than menu items and some things dont exist in menus    - to change font size, there are two billion different places to change, like one for each type of cell in a notebook, and different sizes for the UI and console output    "
+12304724799,,,,,,,,,,,,,,,,,,
+12304705318,,,,self hosted,,openBIS,,,,,,,,,Real time collaboration nb are really needed!,Real time collaboration is missing,,In university settings with collaborative project within and between groups real time collaboration (RTC) on same notebooks is needed. Also in teacher-student settings while writing reports it is important and would make work more efficient
+12304687188,,,,,"Loading, inspecting and visualising data",,"Gridded (NetCDF, Zarr)",,,,,,,,,,,
+12304640738,bash script,,,,,,,,,Jupyter notebook scheduled run with papermill,,,,,"I don't collaborate on notebook, I use notebook for a faster development and testing, and then I merge them into our codebase",,,"When I run a long running task, and for some reason the network is down, then the output is no longer updated to the notebook."
+12304634254,,RF Systems Engineer,,,,,,,Circuit Analysis Functions,,,,,,,,,
+12304625876,,,,,"What a terribly designed question. You did not bother, right?",,,"You did not bother again, right?",,Yandex DataLens,,,,,Please fire the survey designer.,,,Crappy survey design.
+12304618501,,,,,,,,,,,,,,,,,,Lack of proper support for git that ignores embedded  images generated in the notebook and only focuses on the code and text is a major headache. 
+12304614711,MiniZinc,,,,,,,,,,,,,,,,,
+12304599848,,,,,,,,,,,,,"I don't use notebooks for jobs that need to scale, just to build the initial pipelines",,,,,
+12304581802,,,,Paperspace Gradient Notebooks (https://gradient.paperspace.com/notebooks),,"Google Drive, Github",,,,Streamlit,,,,,,,,
+12304449489,,,,Pyodide,,,,,,"streamlit, panel, brython",,,,,,,,Ecosystem stability: sometimes it is difficult to develop extensions as the notebook/Lab includes many breaking changes between versions.    Extensions documentation: I would love to have a clear path to develop extensions and to know where I should start reading in order to create new extensions (Backend/frontend/messaging/...).
+12304437748,,,,,,,,,,,,,,,,,,
+12304429732,,,Google colab,from home ssh remote session on working computer ,,,,,,,I whold like an straightforward way  to switch between inline plotting and plotting in a popup figure in matlab,,,,,,,
+12304320754,Kotlin,Data Visualization Engineer,,,,,,,,,,,,,,,,
+12304318761,,,,,,,,,,none,,,,,,,,
+12304281655,,,,,,,,,,,,,,,"Teaching, projects for teaching",,,"I find it very difficult moving between tools.  In particular I use my text editor (Vim), Atom (with Hydrogen) for editing with some interaction and Jupypter (when I need better access to Run All, or a quick spin up and check.  This is very klunky, but it's the best I have found, after many years trying."
+12304248694,,,,,,,,,,,,,,,,,,
+12304238879,,,,,,,,,,,,,,,,,,
+12304238445,,,,Run on a remote machine through ssh (remote worker here :D),,,,,,Bokeh (migrating to panel),,,,,,,No way (AFAIK) to detect a cell whos content has been modified but the cell has not been executed,
+12304233149,,,,,,,,,,,,,,,,,"Since Jupyter is opened as a tab in the browser, switching IME may be annoying.",
+12304219415,,Data Analyst,,,,,,,,Power BI,,,,,"Large repo of notebook tasks, each (mostly) independent of the others",,,
+12304211702,,,,,,,,,,,,,,,,,,
+12304202160,,,,,,,,Refactoring - Critical,,,,,,,,,,
+12304197424,,,,,,,,,,,,,,,,,,
+12304194949,,,,,,,,,,,,,,,,,,
+12304189934,,,,,,,FITS file from Astropy,,"linear regression, non linear regression",,,,,,,,,
+12304187180,,,,,,,,,"Scientific computing: create mesh, FEM, BIE, analytical computation",,,,,,,,,
+12304158269,,,,,,,,,,,,,,,,,,
+12304148900,,,,,,,,,,,,,,,,,,
+12304115110,,,,,,,,,,,,Databricks on Azure,I always have a phase of industrialisation from Jupyter to Pycharm. Sorry folks but there is a need for a real IDE here,,,,,"Just want to thank you. This software is kind of the best outcome open source can do, helping millions of users by providing such a great tool, with an incredible community. Shout out to all contributors."
+12304043004,Haskell,,gedit,,,,,,,,,,,,,,,
+12304027259,,,,Cloudera Machine Learning,,,,,,,,,,,,,,
+12304021255,,,,,Building a mathematical programming model,,,,,,,,,,,,,
+12303990274,,,,,"I build the Kubernetes clusters and infra, then deploy the JupyterHub helm chart with customizations for our org.",,,,,,,,,,,,,
+12303944594,,,,,,,,,,,,,,,,,,
+12303925651,,,,,,,,,,,,,,,,,,"In Google Colab you can create a code cell that you can collapse; display a title; and when executing the cell, still run the code. I wish I could do the same in normal jupyter notebooks"
+12303881258,,Hardware Eng.,,,,,,,,,,,,,,,,
+12303866134,,,,,,,,,,,,,,,,,,Need better R support
+12303850662,,,,,,,,,,,,,,,,,,
+12303836559,,,,,,,,,,,,,,,,,,Handling conflicts in a .ipynb with version control (git) is not great. Is there a way to improve that ? Rendering on GitHub is now better. Nteract is a great tool for quick view of .ipynb in emails for instance. Thanks for deploying all of those tools to make our scientific work better !
+12303823325,,,,,,,,,,,,,,,,,,
+12303790838,,,,,,,,,,,,,,,,,,
+12303768130,,,,,,,,,,,,,,,,,,
+12303740429,,,,,,,,,,,,,,,Jupyter is not a good collaboration tool,,,
+12303722935,,security engineer/incident response,,Remote machine + SSH forwarding,Report generation (running a specific notebook on a regular interval and sending via email),,,,,Custom web application,Often manually build HTML or use HTML(Jinja) for displaying data,Custom code using nbconvert,Lack of modularity with notebooks and building complicated code within notebooks,,,General issues with git/github diffs and PR reviews,,
+12303687943,,,,,,,,,,,,,,,,,,as an instructor I would like for a richer text creation/markup environment. 
+12303663018,,,,,,,,,,,,,,,,,,
+12303492506,,,,,,,,,,,,,,,,,,
+12303465578,,,,,Teaching from notebooks.  Jupyter is the best solution we've found in this domain.,,,,,,,,,,,,,
+12303424097,,,,,,,,virtualenv issues,,,,,,,,,,
+12303420057,,,,,,,,,,,,,,,,,,
+12303398892,,,,,,,,,,,,,,,,,Spelling support,
+12303324462,,,,,,,,,,,,,,,,,,
+12303214876,,,,,,,,,,,,,,,,,,
+12303018223,,,,,,,,,,,,,,,,,,
+12303009274,,,,,,,,,,,,,,,,,,
+12303000818,,,,,,,,,,,,,,,,,,
+12302906918,Sage math,,,,,,XML files,,,,,,,,,,,"I would like to have the option to lock Markdown cells. Usually I edit code cells way more than Markdown one, so it is a bit annoying that every time I pass through them it open for editing."
+12302876539,,,,,,,,,,,,,,,,,,
+12302743275,,,,singularity,,,,,,,,,,,,,,
+12302730401,,,,,,,,,EDA,,,,,,,,,
+12302684120,,,,,,,,,,Redash,,,,,,,,
+12302675136,,,,,,,,,,,,,,,,,,"Local jupyter notebook has no native GPU to accelerate performance, unlike Colab. It would be interesting if something like this could be done."
+12302569417,,,,,,,,,,,,,,,,,can not see values of variables ( like ipython),
+12302567314,,,,,,,,,,,,,,,,,,
+12302529707,,,,,,,,,,,,,,,,,,
+12302518844,,,,,,,,,,Power BI - Microsoft,,,,,,,,
+12302488395,,,,,,,,,,,,,,,,"We use git a lot; diffs in git aren't great, but we're kind of used to it by now",Biggest problem is not having emacs keybindings easily available,
+12302370249,,,Nova,,,,,,,,,,,Collaborative research,,I really liked that moment when someone had made markdown the format for Jupyter notebooks: so much easier to read. (I continue to be jealous of Rmarkdown.),,
+12302366764,,,,,,,,,geospatial,,,,,,,,,
+12302349547,,,,,,,,,,,,,,,,,,
+12302340191,Sagemath,,,,,,,,,,,,,,,,,
+12302332753,,,,,,,,,,,,,,,,,,
+12302222468,,,,,,,,,,,,,,,,,,
+12302206889,,,,,,,,,,,,,,,,,,
+12302197831,,,,,,,,,,,,,,,,,,
+12302146890,,,,,,,,,,,,,,,,,Code completion and Intellisense in text editor.,
+12302132765,,,,,,,,,,streamlit,,,,,,,,
+12302096488,markdown,,,,Prototype,,,,,"AWS, plot in Jupyter",,,,,,,,
+12302072816,,,,,,,,,,,,,,,,,,
+12302039888,,,,,,,,,,,,,,,"It's mainly pair programming / educational prupose. We do not use Jupyter Notebooks for collaborating, or in producition.",,"To notebook UI is the primary reason I no longer use Jupyter. I prefer to use the tools I use for everything else (e.g. Vim, or another text editor). Being forced to use a seperate utility for coding, is unacceptable as it breaks all my workflows.","The primary reasons I no longer use Jupyter:  - I want to use my own editor, with my own configuration. Being forced to use some web based editor with different preferences, shortcuts, workflow is a pain. For example, in Vim you use CTRL-W to remove a word. But in the web IDE, this closes the browser.  - The huge JSON files where everything is contained in a single file makes version control near useless. Especially the fact that all images are in the same file, together with the code."
+12302028969,,,,,,,,,,,,,,,,,,
+12302011536,,,,,,,genomics data,,,,,,,,,,,"1) line wraps don't work well for me in code cells, I tend to not be able to see the right end of the code cell without scrolling    2) I can't remap the comment line shortcut which is critical to me. The existing one (Ctrl+/) is unusable on QWERTZ layout."
+12301995139,,,,,,,,,,Metabase,,,,,,,,
+12301985555,,,,,,,,,,,,,,,,,I wrote my own progress bar.,Please don't kill notebook classic.  For me it is a publishing platform.
+12301972322,,,Geany,Currently not using,,,,,,,,,,,,,,
+12301937654,,,,,,,,,,,,,,,,,,
+12301915707,,,,,,,,,,,,,,,,,,
+12301912558,,,,,,,,,,,,,,,,,,
+12301907958,,,,,,,,,Climate data science,panel (main tool),,,,,,,,
+12301875531,,,,,,,,,,,,,,,,,,
+12301875268,,,,,,,,,,,,,,,,,,NA
+12301869360,,,,,,,,,,,,,,,,,,
+12301865338,,,,,,,,,,,,,,,,,,
+12301864034,,,,,,,,,,,,,,,More a code sharing than colaboration. Real colaboration using Git (GitHub/GitLab Pull requests). Notebook more for presentation / examples / experiments (prototyping).,Note about Git. It works but diffs are almost useless when using changing outputs and the notebook json storgage. Visually difficult.,,Great tool.
+12301741282,Bash,,,,,,,,,,,,,,,,,
+12301705981,,,,,,,,,,,,,,,,,,
+12301677130,,,nbdev,"Cloud environment - GitPod, Codespace, etc.",,,,"No built in way to perform ""run this cell and all its dependencies"", results depending on the order of computations (compare with Pluto.jl)",Learning to rank,,,,,,,,"No way to update all dependent cells or to run all dependencies, no support for bibliography and citations",
+12301534299,,,,,,,,,,,,,,,,,"No Vim-style, modal key bindings",
+12301501224,,,,,,,,,Geo,,,,"Reconnect to running (R) Kernels, Runtimes of Weeks. ",Share. Teach. Feedback. Review. Deploy. Peer programming. ,,,,
+12301442452,,,,,,,,,,,,,,,,,,
+12301386159,,,,,,,,,,,,,,,,,,
+12301214129,,,,,,,,,,,,,,,Just mentoring a student,,,
+12301110600,,,,,,,PDF,,,,,,,,,,,
+12301045117,,,,,,,,,,,,,,,,,,
+12300972738,,,,,,,,,,,,,,,,,,Lsp is soo slow in autocompletion. UI behaves very awkwardly sometimes such as when entering the code in the middle of the line deletes the words those are after that.
+12300909709,,,,,,,,,,,,,,,,,,NA
+12300763659,,,,,,,,,,,,,,,,,,Jupyter Notebook rocks! thx guys
+12300728469,,,,,,,,,,Plotly JS,,,,,,,,"Thank you! I've been an avid Jupyter user for years and couldn't imagine life without it.  You're doing a lot of good for the world.  I've tried to use JupyterLab but really don't like it - I would be happy to share more thoughts if you're interested.  The primary issue is that I find the UI cluttered with features that aren't important to me, i.e. the filesystem bar (I prefer the Jupyter solution, which is to have it in a separate tab in my browser.) I also don't use the csv preview feature, as I'd prefer to read my data into pandas, which already displays beautifully in Jupyter.  Similarly, a variable explorer is uninteresting to me.  I can see how these features would all be helpful to a beginner, but to more of a ""power user,"" they just clutter the interface."
+12300712107,SageMath,,SageMath REPL,,,,,,,,,,,,Always in CoCalc.,CoCalc tracks changes fine.,"(a) V should paste above rather than paste below. (b) Why is a Jupyter sheet called a Jupyter notebook? (c) Why not use a pronounceable file extension such as .j or .jnb or .jup or .jupr or .jupyter rather than (or as an alternative to) .ipynb with its four syllables and two diphtongs? (d) Jupyter Notebook made it easy to rename a Jupyter sheet from Untitled to something better, it's slightly more involved with JupyterLab. (e) Can't wait for RISE support in JupyterLab. (f) Why does cell numbering start from 1 rather than 0? (g) Need way to associate syntax highlighting to file extension (e.g. apply Python syntax highlighting to .sage files), besides the workaround at https://github.com/jupyterlab/jupyterlab/issues/4223#issuecomment-547934247","Maybe these belong here rather than in ""challenges with the UI""  (a) V should paste above rather than paste below. (b) Why is a Jupyter sheet called a Jupyter notebook? (c) Why not use a pronounceable file extension such as .j or .jnb or .jup or .jupr or .jupyter rather than (or as an alternative to) .ipynb with its four syllables and two diphtongs? (d) Jupyter Notebook made it easy to rename a Jupyter sheet from Untitled to something better, it's slightly more involved with JupyterLab. (e) Can't wait for RISE support in JupyterLab. (f) Why does cell numbering start from 1 rather than 0? (g) Need way to associate syntax highlighting to file extension (e.g. apply Python syntax highlighting to .sage files), besides the workaround at https://github.com/jupyterlab/jupyterlab/issues/4223#issuecomment-547934247"
+12300654671,,,,,,,,,,,,,,,,,,"The markdown render can be troublesome, especially with `$` embedded within the code, this makes it troublesome to edit the documents between different bits of software. I've been tasked with much more   reporting and technical writing of late and jupyterlab+markdown has been a bit lacking for me. I wish that   the markdown engine was 1) more robust, 2) swappable or 3) used the markdown-it ecosystem (including plugins   such as super/sub-scripts, highlighting, etc). "
+12300598767,,,,,,,,,data transformation and processing,,,,,,,,,"Jupyter should work better with HPC environments that have security restrictions, and HPC deployed Jupyterhub servers should be less brittle."
+12300558680,,,,,,,,,,streamlit,,,,,,,,
+12300554779,,,,,,,,,,,,,,,,,,"Support for real time, inplace editing of notebooks would greatly enhance collaborative workflows.  "
+12300551529,,,,,,,,,,,GUI of matplotlib figures doesn't work very well (I haven't tried for a couple of years though),,Figuring out how to use dask properly and keeping the kernel from crashing mysteriously,,"I have multiple collaborations and different reasons to share notebooks, not sure how to respond here.",,,
+12300478372,,,,,,,,,,,,,,,.,,,
+12300420451,I always want to try out node in Jupyter but it seemed to complicated...,,,,"Prototyping, building models, trying out code. Problematic I find that vscode code completion is soooo much better...",,,VS Code has much better code completion... ,,Bokeh,Major performance issues and cross platform problems,,Memory crashed can be quite ugly when training.... Of course you can pre pickle the models etc. but sometimes happens. not the real fault of Jupyter in my opinion,,Doesn't work great. We usually use google colab. But it's also not perfect. What works best is from one local machine shared over the network. working on different parts.,cross platform can be a horror.,Biggest problem is tqdm loading indicator get's reprinted all the time.,LOVE YOU GUYS. I KNOW MY CRITICS ARE HARD. BUT JUPYTER CAN ENABLE SO MANY NOVICE PROGRAMMERS A NEW START IN A GREAT CODING CAREER.
+12300366597,,Solutions Architect,,,,,,,,,,,,,,,,
+12300323233,,,,,,,,,,,,,,,,,,
+12300279749,,,,,,,,,,,,,,,,,,
+12300274205,,Machine Learning Engineer,,"Connect remotely to a workstation, sometimes using ssh port forwarding",,,,,,,,,,,,,,"Mainly the lack of variable browser, not the best autocompletion and that in the event of a crash I have to recompute everything (no state snapshots) are the main pain points, the rest is fine"
+12300260628,,,,,,,,,,Airtable,,,,,,,,"It'd be great to have more of an IDE-style experience, with Linting and MyPy and stuff.  Would be awesome to be able to prototype and then deploy dashboards and APIs and ETLs without leaving Jupyter.  Better support for making libraries (hot-reloading and stuff) would also be cool!"
+12300251978,,,,,,,,,,,,,,,,,iPad support in Juno is good but could be way better ,"I use Juno on my iPad sometimes. It's not great, but it's better than lugging a laptop around. It would be great if an app like Juno was a first class citizen in the Jupyter world."
+12300220125,,,,,,,,,,,,,,,,,,
+12300202067,,,,,,,,,,,,,,,,,,
+12300201776,,Data Analyst,,,,,,,,,,,,,,,,
+12300074655,,,,,,,soap,,,,,,,,,,,LDAP plugin is quite missirable for jupyterhub
+12300070443,,,,,,,,,,,,,,,,,,
+12299985370,,,Xed,,,,Dirfiles (GetData),,,,,,,,,,,"Keeping track of notebook state server-side would be extremely helpful, since it would allow for running a long calculation overnight on a server with JupyterHub without having to leave Desktop / Laptop on and connected."
+12299952360,,,,,,,,,,dc.js,,,,,,,,
+12299946565,,,,,Version control and git integration need to be addressed.,,,,,Altair,,,,,,,,Please improve gut integration!
+12299925815,,,,,,,,,,,,,,,,,,
+12299847132,,,,,,,,,,,,,,,,,,
+12299843013,,,,,,,,,,,,,,,,,"the lack of autocompletion and code checking is what makes me revert to pycharm, ",
+12299775475,,,,,,,,,,Apache Superset,,,,,,,,
+12299743755,,,,run  in virtualenv on on-premises compute server with SSH forwarding for access,,,Cannot comment.,,,,Oh my GOD the matplotlib API is obscure.,Other cluster computing systems,,,,,,Oh my GOOOOOODDDD matplotlib is a pain in the ass
+12299706739,,,,,,,,,,,,,,,,,,
+12299666375,,,,,,,,,,,,,,,,,,"I went through the issues I'm watching on https://github.com/jupyterlab/jupyterlab/issues and here's a list of improvements I'm keeping my fingers crossed for :)    These seem like relatively simple yet impactful quality-of-life improvements:    1. Add an option to show/strip trailing whitespace in the text editor and notebook cells. Maybe by supporting EditorConfig? Cf. issue #3904.  2. The Copy Path command is currently not really useful, see issue #9485 for an explanation why and ideas for improvement.    These will probably be harder but would be awesome to have:    1. The ability to start a long-running command/notebook etc., close the JupyterLab browser tab / put the computer to sleep, re-open JupyterLab later and see the output that was generated in the meantime. AFAIK, this requires changes to the kernel protocol. Cf. issue #2833.  2. Improve the text editor, so that the UX when writing scripts is more on par with that of using notebooks. Code evaluation is already available, which is great (though it can be hard to discover), so this mostly means auto-completion (i.e. probably LSP integration?). Cf. issues #2972, #2163."
+12299633442,,,,,,,,inconvenient support for dynamic visualizations/non-stationary plots; kernel memory footprint is not showed on a notebook tab - it's nearly impossible to track down which tab eats too much,,,,,,,,,,
+12299616167,,,,PaperSpace,,,,,,,,,,,,,,
+12299557985,,Civil Engineer / GIS,,,,,,,,,,,,,,,,
+12299484719,,,,,,,,,,,,,,,,,,
+12299448686,,,,,,,,,,,,,,,,,,
+12299374486,,,,,,,,,,,,,,,,,,
+12299359452,,,,,,,,,Image analysis/computer vision,,,,,,,Jupyter Notebooks are non-linear and that is a big problem when using someone else's notebooks,,"1. Limited access to the file system (only from the starting folder down, not different drive units or folder paths)  2. Don't know how to share notebooks with other departments to let them run the same code with their data  3. Ability to create dashboards to let others run the code with their data"
+12299229706,,,JupyterHub & KubeFlow-based notebooks,,,,,,,,,,,,,,,
+12299201928,,,,,,,,,,,,,,,,,,
+12299169649,,,,,,,,,,,,,,,,,,
+12299143063,,,,,,,,,,,,,,,,,,
+12299137324,,,,,,,,,,,,,,,,,,Hope all these supplemental artifacts don't change the best part about Jupyter notebooks- they're lightweight.
+12299136083,,,,ssh tunnel to my remote machine,,,,,,,,,,,,,,
+12299127364,,,,,,,,,Integer Optimization,,,,,,,,,"verson control on github, comment on changes, and easy way to publish, and break notebooks, call snippets from other notebooks. That's all. Basically points that will make collaboration easier."
+12299097922,,,,,,,,,,,,,,,,,,
+12299096869,,,,,,,,,,,,,,,,,,Jupyter Notebooks and nonlinear code execution often leads to low quality code when sharing. Particularly supporting loops is difficult. Reusing code from Notebooks is a terrible experience
+12299082856,,,,,,,RAW binary format and MAT files,,,,Difficult to ensure reproducibility,,,,,,,
+12299065975,,,,,,,,,,,,,,,,,,Nothing
+12299042271,,,,,,,,,,,,,,,,,,
+12299029453,,,,,,,,,,,,,,Progress reports to supervisor,,,"In jupyterlab, missing the exact functionality of the classic notebook TOC (2) extension: show which sections are currently executing/ waiting",
+12299029365,,,IntelliJ IDEA,,,,,,,,,,,,,,,
+12299023521,,,,,,,,,,,,,,,,,,The need to install extensions for every plotting library hampers the adoption of jupyter-lab. More streamlined workflows with plugins would be very nice.
+12299015163,,,colab,,,,,,,,,,,,,,,
+12298993206,,,,,,,,,,,,,,,,,,
+12298990575,,,,,,,,,,,,,,,,,,
+12298990159,,,,,,,,,,,,,,,,,,
+12298967635,,,,,,,,,,,,,,,,,,
+12298964744,,,,,,,,,,,,,,,,,,
+12298960361,,,,,,,neuroimaging,,,,,"cluster, but I don't know what it is",,,,,,
+12298954513,,,,,,,,,,,,,,,,An issue with jupyterlab on the same server is changes get lost if more than one person accesses it (not necessarily at the same time!),,
+12298952912,,,,,,,,,,,,,,,,,,
+12298952779,,,,,,,,,,,,,,,,,,
+12298949952,,,,,,,,,,,,,,,,,,
+12298948777,,,,,,,,,,,,,,,,,,
+12298946936,,,,,,,,,,,,,,,,,,
+12298945407,,,,,,,,,,,,,,,,,,
+12298944591,,,,,,,,,,,,,,,,,,
+12298943388,,,,,,,,,,,,,,,,,,
+12298899202,,,,,,,,,"Summarising and visualising data, e.g. summary plots",,,,,,,,,
+12298824777,,,I want to select all tools I use not only 3,,,,,,,,,,,,,,,"I much prefer the UI of the classic notebooks, e.g. splitting a cell is so much easier than in jupyterlab. "
+12298793012,,,IntelliJ,,,,,,,,,,,,,,,
+12298768281,,,,,"Weekly use in prototyping ideas and more ad hoc exploratory coding to find solutions.  Very good for getting quick feedback as to whether the idea/solution is worth pursuing further. Then I usually transition to rewriting content as a python package if the work is valuable, and use a notebook as a demo/example of how to use the package code.  ",,,(Trivial) Accidently printing too much data to output and crashing/freezing the browser,,Panel / Holoviews,,,,As a deliverable/outcome summarising findings of an experiment to stakeholders/peers. ,,"Reviewing notebooks in Pull Requests is very manual, and time consuming to check what has changed. Also hard to give feedback and link it to the notebook.",,"It would be great to have an easy way to rerun (possibly multiple) notebooks and check they are all still valid and give the same outputs as last time they were run. My workflow typically uses Jupyter notebooks for either early exploratory work, or more mature demos/examples/experiments/reports, with the main development part in the middle writing a Python package for the notebook to call.  However making sure demos/examples/reports stay in sync as api and code changes in the package progress is tricky, and usually needs an extra layer of automation in place to rerun a series of notebooks as a kind of smoke test. However smaller (non breaking) changes in outputs are much harder/manual to detect.  Unit tests are a great way to make sure package code is valid, but as the notebook itself is often the deliverable (or an export thereof), need to make sure it is still using the package code correctly. "
+12298726926,,,,,,,,,,Panel/Holoviews,,,,,,,,
+12298429669,,,,,,,,,,,,,,,,,,
+12298427561,,,,,,,,,,,,,,,,,,
+12298234916,Ansible,,,,Daily DevOps operations.,,,,,,,,,traceability records,,For comments we use https://github.com/NII-cloud-operation/sidestickies,,
+12298125281,,,,,,,,,Analysis of astronomical images/spectra. ,,,,,,,,"Key bindings for editing/navigation, etc are very rudimentary compared with emacs",
+12298065973,,,,,,,,,,,,,,,"If I collaborate on something, it's usually me doing all of the analysis and fact-finding, and they just provide the data.",,,"Jupyter is absolutely not the tool for the job for anything that's not exploratory data science or walking someone through an analysis. R Notebooks do what Jupyter does better (though the R Notebook experience is not as good in Python and I've mostly stopped using R). Anything requiring actual software development or serious coding requires falling back to VSCode (best) or Vim (decent) and leaving Jupyter notebooks behind. Jupyter and IPython still shine at exploratory work (trying out calls to a new API, etc.), but it's difficult to integrate into my workflow."
+12297991330,,,,,,,,,,,,,,,,,,
+12297977466,,,,,,,,,,"plotly, matplotlib",,NA,NA,,,,,
+12297788063,,,,,,,,,,,,,,,,,,
+12297672138,,,,,,,,,,,,,,,,,,"Would love more support for clearning outputs for checking into version control systems automatically, or via a standard git-hook?"
+12297615353,,,,,,,,,,,,,,,,,,
+12297581609,,,,,,,,,,,difficult to create interactive visualizations,,,,,,,
+12297486936,,,,,,,,,Systems modeling and simulation,,,,,,,,,Thank you for making such a cool lightweight product for dev and collab. I really like using it!
+12297410411,,,,,,,,,,,"Displaying large number of plots is cumbersome. Could use some zoom in/out feature: if an image output of a cell is big, then display its thumbnail by default and let me zoom in if I want to.",,,Deliver a report; showcase a functionality,But it's not happening in Jupyter! The question doesn't specify that it's about Jupyter.,,,
+12297396838,,,,,,,,,,matplotlib,,,,,,,,
+12297359192,,,,,,,"FASTA, FASTQ, other sequencing data",,,,,,,,,,,
+12297322998,,,,,,,,,,,,,,,,,"I use tqdm for progress bar, but it sometimes stops update when detach the notebook","There are open source jupyter notebook extensions, would be better if it can have official support"
+12297259779,,,,,,,,,,,,,,,,,,
+12297255045,,,,,,,Raw binary data,,Kalman filter performance evaluation,,"Need to generate plots to disk, but not display them",,,,,,,Strongly prefer iPython console for interactive debugging
+12297217726,,,,,,,,,,,,,,,,,,
+12297164083,,,,,,,,,,,,,,,"This is my mentor, I joined the team 4 months ago",,,
+12297126943,,,,,Data extraction+transformation to transfer archived industrial real-time between different generation of real-time databases  ,,,,,,,,,,,"We rely on ReviewNB for commenting and ""tracking"" changes",,"We are atypical users in the sense that we use notebooks for internal tasks to support our mission of sharing industrial real-time data with our target users who are student chemical or mechanical engineers being introduced to notebooks. So everything that makes notebooks easier to learn, navigate, use and easily deployable is a plus for us. "
+12297107439,,,,,,,,,,,,,,,,,,
+12297059460,,,,,,,,,Image Processing,,,,,,,,,
+12297035370,,,,,,,,,,,,,,,,,,"Dear Jupyter Santa:  I would like an official ""dark theme"" or ""dark mode"".  Best  flgomezc @ github"
+12297002987,,,,,,,,,,,,,,,,,,"A real-time collaboration solution for the _one-to-many_ teaching use case would be great. You can do screen-sharing, but then every student needs a second monitor to follow along while working..."
+12296926233,,,,,,,,,,,,,,,,,,It is OK!
+12296870775,,,,,,,,,,,,code is packaged and deployed in Galaxy,,,it's fine?,,,"I miss the help browser from RStudio! It's so so so useful and so easy compared to running help in a cell. I miss the variable browser, so easy to see an overview. We have better infra support for jupyter and i still push RStudio because it's so much easier to teach students wirh"
+12296865841,,,,,,,,,,,,,,,,,,
+12296840509,,,,,,,,,,,,,,,,,,
+12296822188,,not job related,,,,,,,,,,,,,,,,
+12296796617,,,,i don't,,,,,,,,,,,,,,
+12296779974,,,,,,,,,,,,,,,,,,"My primary language is R. Language features in Jupyter (and the R kernel) are behind RStudio, VSCode, and Sublime.     Another big pain point is the lack of plain text Jupyter notebooks. I prefer R Markdown, where the code can execute in a notebook like environment, you can publish html/pdf reports (or convert to dashboards), but the source code is always plain text. This makes it easier to work with in git.    It also prevents problems when the state is unintentionally saved.    "
+12296776763,Robot Operating System,,,,,,,,,,,,,,,,,
+12296745602,,,,,,,,,,,,,,,,,,
+12296722054,,,,web server,,,,,,,,,,,,,,
+12296718127,,,,,,,,,,,,,,,,,,
+12296669403,,,,,,,,,,,,,,,,,,
+12296646227,,Consultant engineer,,,"Produce engineering deliverables (calculations notes, power system studies, etc.).",,,,,,,,,,Engineering deliverables need to be reviewed by peers.,,,"Printing to PDF via pandoc using LaTeX works fine, but changing the default template looks challenging. I would really appreciate easier PDF printing options with custom templates."
+12296645103,,,,,,,,,,,,,,,,,,
+12296641427,,,,,,,,,,,,,,,,,,
+12296550142,,data journalist,,,,,,,,,,,,,,,,
+12296518095,,,,,,,,,,,,,,,,,,"Anyway, just want to say ""Thank you""!"
+12296501398,,,,,,,,,,,,,,,,,,no
+12296488486,,,,,,,,,,,,,,,,,,
+12296453450,,,Watson Studio,,,,,,,Watson Studio,,,,,,,,"For collaboration, I use Jupyter inside Watson Studio, which resolves most, if not all of the collaboration issues listed in the questions in that section. "
+12296425877,,,,,,,,,,Altair,,,,,,,,
+12296415935,,,jupyter qtconsole,,,,,,,,,,,,,,,
+12296412267,,,,,,,,,,,,,,,,,"In Python, text coloring is wrong when having string with both "" and ' characters.",
+12296405746,,,,,,,,,,,,,,,,,,
+12296377378,,,,,,,,,,,,,,,,,,
+12296358935,,,,,,,,,,,,,,,Freelance,na,na,nba
+12296356706,,,,,,,,,,,,,,,,,,"Code editing is painful on jupyter notebooks, to the point where I cannot use them for actual development. I mean specifically this issue https://github.com/jupyter/notebook/issues/2040"
+12296342451,Occasionally Matlab and Octave,,,,,,,,,,,,,,,,I cannot have variables from the code cells in my markdown cells (major issue for documenting and teaching),"Most of the problems mentioned in the survey are not critical for me but for my students. They prefer to have a native desktop app so they can easily open, edit, and run jupyter files. For me, the most urgent problem is that it is not possible to have variables in the markdown cells. It would be a great addition to the Jupyter notebooks."
+12296342328,Fortran,,,,Developing and testing new computational algorithms for mathematical models.,Data generated by numerical solutions of mathematical models (on my own machine or a supercomputer).  These are stored in formats like HDF5.,,,,,,"For things that need to scale, I don't use Jupyter.  I run them on a cluster or supercomputer.",,,,,,"I recently published a book using Jupyter and I'd love to see better tools for managing multi-notebook projects with cross references, bibliography, equation numbering, etc."
+12296327667,,,,,Just testing python code,NA,,NA,,NA,,,,,,,,
+12296326861,,,,,,,,,,,,,,,,,,
+12296324221,,,,,,,,,,ipywidgets,,,,,,,,
+12296320307,,,,,,,,,,,,,,,,,,
+12296319919,,,,,,,,,,,,,,,,,,
+12296277263,,,,,,,,,,,,,,,,,,
+12296127551,,,,,,,,,,,,,,,,,,
+12296050768,,,,,,,,,,,,,,,,,,
+12295829157,,,,,,,,,,,voila seems to be a good solution for web-based dashboards,,,,more of a mentee/mentor situation (i am the mentee),,"sometimes kernel will die and cells remain in state `*`, hard to know what went wrong without informative error message","the dead kernel problem can be frustrating. would be nice to provide more informative error messages to user. i know there is the very small status icon in the bottom left corner of jupyterlab, but perhaps that could be made larger and put somewhere that is easier to see."
+12295646798,,,,,,,,,,,,,,,,,,
+12295382864,,,,,,,,,,Bokeh,,,,,,,,
+12295197311,,,,,,,,,,,,,,,,,,
+12295110488,,,,,,,,,,,,,,,,,,
+12294995523,,,,,,,,,,,,,,,,,,
+12294889856,,,,,,,,,,,,,,,,,,
+12294648725,,,,,,XML stream,XML,,,Dataiku,,,,,,,,
+12294421696,,,,,,,,,,,,,,,,,,
+12294156704,,,,,,,,,,Qualtrics,,,,,,,,
+12293732083,,,,,,,,,,Panel,,,,,,,,
+12293279062,,,,,,,,,,,,,,,,,,
+12293068282,,,,,,,,,,,,,,,,,,
+12292772029,,Startup Founder,,,,,,,,,,,,,,,,
+12292675468,,,,,,,,,,,,,,,,,,
+12292668290,,,neovim,,,,,,,panel.holoviz.org,,,,,,,,
+12292531356,,,,,,,,,,,,,,,,,,
+12292431322,,,,,,,,,,,,,,,,,,
+12292109151,,,,,,,,,,R,,,,,,,,
+12292109077,,Engineer,,,,,,,image analysis,,,,,,,,need preview or way to look at notebook without spinning up kernel,notebook previews
+12292033537,,,,,,,,,,,,,,,jupyter is not git friendly at all and any notebook review relies on third party tools to correctly diff the notebook,,,
+12291892814,,,,,,,,,,,,,Organizing notebooks within a team,,,Rendering git diffs and pull requests for notebooks is useless,,
+12291882034,,,,,,,,,,,,,,,,,,
+12291789207,,,,,,,,,,,,,,,,,,
+12291084331,,,bash,,,,,,,,,,,,,,,
+12290919868,,,"KNIME DOCKER AND SOME VERSIONS OD R AND PYTHON, DIMENSIONAL INSIGHT FLOWS, ",,"Writing technical presentations/demos/ with images, and some text. Monthly, Yes.  I use RStudio also similar than Jupyter Notebooks",,,Restarting Kernels some times is very slow!,,Markdown and Dimensional Insight platform for BI,,,,"Build something with a team, via Github",,,,Thankyou!!! Share more news about new realeses or new most voted contributions by the community
+12290802550,,,,,,,,,,,,,,,,,,
+12290759394,,,,,,,,,,,,,,,,,,We'd love to use Jupyter more. 2 main issues in my team: * version control - git is a mess over a workbook  * code autocomplete- it's a poor experience compared to something like PyCharm
+12290746465,,,"Spreadsheet, QGIS",,,,,,,,,,,,,,,
+12290618806,,,,,,reinforcement learning environments,,,,,,,,,,,,
+12290371913,,,,,,Examples from courses,,,,,,,,,,,,
+12290155995,,,,,,,,,,,,,,,,,,"Specific instal.lation of components (Server, JupyterLab, Extensions) outside of anaconda and other environments, directly on linux baremetal HPC environment. "
+12289892079,,,,,,,,,,,,,,,,,,
+12289678412,,Machine Learning,,Kaggle Notebooks,,,,,,,,,,,,,,
+12289668949,,,,,,,,,,,,,,,,,,
+12289644660,,,,,,,,,,,,,,,,,,
+12289502367,,Product Manager,,,,,,,,,,,,,,,,
+12289424822,,,,,,,,,,,,,,,,,,
+12289229851,,Aerospace engineer,,,,,,,,,,,,,,,,
+12289195008,,,,,,,,,,,,,,,,,,
+12289167351,,,,Anaconda Cloud,,Google Drive,,,,,,,,,,,,"Provision of free resources for helping people scale task execution with Jupyter notebooks, such as how to call code/modules from other notebooks and how to schedule batch execution of notebook-based jobs, and integrating code with upstream/downstream processes"
+12289138818,,,,,,,,,,,,,,,,,,
+12289122411,,,,,,,,,,,,,,,,,,
+12288981779,,,,,,,,,,,,,,,"There's no way to turn a notebook into a comment on a GitHub Pull Request or Issue, which is where collaboration takes place.",,"No support for Emacs keystrokes; and if I change windows, current cell loses focus.",
+12288897454,,,,,,,,,,,,,,,,,,It would be great if i could open jupyter notebook file on terminal like in browser.
+12288890172,,,,,,,,,,Holoviews,,,,,,"Poor git diffs of JSON code, and also of outputs, makes it very frustrating",,
+12288884313,,,,,,,,,,,,,,,,,,
+12288875378,,,,,,,,,,Streamlit ,,,,,,,,
+12288861478,,,,,,,,,,,,,,,,,,
+12288690750,,,,,,,,,,,,,,,,,,
+12288675600,,,,,,,,,,Bokeh,,AWS Step Functions,,,,,,
+12288632160,PowerShell,,,,Running devops playbook tasks,,,,,"DataDog, Splunk",,,,,,,,
+12288610826,,,,,,,,,,,,,,,,,,
+12288598426,,,,,,,,,,,,,,,,,,
+12288585667,,,,,,,,,,,,,,,,,,
+12288528821,,,,,,,,,,,,,,,,,,
+12288519936,,,,,,This needs an all of the above selection,Needs more than three options!!,,,,,,,Management of team,Seems to be no management option here?,,,
+12288500819,,,,,,,,,,,,,,,,,,"Jupiter Is not for coding, but scripting. No code review Is performer on Jupiter, we use IDE for the coding and Jupiter for Quick scripting"
+12288400711,,,,,,,,,,,,,,,,,,"I think one thing is missing is the ability to insert ""drawing"" cells in a notebook, where one could draw anything from hand or with primitives (kinda like powerpoint allows or drawio). Because for now you have to manually edit, save and then insert   them in notebook"
+12288330256,,,,,,,,,,,,,,,,,,
+12288329629,,,,,,,,,,,,,,,,,,
+12288328718,,,,,,,,,,,,,,,,,,
+12288288919,,,,,,,,,,,,,,,,,,
+12288284535,,,,,,,FITS,,,,,,,,,,,
+12288259560,,,,,,,,,,,,,,,,,,
+12288206452,,,,,,,,,,,,,,,,,,Better code editor please ! 
+12288202709,,,,,,,,,,,,,,,,,,
+12288173616,,,,,,,,,,Metabase,,,,,I mentor them. ,,,
+12288143620,bash,,,,,,,,,,,,,,,,,"1. Lack of a decent autocomplete that interfaces toward the virtual environment and its installed dependencies;  2. Lack of pair programming feature;  3. Notebooks saving format not compatible with git based code reviews;  4. In order to use the famous progress bar I have to: install it, install and enable its widget. Please make it native.    Thanks for asking btw"
+12288129278,,,,,,,,,Numerical model evaluation,,,,,Feedback on analysis results,,,,
+12288107381,Haskell (IHaskell kernel),,,,,,,,,,,,,,,,,
+12288084637,,,,,,,,Problems managing order of cells and order of execution of cells,,Bokeh,,,,,,,,
+12288081720,,,,,,,,,,,,,,,,,,Thank you for creating and maintaining such a useful tool!
+12288059003,,,,,,,,,,Bokeh,,,,,,,,"Jupyter hides how (I)Python works underneath.  Very confusing for newcomers to Python.  I would appreciate some consolidated/dedicated UI showing kernel status, Ipython console, and maybe more..."
+12288056940,,,,I'm using spyder-notebook Spyder plugin for teaching. It allows to run jupyter notebooks in Spyder.,,,,,"analyses specific to neuroscience (source localization, ICA, time-frequency decomposition)",,,,,,,,,"Currently too much is offered by Spyder to use jupyter / jupyterlab alone. I especially like the Variable Explorer, Documentation and Plots panel in Spyder as well as running notebooks in it via spyder-notebook. But I currently work mostly in Spyder editor - the notebook I use for teaching."
+12288039167,,,,,,,,,,Streamlit,,,,,,,,
+12288028509,,,,,,,,,,,,,,,,,,
+12288019998,,,,,,,,,,,,,,,,,,"Please share resources for going deeper with Jupyter, learning more than a novice level user."
+12287993790,Picat,,,,,,,,,,,,,,,,,
+12287985853,,,,,,,,,,,,,,,,,,Poor ability for Python packages to directly support jupyter
+12287981396,,,,,,,,,,Bokeh,,,,,,,,
+12287967001,,,,Self hosted server,,,,,,,,,,,,,,
+12287957094,,,,,,,,plugins that don't keep up with jupyter changes,,Power BI,,,Having modular notebooks that can share a kernel and run in a sequence,,,,No built-in TOC,
+12287942629,,,,,,,,,,Streamlit,,,,,,,,
+12287941789,,,,,,,,,,,,,,,,,,
+12287939611,,,,,,,,,,Bokeh panel,,,,,,,,
+12287938072,,,,,,,,,,,,,,,,,,
+12287900337,,,,,,,,,,,,,,,,,nondeterminism - value bound to a variable may not match the current version of the cell (if it or its dependents are not manually re-evaluated),
+12287895836,,,,Cloud service - Paperspace (Gradient notebooks),"Many of my ""yes' responses are largely enabled by the nbdev package - before this library I often had to switch from Jupyter notebooks to an IDE",,,,,Streamlit,,,,,,We rely on ReviewNB and nbdev to make this process as smooth as possible,,
+12287872895,,machine learning engineer,,,,,,,,,,,,,,,,
+12287871660,,,,,,,,,,,,,,,,,,
+12287870734,bash,,Emacs Org-Mode,I don't use Jupyter - I use Emacs Org Mode,,,,,,,,,,,,,,
+12287862165,,,,,,,,,,,,,,,,,,
+12287860907,,,,,,,,,,,,,,,,,,"The last time I tried working with jupyter extensions, it felt complicated. I like the idea of a ""marketplace"" like vscode"
+12287852975,,,,,,,,,,,,,,,,,,
+12287844935,,,,,,,,,,,,,,,,,,
+12287837008,,,,,,,,,,,,,,,,,,None
+12287827117,,,,,,,,,,,,,,,,,,
+12287826959,,Machine learning engineer,,,,,,,,,,,,,,,,
+12287825138,,,,,,,,better support for pbd in Jupyter QT console!,,,,,,,,,,
+12287824898,,,,,,,,,,,,,,,,,,
+12287820941,,,,,,,,,,,,,,,,,,
+12287797622,,,,,,,,,,,,,,,,,,
+12287532562,,,,,,,,,,,,,,,,,,
+12287325620,,,,,,,,,,,,,,,,,,
+12287299950,,,,,,,,,,,,,,,Heterogeneous coding skills in the team,,,
+12287261530,,,Mathematica,,,,,,2D and 3D image processing,,,,,,,,,
+12287245115,,,TextMate,,,,,,,Datadog,,,,,,,,
+12287200070,,,,,,,,,,,,,,,,,,
+12287128356,,Bioniformatics,,,,,,,,,,,,,,,,
+12287125885,,,,,,,,,,,,,,,,,,
+12286886168,,retired hobbyist,dash,,,,,,,,,,,,,,,
+12286741854,,,,,,,,,,Altair,,,,,I have many collaborations so this question was impossible to answer,,,"Awesome survey!    Biggest pain point is when notebooks hang for unknown reasons and then I lose saved variables. It's super frustrating and the biggest thing that makes me choose tools other than Jupyter. Not sure how much you yourselves are able to fix this, but at least better diagnostics would be a godsend so that it's not so mysterious and frustrating.    Global search would be also be awesome. So many times I know I've done something in the past but cannot find the notebook.    And publishing notebooks as dashboards would super cool too.    Great work - JupyterLab is fantastic!"
+12286686363,,,,,,,,,,,,,,,,,,
+12286674580,,,,,,,,,,,,,,,,,,
+12286638535,,,,,,,,,,,,,,,,,,
+12286624235,,,,,,,,,,,,,,,,,,
+12286570726,,,,,,,,,,,,,,,,,,"I tried JupyterLab but found it unusable due to lack of vim keybindings (for which there is a good extension that works with the traditional notebook interface).    The selection limits on this survey are obnoxious, I was forced to arbitrarily leave out some valid answers to a few questions."
+12286501544,,,,,,,,,,,,,,,,,,
+12286492485,,,,,,,,,,,,Handoff to engineer,,,,,,"Great project, thank you for building it. New features are fine but biggest pain point: notebook is rendered browser-side and closing my laptop / losing network connection puts kernel into an unreachable headless state. Very inconvenient, wastes time, ties my laptop to one place. Using nbconvert is only a partial solution."
+12286376548,,,,,,,,,,,,Google Colab,,,,,,
+12286355833,! bash to install packages,,,,,,,,scipy.optimize.minimize,,no side-by-side plots! Have to keep looking up and down code to plot,,,,this style would have been enhanced with a collaborative jupyter,how do you know if an already-run cell has been changed!?,"collapsing cells is more confusing than helpful, I accidentally collapse cells and don't know what happened!",
+12286344965,,,,,,,,,,"matplotlib, bookeh",,,,,,,,
+12286334482,,,,,,,,,"I generally don't think to use Jupyter for deep learning, like for reinforcement learning or NLP",,,,,,"We work on different parts and sometimes the same part of the project, so conflicts can become a problem",,,
+12286327916,,,,,,,,,,This is something I'm interested in but haven't invested the time to find a good solution.  ,,,,,,,,
+12286297178,,,,,,,,,,,,,,,,,,Handling server/kernel disconnection
+12286272316,,,,,,,,,,"infogram, datapane",,,,,,,,Suggested options while typing as in RStudio would be a major improvement.
+12286224103,,,,,,,,filebrowser stuck for big file list,,,Do not use too much visu,,,,,,hard for writing / finding great extensions,"Very great project, hope can be more powerful than colab in the future."
+12286221228,,,,,,,,,,,,,,,,,,
+12286206597,,,,,,,,,,,,,,,,,,
+12286201596,,,,,,,,,,,,,,,,,,
+12286195347,bash (via ! in Python notebooks),,,,,,,"JupyterLab doesn't indicate when the kernel restarts, which is a CRITICAL FLAW. I only use Jupyter Notebook",,,,,,,,"Git integration is bad (JSON!?), dependencies management is absent (just logging package versions in metadata would go a long way), Jupyter seems to have given up on real-time collaboration (Google exclusive?)","Not sure what I'm answering, I use Jupyter Notebook not JupyterLab. JupyterLab has many critical flaws making it unusable for me.",This survey doesn't make it clear if questions are about Jupyter Notebook (e.g. non-JupyterLab versions) or the notebook view of JupyterLab. I use the former.
+12286193037,,,,,,BigQuery (SQLish),,,,,,,,,,,,Version control is biggest pain point
+12286139369,,,,,,,,,basic calculations and filtering,,,,,,,,,
+12286104254,,,,,,,,,,,,,,,,,"ui is not streamlined.  Please separate code, output, and repl","Jupyter is an anti-pattern for serious projects.  It discourages good programming practices (writing tests, modular/importable code, repo/package organization), plays poorly with version control (10k commits from stateful notebook), is brittle (notebooks a week old will never run without an error).  Worst of all: the UI mixes REPL, source code, and output together.  This is clunky.  If I’m collaborating with someone who has written a notebook, I’m forced to abandon my workflow to use the notebook.    Please: prioritize notebook -> script conversion so I can use my own workflow when collaborating."
+12286100999,,,,,,,,,,,,,,,,,,1. Lack of vertical line at 80th character  2. Lack of separate view of dataframes  3. Lack of debugging tools  
+12286076947,,,,,,,,,,,,,,,,,,
+12286063790,,,,,,,,,,,,,,,,,,
+12286062738,,,,,,,,,,,,,,,,,,
+12286014931,,,,,,,,,,,,,,,,,,
+12286008452,,,,,,,,,,,,,,,,,,"1. Auto-Complete  2. Auto-Complete, again. Google Colab and PyCharm were best from what I had used.  3. Jupyter Lab is so good(except for auto complete) that I have stopped using Jupyter(plain version) after I discovered it.  4. Most of the small problems I had encountered are being solved by extensions currently, but I would like to see first party versions of them. list of variables, all versions of packages(python and the packages) which I check using `pip3 freeze`etc,."
+12285993768,,,,,,,,,,,,,,,,,,
+12285990518,,,,,,,,,,,,,,,,,,
+12285980436,,,,,,,,,,,,,,,,,,
+12285955847,,,Colab,,,,,,,,,,,,,,,
+12285953239,,,,,,,,,,,,,,,,,,Lack of testing features 
+12285942382,,,,,,,,,,,,,,,,,,"In our group, we've moved to primarily using the cell notation (# %%) in VS Code, because we get what we think is the best of both worlds -- the interactivity of a notebook with the benefits of a .py file like code completion, git diffs, easier scheduling than Snakemake or Papermill.    Where we use Jupyter *a lot* now though is in combination with Voila. We have set up a JupyterHub instance for our company specifically for Voila, so our data scientists can deploy notebooks as dashboards with little friction (or knowledge of front end/UI coding)."
+12285906706,,,,,,,,,,,,,,,,,,
+12285904555,,,,,Nonejxjsnd djd jdjd,,,,,,,,,,Nkne,,,Kshshj
+12285875857,,,,,,,,,,,,,,,,,,
+12285864510,,,,,,,,,,,,,,,,"https://github.com/kynan/nbstripout works well for me for git version control and tracking changes, but would be nice to have it as a default",,
+12285854886,,,,,,,,,,,,,,,,,,
+12285853555,"HTML, MATLAB",,,,,,,,,,,Dask on my local machine,,,,No live collaboration,"Bad support to copy-paste chunks of code + output, widgets management","I am really looking forward to start using JupyterLab 3.0, I really do not want to install Node to make it work and have been using the Classic one all this time because of it. I guess some extensions will need time to catch up, but now we see light at the end of the tunnel.    Also, this survey is extremely obtuse. Why up to 3 options in many of the questions?"
+12285848747,,,,,,,,,,,,,,,,,,
+12285829746,,,,,,,,,,,,,,,,,,
+12285820401,,,,,,,,,,,,,,,,,,I love JupyterLab
+12285804276,,,,,,,,,,,,,,,,,,"Some better method of editing in Vim as well as storing in .py files. I use jupytext right now, and it works okay, but it would be great to have tighter integration."
+12285801371,,,,,,,,,,,,,,,,,,
+12285792515,,,,,,,,,,,,,,,,,,"The workspace variables view pane (similar to MATLAB perhaps) would be a great help to see which variables are getting updated, and would help in debugging."
+12285784158,"OpenCL, Cython ",,Eclipse,,"Develop, test and profile new algorithms",,,,,,,,,,,,,
+12285780205,,,BBEdit,,,,,,,,,,,,,,,
+12285779599,,,,,,,,,,,,,,,,,,
+12285779408,,,,,,,,,,,,,,,,,,
+12285777037,,,,,,,,,,,,,,,,,,
+12285773351,,,,,,,,,,,,,,,,,,
+12285771184,,,,,,,,,,,,,,,,,,
+12285765165,,,,,,,,,optimization,,,,,,,,,"My biggest complaint is that dependency management is still a pain and that Jupyter needs to be rock solid stable. So many people use it now, don't make breaking changes. It is a pain in the ass trying to getting a given software, juypyter extension, and data setup for someone else to actually run and contribute to."
+12285764354,,,,,,,,,,,,,,,,,,
+12285762089,,,,,,,,,,,,,,,,,,
+12285406830,,,,,,,,,,,,,,,,,,"I use VScode for my software dev work and the integration with Jupyter, particularly when using a vent, if still confusing. Often the venv is not picked up.    Git version control is painful, there are some services attempting to solve them.      NBdev looks really interesting but didn't put in much time to learn it yet"
+12285179404,,,,,,,,,,plotly,,,,,,,,
+12285119084,Bash,,,,,,,,,Streamlit,,,,,,,,"I feel like conda integration / custom kernels could be more streamlined and simpler. The default install of Jupyterlab should make it easy to choose a conda environment for a notebook. Also, installing dependencies into the conda (or virtualenv) should e easy via the UI.    Some extensions, like the variable browser for Python / R, should probably be polished and included by default to make things easy for beginners. This is the key request/complaint I get from RStudio users when I teach Python in Jupyterlab.    An IPython REPL (console) attached to the interpreter of the running Python kernel would be great too.    With a few of these quality-of-life improvements Jupyterlab could easily displace proprietary tools like RStudio for both Python and R users.  "
+12285064479,,,,,,,,,,,,,,,,,,
+12284615361,octave,,,,,,,Dependencies between cells,,,,,,,,,,
+12284507996,,,,,,,,,,,,,,,,,,
+12284321775,,,,,,,,,,,,,,,,,,
+12283760889,,,,,,,,,,,,,,,,,,
+12283266626,,,,,,Ordered Key-Value Store (https://okvs.dev),,,,,,,,,,,,
+12282769726,,,,,,,,,"Optical Character Recognition, Image Processing",,,,,,"One of us explores new ways to achieve something, others turn does ideas into something that really work. New ideas are explored in notebooks, and solidify in Python packages outside the notebook.",,,"The extension system is not yet mature. That is a hassle after each upgrade of Jupyter. I support the idea to move much used extensions with a generic function to core, e.g. the toc and vim-bindings. Looking forward to lab 3.0 which makes installing extensions smoother.    Second thing: online rendering is not always consistent. NBviewer does it differently than GitHub, and the Software Heritage Archive is again different.     That said, I find the notebook and the lab truly awe-inspiring in how well they achieve complicated things."
+12282345206,,,,,,,,,,,,,,,,,,
+12282025187,,,,datacrunch,,,,,,,,,,,,,,
+12281831670,,,,,,,,,,,,,,,,,,
+12281820922,,,,,,,,,,,,,,,,,,
+12281813535,,,nano,,,,,,,,,,Lack of man power to make things happen,,It may not be fair to say I am not collaborating. I am helping people in my institution on request.,,,
+12281626659,,Using python on the browser.,,,,"Kaggle datasets, (sql, csv, xlsx).",,,,Redash,,Google AI Platform,,As part of a course,,,,
+12281373093,,,,,,Spatial formats,,,,Bokeh,,,,,,,,dakdeniz@hotmail.com
+12281342327,,,,,,,,,,,,,,,,,,
+12281305814,,,,,,,,,,,,,,,,,,
+12280879860,,,,,,,,,,,,,,,,,,
+12280774463,,,,,,,,code editing feature (e.g. autocomplete) in Notebook is not as good as that in VS Code,,,,,,,,,"UI of jupyterlab looks so bad, so I kept on using Notebook. Also I need executeTime.",improving UI of jupyterlab is critical. it should be at least as good as the current jupyter notebook
+12280735066,C++,Performance Engineer,,JupyterHub onPrem K8s cluster,Please just add VS Code server as a supported plugin,,,,,,Chart versioning like what grafana supplies,,,,,,,"Some of the options are limiting (data sources, i.e. I use more than 3)    The form is refusing to accept my email. (jupyter@denialof.services)"
+12280703800,,,,,,,,,,,,,,,,,,
+12280538582,,,,,,,,,Nuclear reactor design/engineering,,,,,,,,,
+12280536398,,,,,,,,,,"I haven't done much of this, but certainly would if it was easy.",,,,,It has been hell.,,,"Using a debugger with Jupyter has always been a huge pain. Realllly looking forward to it being available -- and built into the IPython kernel. Built-in table of contents is necessary. Navigating long notebooks is terrible. Being able to specify extensions as part of the conda environment also super key -- losing them all every time I recreate the environment is annoying, and never being sure that collaborators will have the same extensions is also not great."
+12280462239,,Testing code while developing/supporting my scientific library,,,,,,,,,,,,,,,,
+12280290865,,,,,,Thredds,,,,Panel,,,,,,,,
+12280259720,Stata,,,,,,"geospatial (shapefile, topojson)",,Economic model simulation,,,,,,,,,
+12280195845,,,,,,,,,,,,,,,"PhD supervisors, I share my data/progress",,,I lost the will to fill in all fields halfway through question 7
+12280112774,,,,,,,,,,,,,,,,,,Context: power-user that tries to force fit notebooks to every use-case.
+12280019399,,,,,,,,,,,,,,,,,,no
+12280001102,,,,,,,,,,,,,,,,,,"Text editor in jupyterlab needs an upgrade. while it does not need all of the features in something like VSCode or Pycharm, the ability to do multi line highlighting & selection, variable refactoring, and a mini map would improve the experience. Also jupyterlab's default dark theme can be hard to read due to the heavy use of pure black in the interface."
+12279965451,,,,,,,,,,,,,,,,,,
+12279824160,,,,,,,,,,,,,,Documentation,,,,
+12279799992,,,,,,,,,,streamlit,,dask distributed ,,,,,,
+12279750280,,,,"Acces it via ssh (-port-forwarding) from a computig cluster for physicists, though recently I am mostly using JupyterHub instead.",Exploring data,,ROOT file format (common in high-energy-physics) which has a tree structure and can serialize arbitrary objects with schema-evolution. The files that I use are flat and can be easily converted into a tidy dataframes.,Beginners are confused by the persistent state,,,,Luigi package to schedule jobs on HTCondor and the LHC Worldwide Computing Grid,"To modularize my code and for computing-intensive tasks, I move my code out of notebooks into a python package, notebooks are only for exploration and plotting for me.",,,,,
+12279638260,,,,,,,,,,Bokeh,,,,,,,,
+12279618215,,,,,,,,,,,,,,,,,,
+12279595904,,,,,,,,,,,,,,,,No Live edit support is a critical problem,,
+12279200000,,,,,,,,,,,,,,,,,,
+12279121875,,,,,,,,,,,,,,,,,,
+12279044011,,,,,,,,,,,,,,,teaching,,,
+12278723343,,,,,,,,,,,,,,,,,,
+12278709083,,,,,,,,,,,,,,,,,,
+12278094222,,,,,,Read html tables into pandas,,,,Planning to use Voila,,,,,,No multi user notebooks,Poor xml support,
+12278083419,,,,,teaching python / presenting code + results,,,,,,,,,,,,,
+12278053841,,,,,,,,,,,,,,,,,,
+12277903154,,,,,,,,,,,,,,,,,,
+12277476040,,,,,,,,,,streamlit,,,,,,,,
+12277418422,,,,,,,,,,,,,,,,,,
+12277202354,,,,,,,,,,,,,,,,,,
+12276845276,,,,,,,,,,,,,,,,,,
+12276634473,,,,,Not much anything else,,,,,,,,,,,,,
+12276592806,,,,,,,,,,,,,,,,,,
+12276494083,,,,,,,,,Computer Vision,,,,,,,,,"Jupyter sessions are not persistent. ML jobs are typically very long. If I accidentally close my browser tab, and bring it back, my jupyter job is no longer there."
+12276482314,,,,Private cloud,,,,,,,,,,,,,,
+12276476240,,,,,,,,,,,,Ray,,,,Diffs are horrendous to look through on Git,,
+12276454815,,,,,,,,,,PowerBI,,,nothing,,,,,
+12276427442,,,,,,,,,,Panel,,,,,,,,
+12276337147,,,,,Use as a Python console to verify results or behaviors.,,,Navigation between cells with keyboard is a bit alow,,,,,,,Share final report,,,
+12276307083,,,,,,,,,,,,,,,,,,"Ability to customise notebook parameters without going into the meta mechanics. A user should be able to customise the whole look of a notebook (fonts, formatting). There should also be more support when it comes to notebook export to PDF. Support should be adjusting figure sizes in pdf output, adjusting margins of a document, etc."
+12276249525,,,,,,,,,,,,,,,,,,
+12276170743,,,,,,,,,,Metabase,,,,,,,,
+12276169690,,,ObservableHQ,,,,,,,,,,,,,,,
+12276021818,,,,,,,,,,,,,,,,,,
+12275987208,,,,Run directly on remote machine (university lab servers),,,,,,,,,,,,,,
+12275912755,,,,,,,,,,,,,,,,,,Thank you for providing this wonderful tool.
+12275725305,,Mechanical Engineer,,Visual Studio Code,"Mechanical engineering design / analysis calculations. Works well if you know python, much better for large-ish numerical analysis with pretty plots for reports.",,,,,,,,,,Generally we split the work with one person doing it and another being the reviewer/checker.,,,It is working as a great tool for us but the ability to add review comments and tracked changes would really move it from out of being just a niche tool.
+12275625635,,,"PyTorch, TensorBoard",,,,,,,,,,I don't use Jupyter for jobs that need to scale,I wrote notebooks with my co-authors for Deep Learning with PyTorch,,,,
+12275441337,,,Command-line.,,,,,,,,,,,,,,,
+12275425091,,,,,,,,,,Panel,,,,,,,,
+12275408792,,,,,Exploratory data analysis ,,,Code Debugging ,,Power BI,,,,,,,"No Code Debugging, compared to pyCharm for example",My main problem with Jupyter is the very poor code debugging facilities compared to pycharm.
+12275254734,,,Orchest,,,Web (scraping),,,Viz/exploration,,,,,,,,,
+12275239238,,,WingIDE,,,,,,,,,,,,,,,
+12275238526,,,,,,,,,,,,,,,,,,"While using tqdm progress bar for longer runs, the progress gets stuck in between, and nothing prints after that. I think this might be an issue with some kind of output buffer in jupyter, not sure, but I think this should be fixed if possible."
+12275216649,,,"emacs-jupyter,org-babel",,REPL,,,,,,,,,,,,,
+12275170135,,,,,,,,,,,,,,,,,,native pep8 / pyflakes / black support would be great
+12275075095,,,,,,,,,,,,condorhtc,,,,,,
+12275029893,Swift,,,,,,,,,,,,,,,,,
+12274996686,,,,,,,,,,,,,,,,,,
+12274972777,,,,,To Teach Robotic...,,,,,,,,,,"I teach jupyter and its work philosophy so that many students, teachers, researchers and professionals improve the performance of their tasks and strengthen collaborative work, later they can help the Jupyter project",,,"We must have possibilities for the total translation of Jupyter and all its context into Spanish, my time is available for that challenge, when you decide so I begin, Greetings from Salta, North Argentina, South America."
+12274967167,,,,,,,,,,I make graphs and export the notebooks,I can't use 99% of auto-updating dashboards due to company security policies and HIPAA compliance,,,,,"We share notebooks via S3 from Sagemaker, but sometimes have permission issues with the company's multi-account AWS setup",,I wish I had a way to run all notebooks in a directory without having to open them separately.
+12274946793,,,,,,,,,,,,,,,,,,
+12274841807,,,,,,,,,,,,,,,,,,
+12274834994,,,,,,,,,,,,,,,,,,
+12274819588,,,,,,,,,Clustering,,Poor support for visualizing in-memory videos (lists of images),,,Only share visualizations and analysis results via different sources other than notebooks,,,,
+12274819210,pyspark,,,run via ssh into remote server,,,,,,,,,,,,,,
+12274782100,Octave,,,,,,,,,,,,,,,,,
+12274735142,,,,,,,,,,,,,,,,,,
+12274724833,,,,,,,,,,,,,,,,,,It is a great tool. Thanks guys!!!!
+12274717087,,,,,,,,,,streamlit,matplotlib is too slooooooow and clunky; nothing else in the python ecosystem can handle large amounts of data (eg altair),metaflow,,collaborative science,,would love to have better collaborative tools -- working on same notebooks is one of the biggest blockers to collaboration,the UI can be quite slow with even a few graphics and notebooks loaded -- would love to have it be snappier!,jupyter generally (and juptyerlab specifically) have radically improved my life as a computational biologist -- a million thank yous to all involved!
+12274710698,,,,,,,,,,,,,,,,,,
+12274687853,,,,,,,,,,,,,,,,,,
+12274675916,,,,,,results of locally run simulations,results of simulations (but not reinforcement or games),"lose of UI state (cells running or not, etc) when browser is restarted",analyzing results of simulations of a space satellites fleet,,,,,,live editing with multiple users on the same notebook would be awesome,,,thanks for doing this :)
+12274660652,,,,,,,,,,,,,,,,,,None
+12274611936,,,,,,,,,,,,,"Versioning - I have a ""my-method.ipynb"", ""my-method-v2.ipynb"", ""my-method-v2-normalized.ipynb""...",,,,,
+12274591265,,,,,,,,,,,,,,,,,,
+12274586601,,,,,,,,,,AutoAIViz,,Luigi,,,,,,
+12274534836,,,,,,,,,,,,,,,,,,
+12274518942,,,,,,,,,,,,,,,,,,
+12274514930,,,,remote server ngrok,,,,,,,,,,,,,,
+12274514538,PySpark,,,,,,,,,,,,,,,,,
+12274511967,,,,,,,,,,,,,,,,,,
+12274507892,,,,,,,,,,,,,,,,,,
+12274506775,Cython,,,,I mostly use Jupyter as a substitute for a REPL when debugging code locally and remotely.,,,,,,,,,,,,,
+12274494454,,,,,"Display, zoom, filter, query tabular data coming from excel, SQL: lack of good integration within jupyter (notebook or lab)",,,,Simple SQL queries (CRUD),,,,,A set of tools (data and programs) shared a team,,I use git Jupyterlab extension which fill the gap,,"Please, keep this Jupyter initiative alive!"
+12274488849,,,,,,,,,,,,,,,,Can't do code review in github on notebooks.,,I think collaboration is really a big issue with jupyter. I can't collaborate with others on a project because of the fear they will change the notebooks and then it's git diff nightmare. 
+12274485955,,,,,,,,,,,,,,,,,,
+12274484465,Markdown,,,,,,,"Debugging is functional but messy (i.e. with %debug), generates endless scrolling bars. I do wonder if there is a better solution for it. Granted I could probably use an IDE, but I don't like them for anything other than debugging. ",,,,My workplace is not giving me the tools I need,,,The above slider (#16) was terribly imprecise. I collaborate with >0 and <<10 people (you can't just default that to zero),,,"I think notebooks could have a set of features to build shareable reports / websites that look professional. Current look and feel of such features is not up there yet, i.e. you have to fiddle a lot to get basic features such as section numbering and a nice looking theme -- sensible defaults would go a long way there. Maybe the problem is the extension system, it is very obscure.     Other than that I just love Jupyter notebooks. Please keep up the good work. They are invaluable as a tool. "
+12274470044,,,,,,,,,,,,,,,,,,
+12274468074,,,,,,,,,,,,,,,,,,
+12274466779,,,,,,,,,,,,,,,,,,
+12274463340,,,,,,,,,,Power BI,,,,,,,,
+12274454415,,,,,,,,,,,,,,,,,,
+12274454288,,,,,,,,,,Bokeh,,,,,,,,
+12274453289,,,,,,,,Cell order is not execution order; reactive notebook would be great,,,,,,,,No collaborative editing,,
+12274451180,,,,,,,,,,,,,,,,,,
+12274445729,,,,,,,,,,,,,,,,,,
+12274440712,,,,,,,,,,,,,,,,,,
+12274434138,,,,,None,,,,,,,,,,,,,
+12274427436,,,,,,,,,,,,,,,,,,Survey too long
+12274409169,,,,,,,,,,,,,,,,,,
+12274186075,,,,,"Teaching, I mean, I've been using jupyterbook this period and it has been great!",,,"I need more keyboard commands, like a real IDLE in order to improve my development speed.",,,,,,Only talk about it,,,,"Jupyter is an amazing community but for more serious development I've used other IDLE because keyboard-shortcuts/commands and even integration with other services, for example Docker."
+12273762480,,,,,,,,,Subgroup Discovery (rule extractions),,,,,,,,,
+12273209644,,,,,I use jupyter to clue together numerical code,,,,,,,,,,,,,
+12272928737,,,,,,,,,Exploratory Data Analysis,,,,,,,,Integrate widgets in Jupyter Lab,Installing extensions behind a proxy
+12272892650,,,,,,,"FITS (1D,2D,3D astronomical data)",,parameter estimation,,,,,,,,,
+12272663717,,,,,,,,,,,,,,,,,,
+12272506576,SageMath,,,,,Scientific papers,,,,,,,,,,,,
+12271681932,,,,,,,,,,seaborn,,,,,,,,
+12271490161,,,,,,,,,,,,,,,,,,
+12271101911,,,,,,,,,,holoviews,,,,,,,,
+12270861769,,,,,,,,,,,,,,,,,,
+12270848365,,,,,Slideshows,,,Slideshows not working well - RISE,,"PowerBI, Apache Superset",,,,,,,,The main issues for me are:  - Difficulty integrating with git.  - No standalone app makes it harder to get people to start using it.  - No GUI options to select export options such a hiding code.  
+12270785920,,,,,,,,,,panel,,,,,,,,
+12270590446,,,,,Making medium complexity UIs via Ipywidgets for middle proficiency users to engage with. ,,,,,ipywidgets and matplotlib custom dashboards,,,,,,,,
+12270376793,,Embedded Development,,Embedded device,Driver development for FPGA IP Cores and custom ASICs,Acquisition data from ASICs,custom,Tools for realtime data exploration,,,,FPGA,,,,,,
+12270159804,,,,,,,,,,,,,,,,,,
+12270135423,,,,,,,,,,,,,,,,,,
+12270011406,,,,,,,,,,Streamlit,,Google AIP notebooks,,,,,,
+12269820961,,,,,,,,,,streamlit,,,,,,,,"Would be nice if you make the UI looking more modern! It's a great tool, but tbh, the UI looks like from 20 yrs ago.    Thanks"
+12269809763,,,Eclipse,,,,,,,,,,,,,,,
+12269774632,,,,,,,,,,Pluto.jl,,,,,,,,Hidden state of the notebook - dependency on the order of cell execution and/ or already deleted / changed cells is an issue.
+12269765189,,,,,,,,,,,,,,,,,,
+12269763703,,,,,,,,,,,,,"I would never ever use notebooks as part of my critical flow, they're for prototyping and manual action.",,,,,"My biggest pain point is the best way to use a notebook is ""Restart and run all"" all the time, because otherwise you get into a very complicated state where cells further down the notebook have already stored some variable that, when you edit an earlier cell, you now have data from.    This can lead to situations where your code works the first time, but because of path dependence it fails when run from scratch."
+12269423503,,,,,,,,The overhead of manipulating/exploring textual data in a notebook is higher than command line tools and/or ipython terminal.,,,,Jenkins,,,I don't normally collaborate using jupyter,I think jupyter hub can help with some of these issues but that adds team maintenance overhead,,"I transitioned from a research oriented role where I used (and loved!) jupyter for project-based visualization and model building to a production-focused data-engineering role where jupyter has stopped being part of my workflow.     In my current experience jupyter notebooks don't fit into a production data pipeline. We need end-to-end tests and checks, version control on all production code, relatively fast execution speed, and transparency of stack traces on exceptions/errors in production pipelines.    The best dev-to-prod workflow I've found is  - writing code in editor and executing in ipython terminal  - iterate to good solution  - push code as feature pr  - deploy etc    I tried including jupyter in the 1st step, but transitioning a notebook to production code I can submit as a pr is more busy work than writing the code in a .py file from the outset.    Reducing the barriers to extracting pr-ready code from a notebook would help me include jupyter in my workflow."
+12269144185,Cython,,,I run my own Docker container with Jupyter in a virtual environment on remotely-accessed workstations,,Remote filesystem,"Most media listed above: images, text, audio, video, graph",,,,,(I use notebooks only for R&D; I never use them for deployments),,,,,,"Jupyter lab lets me do a *little* bit less synchronizing via git to edit locally in PyCharm, but it's not quite robust enough to really replace that tool for me. Being able to create templated Python files would be great, as would better built-in linters/code completion in text file editing.    (A common workflow for me is draft in IDE -> test + edit in notebook -> polish and document in IDE).    Some git utilities in Jupyterlab could be nice too - avoiding conflicts can occasionally be tedious."
+12269018487,,,,,,,,,,,,,,,,,,
+12268866966,,,,,,,,,,Holoviews with a Bokeh backend,,,,,,,Can't easily delete all the code cells of a notebook,
+12268740447,,,,,,,,,,,,,,,,,,Looking for a Classic notebook with and Easy add/delete cells near the cell itself like in colab
+12268558870,,,,,,,,,,,,,,,,,,I want to hide cell code for PDF output
+12268290733,,,,,,,,,,,,,,,,,Please UNDO for cells is MANDATORY (ctrl+z),Please UNDO for cells is MANDATORY (ctrl+z)
+12268247729,,,,,,,,,,,,,,,,,,
+12268073661,,,,,,,,,,,,,,,,,,
+12267967772,,,,,,,,,,Bokeh,,,,,,,,
+12267884351,Octave,,,,"Sou área da engenharia, e uma coisa que sinto falta é de otimização para criação de SlideShow, como pacotes como RISE, VOILA e REVEAL.JS Slide. Falta mais qualidade de imagem e formatação para slides, poderia integrar mais técnica de CSS, JS, HTML. Pois o que mais uso é apresentar gráficos do Plotly.",,,SlideShow (Major),,"Rise, Reveal.JS Slide, Dash-Plotly",SlideShow with plotly or bokeh,,,,,,,"One of the great tools of jupyter is to present results in the interactive slide format and this could be improved with better integration of html, css and javascript."
+12267692280,,,,,,,,,,,,,,,,,,Inability to reconnect cell outputs after a page refresh - Critical
+12267522092,,,,,,,,,,,,,,,Collaboration with members of research group and occasionally other groups,,,
+12267497960,,,,,,,,,,bokeh,,,,,,,,
+12267230738,,,,,,,,,,,,,,,,,,Hoping that this will be shared publicly!
+12267225052,,,,,,,,,,,,,,,,,,
+12267139242,,,,,,,,"kernel ""hanging up"" and not responding to the ""interrupt kernel"" command",,,,,,,"Mostly we just share useful code snippets - e.g. I have a nice ""plot our model output onto a map with everything formatted in a nice way"" script, so we all use that, etc.",,,
+12267085381,bash (by using ! everywhere),,,,,,,,,,,,,,We iterate over the same notebook or create versions of the same notebook for different users (e.g. trying different ML methods on same dataset),,,
+12267057836,,,,,,,,,,,,,,,,,,Find/Replace in jupyterlab is still missing
+12267035778,,,,,Developing analyses / dashboards to share with others.,,,,,,,,,,,,,Multi-user collaboration (like Colab) would be amazing.  Major issue with hosted providers: Not supporting maintaining a set of shared packages accessible in notebooks and/or not being able to securely access our environments.  I really want to see a tighter flow between notebook development and “live interactive dashboard” hosting; we have not tried Voila in earnest yet.
+12267013620,,,,,,,,,,PowerBI,,,,,I dont,,,
+12266979750,,,,,,,,,,,,,,,,,,
+12266899704,,,,,,,,,,,,,,,,,," I am very interested in these being as user friendly as possible. For that reason I would hope for a Jupyter desktop app that I could tell my colleagues to install and that will be that. At the moment, trying to get them to install a seperate ide or anaconda is a bit of a pain. My projects are just starting to integrate Jupyter notebooks and Python into them. As such, I am using Google collab to introduce my colleagues to the notebook and coding for data science purposes. I thought I should share my use case."
+12266896435,,,,,,,,,,,,,,,,,,
+12266890928,,,,,,,,,,,,,,"Share data visualisations, analysis and conclusions",,,,
+12266884959,,,eclipse with pydev,,,,,,rule induction,,,,,,,,,
+12266881717,,,,,,,,,,,,,,,,,,
+12266861897,,,,,,,,,,,,,,,,,,
+12266859048,,,,Anaconda Navigator to Jupyter Notebook,,,,,,,,,,,,,,
+12266850391,,,,,,,,,,,,,,,,,,"Perhaps most annoying problem is closing the laptop on a long-running sheet, and then opening up a few hours later to find the notebook has finished running, but you've lost all output."
+12266849650,,,text editor,,,,,,,,,,I don't use Jupyter when scaling up to HPC,,,,Keyboard shortcuts are not nearly as extensive as I want,
+12266836881,,,,,,,,,,,,,,,Graduate students that I am mentoring,,,
+12266817556,,,,,,remote server through a vpn,,,,,,,,,,,,
+12266814146,,Business Process Manager,,,,,,,,"Seaborn, PyPlot",,,,,,,,
+12266796970,,,,,,,,,,,,,,,,,,
+12266756834,,Developing algorithms to search data and retrieve them by building APIs that can be used within Jupyter Notebooks,,Dedicated machine that we are developing to process data and JN is a feature on that running in a docker container,,,,,Search and Analysis of the data based on different fields to decode what is in the data for network traffic,custom GUI that takes the data and APIs and displays it for us.,,,,,,,,Needing to have the notebook connected while running a python module.  This is the biggest drawback.  Would love a way to run it and to be able to come back to it when the results are done when it is running on a standalone server.
+12266682270,,,,,,,,,,,,,,,,,,
+12266502224,,,,provided onprem on my company,,,,,,,,,,,,,,
+12266471307,,,,,,,,,,Node-RED Dashboard,,,,,,,,-
+12266314788,,,,,,,,,,,,,,,,,,
+12266254844,,,,,,,,,,,,,,,,,,
+12266253691,,,,,,,,,,,,,,,,,,
+12266219207,,,,,,,,,,"Panel, Bokeh",,,,,,,,
+12266119679,,,,,,,,,,Power BI,,,,,,,,
+12265624250,,,,,,,,,,PowerBI,,,,,,,,
+12265559381,,,,,,,,,,,,,,,,,,
+12265454849,,,,,,,,,,,,,,,,,,Jupyter extension installation isbrittle so far    We love jupyterhub. We'd love to see it mature
+12265428552,,,,,"Presenting/teaching/demo-ing -> Jupyter notebooks are great for this    Exploratory coding -> Jupyter notebooks are very nice for this, I use it when IPython is not enough anymore.    These are actually what I consider two of the main Jupyter notebook use cases, so I'm surprised they are not listed.",,,,,,,,,,,,No indicators whether the output of a cell is stale due to nonlinear execution is a major problem.,"Version control of notebooks and viewing diffs and notebooks rendering on GitHub is a pain point, it is still quite clumsy.    I'd really like a ""usage mode"" that is more aimed at reproducibility and version control. For example, it should be possible to not save outputs into the notebook and not make trivial changes in the diff (e.g. Python bugfix version used to last open a saved notebook)."
+12265376876,soma bash commands with like !ls !pip install ... etc.,,"Mainly JupyterLab, recently switched from Jupyter Notebook - Classic",,,,,Could not 'natively' play video stream (mjpg) in output cell. Like for example i can play locally stored movie.,,,,,,,,,,"Recenly switched form Classic Notebook to Lab (v2). Extension system is a bit confusing, when i search for exensions i get a list of extensions. not sure which one to install. some i install and don't work. some lead to github some to javascript thing.  Debugging with Xeus kernel, sometimes work but often doesn't."
+12265370351,,,,,,,,,,,,,,,,,,
+12265336516,,,,,,,,,,,,,,,,,,"The code editor is very lacking compared to other powerful options like VSCode+similar. It's far more pleasant to edit code with these tools, and I do so when I can, which definitely draws me away from Jupyter."
+12265313000,Bash,,,,,,,,,PowerBI,,,,,,,,"My biggest pain point is the lack of dependancy management between python packages and lab extensions. It would be great to specify them all in a single yml file and have a utility (conda, mamba?) that solves properly the environment and install everything in one go"
+12265267958,,,,,,,,,,,,,,,,,,
+12265004129,,,,Deepnote,,,,,,Metabase,,I don't scale and schedule my workloads,,,,,,"please make questions in this survey skippable, oh my god"
+12264971444,,,,,,,,,,,,,,,Would be nice to have real-time collaboration,,,
+12264911228,,,,DesignSafe-CI,,,,,,Planning for the future,,,,,,,,I appreciate for all in Jupyterlab and jupyterhub. 
+12264839155,,,,,,,,,,Panel,,,,,,,,
+12264834848,"Markdown, html, json, csv viewer ",,,,,,,Updates cause vim notebook bindings to randomly quit working,Sensor output analysis ,,,,,,,,,
+12264811250,,,,,,,,,,,,,,,,,,
+12264811240,,,,,,,,,,,,,,,,,,
+12264806780,Matlab,,,,,,,,,,,Split tasks and offload to a cluster,,,,,,
+12264743034,,,,,,,,,,Cognos,,,,,,,,No coment
+12264741096,,,,,,,,,,,,,,,,,,
+12264622790,,online marketer,,Kaggle,,Crawling/web scraping,,,,,,,,,,,"Extremely slow with auto-complete, painfully slow file browser. ","No native, easy to use slides (see Rstudio). Very difficult to produce custom nice-looking slides. "
+12264423466,,,,,,,,,,,,,,,,,,"I would like to work in a notebook with other people natively, when I want to work with someone else I usually use Google colab, but some times it doesn't work OK, so with my team mates we need to split the work in different notebooks and finally put them together. "
+12264407534,,,,,,,,,,,,,,,,,,
+12264265519,,,,,,,,,This should allow to choose more than 4. Also Classification; predict a categorical output. Outlier detection. Graph data science.,,,I need to scale but have no solutions available to me (restrictions on use of public resources due to data confidentiality and poor support of Jupyter by on premise HPC admins),,,,,,
+12264135380,,,,,,,,,,,,,,,,,,
+12264088642,,,,,,,,,,Plotly Express,Having to install NodeJS to make Plotly Express work in JupyterLab. Why doesn't it work out of the box like in Jupyter Notebook Classic?,,,,,,,
+12264082530,,,,,,,,,,,,,,,,,,
+12264077004,Bash,,,,,,,,,,,,,,,,,
+12264053218,,,,,,,,,,,,,,,,,,
+12264052369,,,,Remote on cluster. Using VSCode to start up the kernels.,,,,,,,,Jug,,,,,,
+12264047792,,,,,,,,,,,,,,,,,,
+12264015171,,,,,,,,,,,,,,,,,,
+12264008241,,,,,,,,,,,,,,,,,,
+12263998867,,,,,ObservableHQ data visualization notebooks/dashboards,,,,Unbiased chierarchical clustering,Observable HQ,It can be difficult to install our custom widget Clustergrammer2 on cloud services like Kaggle,,,,,Saturn is doing a good job with some of these issues,,"We love the Jupyter widget infrastructure, but it can be difficult to get widgets installed. It sounds like JupyterLab 3.0 might help with this."
+12263564651,,,,,,,,,,,,,,,,,,
+12263521434,,quantitative analyst,notepad++,,,,,,Asking the data questions and getting answers.,,,,,,,,,
+12263496067,bash/terminal,,,,,,,"pandas' memory management, but not really jupyter..",,,the number of times i have typed out %matplotlib inline  ...,jupyter nbconvert --execute,,,,jupyterlab offline extension installs!,jupyterlab offline extension install!,Biggest one is that installing extensions offline w/ jupyterlab doesn't work. I work with sensitive/restricted access data on servers that don't have internet access (though we are able to e.g. get a package approved and transfer a ZIP over)
+12263328948,,,,Domino data labs,,"oracle, teradata, sql servers on-premise",,,,,,,Don't typically schedule notebooks,,,Multiple users in a notebook and checkpoints is an issue so we avoid working at the same time,I use many small notebooks vs one large to alleviate many of these issues. nbconfig also helps and should be native.,
+12262760238,,,,Domino Data Labs,,,,,,streamlit,,,,,,We use Domino Data Labs and it makes collaboration much easier ,,
+12262617217,sparql,,,,"Query to DB, and ability to visualise, inspect it.",,,,,,,,,,,,,
+12262547309,,,,,,,,,,,,,,,,,,
+12262342013,"octave, matlab",,,,,,"molecular dynamics formats, especially gromacs",,,,,,,,,no ability to simultaneously edit,Printing to PDF is poorly supported,"Integration with the desktop (double-clicking files, locating working file in filesystem, arbitrary file location) is poor.  I've written a bunch of scripts to overcome these problems.  Use of files on file sharing systems (esp. onedrive) is slow."
+12262106995,,,,,Presentation including some live coding,,,,,,,,,,,,,
+12262073752,,,,,,,,,,,,,,,,,,
+12261839432,,,,,,,,,,,,,,,,,,
+12261682469,J,,,,,,,,,,,,,,,,,
+12261116098,,,,,,,,,,,,,,,,,,
+12261096059,,,,,,,,,,,,,,,,,,I'm generally really happy with the direction the Jupyterlab project (and jupyter in general) is going. Thanks for all your amazing work! :D
+12260600067,,,,,,,,,,,,,,,,,,
+12260535024,,,,,,,,,,,,,,,,,,
+12260337364,,,,,,,,,,,,,,,,,,
+12260120624,,Principal Optical Systems Engineer for medical-device develper,Zemax OpticStudio,,,,,,"Y'know - data analysis. Of real data from new hardware, not the cloud. Small datasets and images. Also Monte Carlo simulation and symbolic mathematical analysis.",,"As my data is proprietary and confidential, I need to keep it local. I find matplotlib very wordy. 200 lines of code to generate a decent-looking 2-subplot figure is a bit bulky-seeming.Declaritive syntax feels a bit artificial to me. Sometimes miss the ability to click objects to format. I've tried Bokeh, but I'm lazy about closing graphs. Would love to post-modify figures more straightforwardly. (Probably just lazy and confused)",,,,"It's more of a create/review workflow; Or occasionally a ""pick up where I left off.""","Maybe I'm being a bit overdramatic, but more-human review and version control would be VERY VERY nice to have.","Yeah, the notebook-style search/replace in Jupyter LAB would be ducky. Also I tend to write long notebooks encapsulating a data analysis/synthesis. Collabsible sections in LAB would also be nice. Maybe I just missed their rollout.",
+12259857905,,,,,,,,,,,,,,,,,,
+12259499256,,,,,,,,,,"streamlit, powerbi",,,,,,,,
+12259499062,,,,,,,svg,,,,,,,,,,,
+12258773195,,,,,,,,,,,,,,,,,,
+12258756648,,,,,,,,,,Streamlit,,,,,,,,
+12258684425,,,,,,,,,,,,,Prefer to handle pipelines with a dedicated tool (Argo Workflows) and only use jupyterhub as an experimentation platform,,Would love it if Jupyterhub would support Real-time collaboration like Google Colab,"Git integration and traceability is nice, but real-time collaboration would solve a lot of collaboration problems in general",,"Would be nice if Jupyterhub had a ""Gallery"" before starting up an environment, where one could look at available/shared notebooks and spin up the chosen one(s) in any chosen environment.    The Gallery source could then be supporting many solutions, e.g. Azure blob storage, AWS S3 buckets, Minio, Git repositories, NFS, HTTP,...    Also this could be the entry point where Real-Time collaboration could happen, where a user would see which ""Gallery Entry"" is currently in use and join that for collaborative editing"
+12258342121,,,,,,,,Versioning and execution order,,,,,,,,,,
+12258308190,,,,,,,,,"image processing, GIS analysis, numerical modeling",,"default plotting is too small in notebook, lock of interactivity",,"I do not use jupyter to scale, but only to develop code, then I use python itself",,,,"poor workspace access. Must modify manually the URL, no direct access at launch ","I like a lot the workspace idea, though it is very indirect to access the different workspace, or even create a new one. Also, keyboard shortcut misses some tool for advanced selection technique (e.g. select next occurence)"
+12258126891,,,,,,,,,,,,,,,,,,
+12258087572,,,,,,,,,,,,,,,,,,"There are some critical features that were available in the Classic Notebook that aren't solved yet in JupyterLab. (for example: https://github.com/jupyterlab/jupyterlab/issues/5897)    Thus, I'm still forced to use the classic notebook. However, it seems current and future development only focuses on JupyterLab. That would be fine if the pain points of transitioning to JupyterLab were acceptable... I fear that I will be left stuck on an old, non-maintained platform (classic notebook)."
+12257982084,,economist,,,,,,,,,,,,documentation,,,,
+12257894365,,,,,,,,,,,,,,,,,,
+12257710348,,,,,,,,,"Plotting, also making ascii data available on the web",,,,,,,,,
+12257665072,,,"Also pycharm and JupyterLab, but you only let me pick 3...","HiPerGator, UFl's supercomputer",,,,,,,,,,,,,,
+12257616263,,,,,,,,,,Streamlit,,,,,,.ipynb format is really messy. I prefer simple git friendly .py like in VSCode notebooks,UI feels old (needs modern theme refresh). Lack of extensions (VSCode/theia VSX have far more complete ecosystem),VSCode will grow ever stronger. I think Jupyter should either :    1) join force with Theia & VSX open repo    2) or provide something fondamentally new and different like for eg. reactive notebooks (cf. Observable and Julia Juno notebooks)
+12257610673,,,,I setup a local jupyhub on our private cloud using rancher,,,,,,,,,,,,,,
+12257521676,,,,,,,,,,Mode,,Custom Kubernetes deployments,,,,,,
+12257515482,,,,,,,RF,,,,,,,,,,,
+12257503701,,,,,,,,,"Theoretical Machine Learning, Information Theory and Statistical Physics",,,,,,,,,"I love jupyter notebook/lab and it has been the main tool for my work for years, despite the fact that I hate editing in a browser. Now I switched back to emacs using the emacs-jupyter + org-mode + org-babel, mostly because editing in a browser is slowing me down a lot.   Also, with emacs org-mode it is possible to have multi-kernel ""notebooks"" out of the box and the ability to share data between different kernels, which is a necessity for me because Julia plotting capabilities still immature. (I just discovered about jupytext and MyST and I'll give it a shot when I have the time)"
+12257413195,,,,,Assigning homework to students,Csv files on the Internet,,,,,,,,,The collaboration is simple: I help my students with their assignments.,,No hierarchical structure (e.g. code cells in lists).  Manual grading and commenting on notebooks is cumbersome.,"Defining LaTeX macros is difficult: in MathJaX, they have to be defined in math mode, which is wrong TeX, and explodes badly when trying to export to pdf via LaTeX."
+12257393869,,,,,,,,,,bokeh,,,,,,,,
+12257393025,,,,,,,Microwave and RF data formats (s2p etc),,,,,,,,,,,The notebook state getting out of sync with the interpreter's state - I consider this a minor inconvenience
+12257378335,,,,,,,,,,,,,,,,,,debugger!!!
+12257338316,,,,,,,,,,,,,,,,,,
+12257307474,,,,,,,,,,,,,,,,,,
+12257247194,,,,,,,,,,Redash,,,,,,,,
+12257226537,,,,,,,,,,,,,,,,,,
+12257222488,,,GOR,,,GORdb,,,,pyplot,,,,,,,,
+12257180752,MATLAB,,,,,,,,,,,,,,,,,
+12257082964,,,,,,,,,,Need to advance drag and drop dashboard libraries ,,,,,,,,"—Jupyterlab as a project — potentially a long-running one with project level metadata.  —a standard interface for viewing a data catalog.  They aren’t rocket science and the fields are generally standard. Selected data sources should be attached as metadata to a workbook.  —publishing notebooks for collaboration.  Support for adding diff types of collaborators (coders, commenters, viewers and approvers) and enabling different visibility for some cells. For instance, viewers don’t necessarily need to see the code while the others would.    "
+12257011411,,,,,,,,,,bokeh,,,,,,,,
+12256985168,,,,,,,,,,,,,,,,,,"Second level cell would be great: (Colored) Cells which do not get executed if you run all. I often have in-between analysis which I'd like to keep at the place after some cells, but it should not become part of the main run path."
+12256969098,,,,,,,,,,,,,,,,,,
+12256948980,,,,,,,,,,,ui for matplotlib (allowing to zoom) could be improved. ,,,,,,,
+12170737189,,,,,,,,,,,,,,,,,,
+12168903348,,,,,,,,,,,,,,,,,,
+12167682192,,,,,,,,,,Power BI,,,,,,,,
+12167373869,"Scheme, Octave, Hylang",,,,,,,,,Comet.ml,,,,,,,,Need more documentation for JupyterLab extension development.
+12167308953,,,,Remote Linux Server in a Private Cloud,,,,,,,,,,,,,,In jupytercon there was an extension demoed that showed one (visually) if the variable was updated what cells would need to be reran - (it used some color scheme of pills in the left margin) not sure if that should be in core - but it seemed like a nice enhancement. (when helping others use jupyter I often remind them to restart and run all - while this is great advice it would be nice for this visual to reinforce that reality)
+12137417423,,,,,,,,,,,,,,,,,,
+12127617826,,,,,,,,,,grafana,,,,,,,,

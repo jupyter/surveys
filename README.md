@@ -24,6 +24,7 @@ Materials for and results from Jupyter user surveys.
 - [May, 2016 Jupyter in Education results](surveys/2016-05-education-survey)
 - [December, 2015 Notebook UX survey results](surveys/2015-12-notebook-ux)
 - [August, 2018 JupyterLab UX testing results](surveys/2018-09-jupytercon-2018)
+- [December, 2020 Jupyter survey](surveys/2020-12-jupyter-survey)
 
 IPython user surveys
 ====================

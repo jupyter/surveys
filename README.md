@@ -25,6 +25,7 @@ Materials for and results from Jupyter user surveys.
 - [December, 2015 Notebook UX survey results](surveys/2015-12-notebook-ux)
 - [August, 2018 JupyterLab UX testing results](surveys/2018-09-jupytercon-2018)
 - [December, 2020 Jupyter survey](surveys/2020-12-jupyter-survey)
+- [August, 2022 Notebooks For All accessibility usability testing](surveys/2022-08-notebooks-for-all/)
 
 IPython user surveys
 ====================

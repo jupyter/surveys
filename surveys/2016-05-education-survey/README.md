@@ -1,3 +1,7 @@
+---
+date: 2016-04-22
+---
+
 # 2016 Jupyter Education Survey
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.51701.svg)](https://doi.org/10.5281/zenodo.51701)

@@ -1,3 +1,7 @@
+---
+date: 2018-08-21
+---
+
 # JupyterLab UX Survey
 
 This folder contains user-testing data collected at JupyterCon 2018 (August 2018) by Cal Poly Interns and Tim George (@tgeorgeux).

@@ -16,6 +16,16 @@ directory. In that directory, please create a new `README.md` file with a short 
 
 You may also wish to provide information about how to cite the dataset, such as a DOI. If you do not have a DOI, you can obtain one by uploading the dataset to a service such as [Zenodo](http://zenodo.org/).
 
+## Build the documentation
+
+The documentation site in `docs/` is built with [MyST](https://mystmd.org) and deployed to GitHub Pages automatically on merge to `master`.
+To build it locally, install [nox](https://nox.thea.codes) and run:
+
+```bash
+nox -s docs       # build static HTML in docs/_build/html
+nox -s docs-live  # start a live-reloading dev server
+```
+
 Jupyter user surveys
 ====================
 

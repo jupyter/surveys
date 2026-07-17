@@ -1,3 +1,7 @@
+---
+date: 2020-12-01
+---
+
 # 2020 Jupyter Survey
 
 This folder contains data from the 2020 Jupyter Survey lead by Layne Sadler (@layne-sadler). It includes:

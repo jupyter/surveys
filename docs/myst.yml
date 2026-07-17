@@ -18,6 +18,7 @@ project:
 site:
   template: book-theme
   options:
+    analytics_plausible: jupyter.org
     logo_text: Jupyter Surveys
     logo: images/logo.svg
     logo_dark: images/logo-dark.svg

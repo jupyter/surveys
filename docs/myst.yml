@@ -1,0 +1,25 @@
+version: 1
+project:
+  title: Jupyter Surveys
+  description: Datasets and surveys collected by Project Jupyter and IPython.
+  keywords:
+    - Jupyter
+    - IPython
+    - surveys
+  github: https://github.com/jupyter/surveys
+  plugins:
+    # Listing directive, used to list the surveys in this repository
+    - https://github.com/myst-contrib/myst-listing/releases/latest/download/plugin.mjs
+  toc:
+    - file: index.md
+    - title: Surveys
+      children:
+        - pattern: surveys/**/README.md
+site:
+  template: book-theme
+  options:
+    analytics_plausible: jupyter.org
+    logo_text: Jupyter Surveys
+    logo: images/logo.svg
+    logo_dark: images/logo-dark.svg
+    favicon: images/favicon.ico

@@ -1,3 +1,7 @@
+---
+date: 2023-05-01
+---
+
 # JupyterLab Accessibility Overview
 
 This folder links to results from the May 2023 accessibility-focused usability study on JupyterLab 3.6.1 (hosted via JupyterHub). This includes:

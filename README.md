@@ -16,16 +16,21 @@ directory. In that directory, please create a new `README.md` file with a short 
 
 You may also wish to provide information about how to cite the dataset, such as a DOI. If you do not have a DOI, you can obtain one by uploading the dataset to a service such as [Zenodo](http://zenodo.org/).
 
+## Build the documentation
+
+The documentation site in `docs/` is built with [MyST](https://mystmd.org) and deployed to GitHub Pages automatically on merge to `master`.
+To build it locally, install [nox](https://nox.thea.codes) and run:
+
+```bash
+nox -s docs       # build static HTML in docs/_build/html
+nox -s docs-live  # start a live-reloading dev server
+```
+
 Jupyter user surveys
 ====================
 
-Materials for and results from Jupyter user surveys.
-
-- [May, 2016 Jupyter in Education results](surveys/2016-05-education-survey)
-- [December, 2015 Notebook UX survey results](surveys/2015-12-notebook-ux)
-- [August, 2018 JupyterLab UX testing results](surveys/2018-09-jupytercon-2018)
-- [December, 2020 Jupyter survey](surveys/2020-12-jupyter-survey)
-- [August, 2022 Notebooks For All accessibility usability testing](surveys/2022-08-notebooks-for-all/)
+Materials for and results from Jupyter user surveys are in the [`surveys/`](surveys/) folder.
+See [jupyter.github.io/surveys](https://jupyter.github.io/surveys) for a browseable list.
 
 IPython user surveys
 ====================

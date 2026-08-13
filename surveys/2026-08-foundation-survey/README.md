@@ -41,7 +41,7 @@ The responses concentrate in three sub-problems:
 2. Environment and kernel registration accounts for 13  
 3. Reproducing an environment on a second machine for 4\.
 
-What connects them is that the failures arrive early and are hard to diagnose from the error message alone. For example: an installation completes but the jupyter command cannot be found; packages install into one environment while the notebook runs a kernel from another; a course needs the same environment on thirty machines that nobody administers centrally. Each of these has a known cause, and in many cases, a known fix, but users struggle to find the right solution to these problems.
+What connects them is that the failures arrive early and are hard to diagnose from the error message alone. For example: an installation completes but the `jupyter` command cannot be found; packages install into one environment while the notebook runs a kernel from another; a course needs the same environment on thirty machines that nobody administers centrally. Each of these has a known cause, and in many cases, a known fix, but users struggle to find the right solution to these problems.
 
 We welcome submissions in our [Call for Proposals](https://jupyterfoundation.org/community-funding-proposals/submit-a-proposal/) to improve upon these pain points\! We’ve also sourced a few recommended tools within Jupyter and from third-parties that partially address these challenges, and list them below for readers that want to learn more.
 
@@ -51,9 +51,9 @@ Tools that partially address this problem…
 
 * [**JupyterLab Desktop**](https://github.com/jupyterlab/jupyterlab-desktop) bundles Python and JupyterLab in a single installer and removes most first-run failures. [v4.6.2](https://github.com/jupyterlab/jupyterlab-desktop/releases/tag/v4.6.2-1) was released recently.  
 * [**JupyterLite**](https://jupyterlite.readthedocs.io/) and [**Binder**](https://mybinder.org/) avoid per-machine installation entirely, which is often the right answer for teaching.  
-* python \-m jupyter lab works when a pip install succeeds but the entry point is not on your PATH. This is a common cause of "command not found" straight after a successful install.  
+* `python -m jupyter lab` works when a `pip install` succeeds but the entry point is not on your PATH. This is a common cause of "command not found" straight after a successful install.
 * [**repo2docker**](https://github.com/jupyterhub/repo2docker) fetches a git repository and builds a container image based on the configuration \- useful for creating reproducible images for use with Binder or JupyterHub  
-* %pip install and %conda install run inside a notebook and install into the environment the running kernel is actually using, which is usually what goes wrong when installing from a terminal
+* `%pip install` and `%conda install` run inside a notebook and install into the environment the running kernel is actually using, which is usually what goes wrong when installing from a terminal
 
 **From third-parties:**
 
@@ -92,7 +92,7 @@ Tools that partially address this problem…
 
 **From Project Jupyter:**
 
-* [**nbdime**](https://nbdime.readthedocs.io/) provides content-aware diff and merge that understands cells and outputs. Running nbdime config-git \--enable \--global once makes git diff on a notebook readable.  
+* [**nbdime**](https://nbdime.readthedocs.io/) provides content-aware diff and merge that understands cells and outputs. Running `nbdime config-git --enable --global` once makes `git diff` on a notebook readable.
 * [**jupyterlab-git**](https://github.com/jupyterlab/jupyterlab-git) brings Git operations into the JupyterLab interface and uses nbdime for diffs.  
 * [**jupyter-collaboration**](https://github.com/jupyterlab/jupyter-collaboration/) brings real time collaboration; it allows several people to edit the same notebook simultaneously and time-travel to older versions.
 
@@ -162,11 +162,11 @@ Over the past twelve months the Foundation has facilitated several rounds of [AI
 | Deployment and multi-user operations | 12 | [The Littlest JupyterHub](https://tljh.jupyter.org/) for single-server teaching and [Zero to JupyterHub](https://z2jh.jupyter.org/) on Kubernetes. [batchspawner](https://github.com/jupyterhub/batchspawner) for Slurm and HPC, [systemdspawner](https://github.com/jupyterhub/systemdspawner) for resource limits and sandboxing. Third-party: [jupyterhub-usage-quotas](https://github.com/2i2c-org/jupyterhub-usage-quotas) and [jupyterhub-cost-monitoring](https://github.com/2i2c-org/jupyterhub-cost-monitoring). |
 | Security, authentication and compliance (including accessibility) | 6 | [JupyterHub authenticators](https://jupyterhub.readthedocs.io/en/stable/reference/authenticators.html) cover most institutional identity providers, and Zero to JupyterHub documents TLS and network configuration. [jupyterlab-a11y-checker](https://github.com/berkeley-cdss/jupyterlab-a11y-checker) is a UC Berkeley CDSS extension for assisting authors of extensions. New versions of Jupyter software include notable accessibility improvements: [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/getting_started/changelog.html#keyboard-navigation-and-accessibility), [myst-theme](https://jupyterbook.org/blog/posts/2026/accessibility-improvements) |
 | Teaching and grading | 8 | [nbgrader](https://nbgrader.readthedocs.io/) for assignment distribution and autograding, usually alongside JupyterHub. |
-| Execution model and cell state | 8 | In IPykernel %load\_ext autoreload  followed by %autoreload 2 gives hot reload while developing a package against a live kernel. Third-party [ipyflow](https://github.com/ipyflow/ipyflow) brings reactive execution to Jupyter interfaces. |
-| Publishing and export | 7 | jupyter nbconvert \--to webpdf produces PDFs without a LaTeX installation. [Jupyter Book](https://jupyterbook.org/) for longer documents and [Voilà](https://voila.readthedocs.io/) for dashboards. Third-party: [Quarto](https://quarto.org/). |
+| Execution model and cell state | 8 | In IPython `%load_ext autoreload` followed by `%autoreload 2` gives hot reload while developing a package against a live kernel. Third-party [ipyflow](https://github.com/ipyflow/ipyflow) brings reactive execution to Jupyter interfaces. |
+| Publishing and export | 7 | `jupyter nbconvert --to webpdf` produces PDFs without a LaTeX installation. [Jupyter Book](https://jupyterbook.org/) for longer documents and [Voilà](https://voila.readthedocs.io/) for dashboards. Third-party: [Quarto](https://quarto.org/). |
 | Mobile and tablet access | 3 | No good answer today. Recent work on lumino is addressing certain limitations. |
 | Non-Python kernels | 3 | Maturity varies by language. Specific bugs are best filed on the relevant kernel's issue tracker, where they can be followed up. |
-| Excel and spreadsheet interop | 3 | JupyterLab opens CSV and TSV files in a data grid without any extensionThird-party: [jupyterlab-spreadsheet-editor](https://github.com/jupyterlab-contrib/jupyterlab-spreadsheet-editor) makes CSV and TSV files editable in place, and [jupyterlab-spreadsheet](https://github.com/quigleyj97/jupyterlab-spreadsheet) opens Excel workbooks read-only.  |
+| Excel and spreadsheet interop | 3 | JupyterLab opens CSV and TSV files in a data grid without any extension. Third-party: [jupyterlab-spreadsheet-editor](https://github.com/jupyterlab-contrib/jupyterlab-spreadsheet-editor) makes CSV and TSV files editable in place, and [jupyterlab-spreadsheet](https://github.com/quigleyj97/jupyterlab-spreadsheet) opens Excel workbooks read-only.  |
 
 ---
 

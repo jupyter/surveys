@@ -1,0 +1,15 @@
+answer,respondents_selected,respondents_not_selected,pct_of_respondents
+IPython / ipykernel,328,214,60.5
+Jupyter notebook files (.ipynb),219,323,40.4
+Jupyter AI,148,394,27.3
+JupyterLab or Jupyter Notebook application,131,411,24.2
+Jupyter Server,89,453,16.4
+JupyterHub,88,454,16.2
+Binder/BinderHub,86,456,15.9
+ipywidgets,82,460,15.1
+Jupyter Book or MyST,73,469,13.5
+JupyterLite,50,492,9.2
+Nbconvert,46,496,8.5
+Voilà,32,510,5.9
+Nbgrader,27,515,5.0
+Other (please specify),22,520,4.1

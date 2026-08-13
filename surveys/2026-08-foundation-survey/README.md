@@ -65,7 +65,7 @@ Tools that partially address this problem…
   * [**pixi-kernel**](https://github.com/renan-r-santos/pixi-kernel) Per-directory Pixi environments with multi-language Jupyter kernels.  
 * notebook itself can include requirements  
   * [**juv**](https://github.com/manzt/juv) is CLI tool that encodes dependencies in the notebook using PEP 723 (inline script metadata) and creates ephemeral virtual environments for kernel execution  
-  * [**juvio**](http://github.com/OKUA1/juvio) also encodes dependencies in the notebook using PEP 723 but also includes bespoke integration with jupyter kernel spec manager and a JupyterLab extension  
+  * [**juvio**](https://github.com/OKUA1/juvio) also encodes dependencies in the notebook using PEP 723 but also includes bespoke integration with jupyter kernel spec manager and a JupyterLab extension
 * better integration with other environment management tools  
   * [**nb-conda-kernels**](https://github.com/anaconda/nb_conda_kernels) and [**nb-nebi-kernels**](https://github.com/nebari-dev/nb-nebi-kernels) provision kernel specs auto-discovered from all conda and nebi-tracked pixi environments respectively  
   * [**jupyterlab-launchpad**](https://github.com/nebari-dev/jupyterlab-launchpad) replaces the launcher with one that has first-class support for kernels discovered from conda and nebi-tracked pixi environments  
@@ -188,7 +188,7 @@ Here is some more information about the survey respondents and the kinds of tool
 
 ### The data, and how to read it
 
-An anonymized version of the dataset is available at [jupyter.org/surveys](http://jupyter.org/surveys) (repo here: [github.com/jupyter/surveys](https://github.com/jupyter/surveys)), together with the analysis notebook that produced every figure in this post, including its caveats and the checks that did not work.
+An anonymized version of the dataset is available at [jupyter.org/surveys](https://jupyter.org/surveys/) (repo here: [github.com/jupyter/surveys](https://github.com/jupyter/surveys)), together with the analysis notebook that produced every figure in this post, including its caveats and the checks that did not work.
 
 Analysing the questionnaire turned up several problems worth fixing before reusing the questions, and worth taking into account when re-analysing the data: a question that asked for a single primary answer while accepting several, a list that mixed applications with libraries and server components, and a question that asked two things at once.
 

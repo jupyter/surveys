@@ -86,7 +86,7 @@ Git diffing and merging accounts for 13 responses, real-time collaboration for 9
 
 The underlying cause is that the notebook format stores code, outputs and execution metadata in a single JSON document. Tools built to compare source line by line report changes that are technically accurate and hard to read: re-executing a cell without editing it can produce a large diff, and merges conflict on execution counts and output data rather than on anything a person wrote (which can be desirable when reproducibility is the primary goal, but less so when prioritizing iterative development). Reviewing a colleague's notebook therefore costs more than reviewing an equivalent script, which pushes teams either toward exporting notebooks to scripts before review, or toward skipping review.
 
-We welcome submissions in our [Call for Proposals](https://jupyterfoundation.org/community-funding-proposals/submit-a-proposal/) to improve upon these pain points\! We’ve also sourced a few recommended tools within Jupyter and from third-parties that partially address these challenges, and list them below for readers that want to learn more.
+We welcome submissions in our [Call for Proposals](https://jupyterfoundation.org/community-funding-proposals/submit-a-proposal/) to improve upon these pain points\! We’ve also sourced a few recommended tools within Jupyter and from third-party open-source that partially address these challenges, and list them below for readers that want to learn more.
 
 Tools that partially address this problem…
 

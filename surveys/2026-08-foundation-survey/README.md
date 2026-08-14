@@ -1,6 +1,6 @@
 # What you told us: results from the 2026 Jupyter User Experience and Product Enhancement Survey
 
-*Jupyter Foundation*
+_**This is the blog post text that was published alongiside the aggregate survey results shared in this folder. It describes the background as well as some analysis and context for how to interpret these results.**_
 
 From time to time, Jupyter runs [user surveys](https://github.com/jupyter/surveys/) to understand how our communities use Jupyter technology (or alternatives) and how they feel about it. We recently completed a user experience survey for 2026\. It was open between 29 May and 29 June 2026, with 542 people providing answers. This post covers what we found, what you can do today about the most common problems, and where we are looking for proposals.
 

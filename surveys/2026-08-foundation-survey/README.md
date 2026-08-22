@@ -1,10 +1,10 @@
 # What you told us: results from the 2026 Jupyter User Experience and Product Enhancement Survey
 
-_**This is the blog post text that was published alongiside the aggregate survey results shared in this folder. It describes the background as well as some analysis and context for how to interpret these results.**_
+_**This is the blog post text that was published in August 2026 alongside the aggregate survey results shared in this folder. It describes the background as well as some analysis and context for how to interpret these results.**_
 
-From time to time, Jupyter runs [user surveys](https://github.com/jupyter/surveys/) to understand how our communities use Jupyter technology (or alternatives) and how they feel about it. We recently completed a user experience survey for 2026\. It was open between 29 May and 29 June 2026, with 542 people providing answers. This post covers what we found, what you can do today about the most common problems, and where we are looking for proposals.
+From time to time, Jupyter runs [user surveys](https://github.com/jupyter/surveys/) to understand how our communities use Jupyter technology (or alternatives) and how they feel about it. We recently completed a user experience survey for 2026\. It was open between 29 May and 29 June 2026, with 542 people providing answers. This post covers what we found, what you can do in August 2026 about the most common problems, and where we are looking for proposals.
 
-Each of the areas below rose to the top of pain points that users consistently felt. **We would love to see applications in the [2026 Call for Proposals](https://jupyterfoundation.org/community-funding-proposals/submit-a-proposal/)** that address any of these areas by improving Jupyter technology. In some areas, there are already Jupyter tools (or third-party tools) that address some of the issues, and we list them as a guide to readers who want to learn more.
+Each of the areas below rose to the top of pain points that users consistently felt. **We would love to see applications in the [2026 Call for Proposals](https://jupyterfoundation.org/community-funding-proposals/submit-a-proposal/)** that address any of these areas by improving Jupyter technology. In some areas, there are already Jupyter or third-party open-source tools that address some of the issues, and we list them as a guide to readers who want to learn more.
 
 ***About the responses**: Three of the six questions were free text, and 246 people wrote something in at least one of them, some at considerable length. Writing several paragraphs about environment setup or version control at the end of a survey takes real time, and that detail shaped most of what follows. We want to extend our heartfelt appreciation to everyone who answered this survey, high-quality experience stories like this are crucial at shaping Jupyter’s priorities and technical direction.*
 
@@ -45,7 +45,7 @@ What connects them is that the failures arrive early and are hard to diagnose fr
 
 We welcome submissions in our [Call for Proposals](https://jupyterfoundation.org/community-funding-proposals/submit-a-proposal/) to improve upon these pain points\! We’ve also sourced a few recommended tools within Jupyter and from third-parties that partially address these challenges, and list them below for readers that want to learn more.
 
-Tools that partially address this problem…
+Open-source tools that partially address this problem…
 
 **From Project Jupyter:**
 
@@ -86,9 +86,9 @@ Git diffing and merging accounts for 13 responses, real-time collaboration for 9
 
 The underlying cause is that the notebook format stores code, outputs and execution metadata in a single JSON document. Tools built to compare source line by line report changes that are technically accurate and hard to read: re-executing a cell without editing it can produce a large diff, and merges conflict on execution counts and output data rather than on anything a person wrote (which can be desirable when reproducibility is the primary goal, but less so when prioritizing iterative development). Reviewing a colleague's notebook therefore costs more than reviewing an equivalent script, which pushes teams either toward exporting notebooks to scripts before review, or toward skipping review.
 
-We welcome submissions in our [Call for Proposals](https://jupyterfoundation.org/community-funding-proposals/submit-a-proposal/) to improve upon these pain points\! We’ve also sourced a few recommended tools within Jupyter and from third-party open-source that partially address these challenges, and list them below for readers that want to learn more.
+We welcome submissions in our [Call for Proposals](https://jupyterfoundation.org/community-funding-proposals/submit-a-proposal/) to improve upon these pain points\! We’ve also listed a few open-source tools from Project Jupyter and the third-party ecosystem that partially address these challenges.
 
-Tools that partially address this problem…
+Open-source tools that partially address this problem…
 
 **From Project Jupyter:**
 
@@ -113,7 +113,7 @@ Seventeen people wrote about the interface, and their requests are concrete rath
 
 We welcome submissions in our [Call for Proposals](https://jupyterfoundation.org/community-funding-proposals/submit-a-proposal/) to improve upon these pain points\! We’ve also sourced a few recommended tools within Jupyter and from third-parties that partially address these challenges (including a few JupyterLab plugins that directly solve the problem), and list them below for readers that want to learn more.
 
-Tools that partially address this problem…
+Open-source tools that partially address this problem…
 
 **From Project Jupyter:**
 
@@ -153,7 +153,9 @@ Over the past twelve months the Foundation has facilitated several rounds of [AI
 
 ---
 
-## Other themes, and what helps today
+## Other themes
+
+Here we list a few more themes that showed up in the survey responses along with some open-source tools that can help as of August 2026.
 
 | Theme | People | What might help today |
 | ----- | ----- | ----- |

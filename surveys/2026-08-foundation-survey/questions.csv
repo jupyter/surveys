@@ -1,0 +1,7 @@
+question_id,wording
+Q1,What do you mainly do with Jupyter?
+Q2,Which Jupyter products do you use?
+Q3,Approximately how often do you use Jupyter?
+Q4,What is blocking you from using/deploying Jupyter more?
+Q5,"We would like to hear more about the context in which you use or deploy Jupyter. What challenges do you have and why? (for example, what challenges do you have doing data science and why?)"
+Q6,"If you had a magic wand, what would you change or add to Jupyter and why?"

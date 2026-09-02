@@ -14,6 +14,8 @@ directory. In that directory, please create a new `README.md` file with a short 
 * Who collected the data
 * What the population was (if human data), where the code can be found (if simulated data), or other relevant information about the source of the data
 
+The folder name becomes the page URL on [jupyter.github.io/surveys](https://jupyter.github.io/surveys), so `surveys/2026-08-foundation-survey` is served at `/2026-08-foundation-survey`.
+
 You may also wish to provide information about how to cite the dataset, such as a DOI. If you do not have a DOI, you can obtain one by uploading the dataset to a service such as [Zenodo](http://zenodo.org/).
 
 ## Build the documentation
@@ -25,6 +27,8 @@ To build it locally, install [nox](https://nox.thea.codes) and run:
 nox -s docs       # build static HTML in docs/_build/html
 nox -s docs-live  # start a live-reloading dev server
 ```
+
+Both sessions first run `docs/build.py links`, which symlinks each survey folder into `docs/` and adds an `index.md` next to each `README.md`. Those symlinks are ignored by git and are what gives each page its URL. `nox -s docs` then runs `docs/build.py redirects`, which writes a redirect page for each URL the site served before the folder names were used.
 
 Jupyter user surveys
 ====================

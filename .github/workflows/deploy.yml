@@ -22,8 +22,14 @@ jobs:
           node-version: 20.x
       - name: Install MyST Markdown
         run: npm install -g mystmd
+      - name: Link the surveys into the site
+        run: python3 docs/build.py links
       - name: Build the site
         run: cd docs && myst build --html
+        env:
+          BASE_URL: /surveys
+      - name: Write redirects for the URLs the site used to serve
+        run: python3 docs/build.py redirects
         env:
           BASE_URL: /surveys
       - name: Upload artifact

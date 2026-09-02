@@ -109,3 +109,8 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json 
+
+# Symlinks written by docs/build.py, which give each survey a page URL taken
+# from its folder name
+/docs/[0-9]*
+/surveys/**/index.md

@@ -14,10 +14,11 @@ project:
     - file: index.md
     - title: Surveys
       children:
-        - pattern: surveys/**/README.md
+        - pattern: "*/**/index.md"
 site:
   template: book-theme
   options:
+    folders: true
     analytics_plausible: jupyter.org
     logo_text: Jupyter Surveys
     logo: images/logo.svg
